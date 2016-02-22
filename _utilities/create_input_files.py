@@ -3,6 +3,11 @@ __author__ = 'yi-linghwong'
 import sys
 import os
 
+#################
+# create one file per user for Gephi input
+# combine all tweets of that user into one paragraph
+#################
+
 
 lines = open('../input/space_tweets.csv','r').readlines()
 #lines = open('test.txt','r').readlines()
