@@ -1,0 +1,3150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Weighted Degree" attr.type="double" for="node" id="weighted degree"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+<key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+<key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+<key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+<graph edgedefault="undirected">
+<node id="NASA_Technology">
+<data key="label">NASA_Technology</data>
+<data key="weighted degree">100.01000127196312</data>
+<data key="modularity_class">9</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001278</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">-318.57474</data>
+<data key="y">-705.78845</data>
+</node>
+<node id="NASAVoyager">
+<data key="label">NASAVoyager</data>
+<data key="weighted degree">99.99000096321106</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">306.671</data>
+<data key="y">295.30597</data>
+</node>
+<node id="SKA_telescope">
+<data key="label">SKA_telescope</data>
+<data key="weighted degree">99.99999725818634</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">261.72372</data>
+<data key="y">-719.2391</data>
+</node>
+<node id="Topic_6">
+<data key="label">Topic_6</data>
+<data key="weighted degree">563.4499995708466</data>
+<data key="modularity_class">0</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">29.734724</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">226.34525</data>
+<data key="y">11.185775</data>
+</node>
+<node id="TheUniverse_TM">
+<data key="label">TheUniverse_TM</data>
+<data key="weighted degree">100.02000378072262</data>
+<data key="modularity_class">1</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001703</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">135.10493</data>
+<data key="y">766.59595</data>
+</node>
+<node id="NASAGoddard">
+<data key="label">NASAGoddard</data>
+<data key="weighted degree">100.01000034809113</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-408.68176</data>
+<data key="y">-130.88672</data>
+</node>
+<node id="Space_Station">
+<data key="label">Space_Station</data>
+<data key="weighted degree">99.99000172317028</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">778.53546</data>
+<data key="y">33.434196</data>
+</node>
+<node id="Topic_9">
+<data key="label">Topic_9</data>
+<data key="weighted degree">463.16000386700034</data>
+<data key="modularity_class">2</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">25.464338</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">58.531418</data>
+<data key="y">-53.946667</data>
+</node>
+<node id="ESA_CAVES">
+<data key="label">ESA_CAVES</data>
+<data key="weighted degree">100.00000071525574</data>
+<data key="modularity_class">6</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">353.43665</data>
+<data key="y">479.1244</data>
+</node>
+<node id="The_SolarSystem">
+<data key="label">The_SolarSystem</data>
+<data key="weighted degree">100.00000104308128</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-254.25107</data>
+<data key="y">730.14</data>
+</node>
+<node id="CassiniSaturn">
+<data key="label">CassiniSaturn</data>
+<data key="weighted degree">100.01000052690506</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-113.946175</data>
+<data key="y">414.67465</data>
+</node>
+<node id="HUBBLE_space">
+<data key="label">HUBBLE_space</data>
+<data key="weighted degree">99.99000135064125</data>
+<data key="modularity_class">1</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-65.22086</data>
+<data key="y">768.4264</data>
+</node>
+<node id="NASA_Astronauts">
+<data key="label">NASA_Astronauts</data>
+<data key="weighted degree">100.00999879837036</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">752.01495</data>
+<data key="y">-174.20186</data>
+</node>
+<node id="MarsRovers">
+<data key="label">MarsRovers</data>
+<data key="weighted degree">99.99000120162964</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-321.25397</data>
+<data key="y">-500.2985</data>
+</node>
+<node id="NASA">
+<data key="label">NASA</data>
+<data key="weighted degree">100.01999995112419</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001703</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-85.420425</data>
+<data key="y">-420.31665</data>
+</node>
+<node id="StarTalkRadio">
+<data key="label">StarTalkRadio</data>
+<data key="weighted degree">99.99000172317028</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-26.4955</data>
+<data key="y">586.6362</data>
+</node>
+<node id="SpaceTweeps">
+<data key="label">SpaceTweeps</data>
+<data key="weighted degree">100.00999826192856</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">450.18546</data>
+<data key="y">-641.2108</data>
+</node>
+<node id="nasahqphoto">
+<data key="label">nasahqphoto</data>
+<data key="weighted degree">99.98999930918217</data>
+<data key="modularity_class">9</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">-118.92128</data>
+<data key="y">-770.3668</data>
+</node>
+<node id="spacegovuk">
+<data key="label">spacegovuk</data>
+<data key="weighted degree">100.01000194251537</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001278</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">547.34644</data>
+<data key="y">-490.76422</data>
+</node>
+<node id="universetoday">
+<data key="label">universetoday</data>
+<data key="weighted degree">99.98999807238579</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-592.1282</data>
+<data key="y">42.46958</data>
+</node>
+<node id="NSFVoyager2">
+<data key="label">NSFVoyager2</data>
+<data key="weighted degree">99.99999752640724</data>
+<data key="modularity_class">3</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">77.118774</data>
+<data key="y">-767.9467</data>
+</node>
+<node id="esascience">
+<data key="label">esascience</data>
+<data key="weighted degree">100.00000008940697</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">77.11247</data>
+<data key="y">-580.5771</data>
+</node>
+<node id="NewHorizons2015">
+<data key="label">NewHorizons2015</data>
+<data key="weighted degree">100.01000061631203</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-283.40033</data>
+<data key="y">-317.59073</data>
+</node>
+<node id="astrobiology">
+<data key="label">astrobiology</data>
+<data key="weighted degree">99.99000327289104</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-761.3104</data>
+<data key="y">124.50946</data>
+</node>
+<node id="BadAstronomer">
+<data key="label">BadAstronomer</data>
+<data key="weighted degree">99.99000012874603</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-315.02194</data>
+<data key="y">311.1187</data>
+</node>
+<node id="NASAblueshift">
+<data key="label">NASAblueshift</data>
+<data key="weighted degree">100.00999820232391</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">602.43085</data>
+<data key="y">132.50569</data>
+</node>
+<node id="earthskyscience">
+<data key="label">earthskyscience</data>
+<data key="weighted degree">99.9900012910366</data>
+<data key="modularity_class">6</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">512.21893</data>
+<data key="y">578.63196</data>
+</node>
+<node id="Topic_3">
+<data key="label">Topic_3</data>
+<data key="weighted degree">126.4699974656105</data>
+<data key="modularity_class">3</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">11.127954</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-3.1044028</data>
+<data key="y">226.22362</data>
+</node>
+<node id="esaoperations">
+<data key="label">esaoperations</data>
+<data key="weighted degree">99.99000132083893</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000426</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">420.50385</data>
+<data key="y">104.23233</data>
+</node>
+<node id="Topic_5">
+<data key="label">MARS</data>
+<data key="weighted degree">1039.379994213581</data>
+<data key="modularity_class">4</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">50.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">182.38069</data>
+<data key="y">-171.32027</data>
+</node>
+<node id="Topic_1">
+<data key="label">GALAXIES</data>
+<data key="weighted degree">293.8800038397312</data>
+<data key="modularity_class">1</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">18.256334</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-51.162766</data>
+<data key="y">47.413906</data>
+</node>
+<node id="space">
+<data key="label">space</data>
+<data key="weighted degree">100.00999927520752</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-443.4499</data>
+<data key="y">641.58466</data>
+</node>
+<node id="ESA_Rosetta">
+<data key="label">ESA_Rosetta</data>
+<data key="weighted degree">100.01000061631203</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">410.14713</data>
+<data key="y">-125.054886</data>
+</node>
+<node id="Topic_0">
+<data key="label">SCIENCE_IS_COOL</data>
+<data key="weighted degree">864.1499953269958</data>
+<data key="modularity_class">5</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">42.53864</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">144.15683</data>
+<data key="y">153.8143</data>
+</node>
+<node id="esa">
+<data key="label">esa</data>
+<data key="weighted degree">100.01000171899796</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001278</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">354.86136</data>
+<data key="y">-339.14066</data>
+</node>
+<node id="Topic_4">
+<data key="label">Topic_4</data>
+<data key="weighted degree">203.96000234782696</data>
+<data key="modularity_class">6</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">14.427507</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-174.35416</data>
+<data key="y">162.17697</data>
+</node>
+<node id="N165Mars">
+<data key="label">N165Mars</data>
+<data key="weighted degree">99.99999713897705</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-416.81665</data>
+<data key="y">101.79908</data>
+</node>
+<node id="neiltyson">
+<data key="label">neiltyson</data>
+<data key="weighted degree">100.00999942421913</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">343.74008</data>
+<data key="y">697.6965</data>
+</node>
+<node id="Cmdr_Hadfield">
+<data key="label">Cmdr_Hadfield</data>
+<data key="weighted degree">100.00999853014946</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">119.57196</data>
+<data key="y">412.6346</data>
+</node>
+<node id="Astro_Jeremy">
+<data key="label">Astro_Jeremy</data>
+<data key="weighted degree">99.98999896645546</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">738.2078</data>
+<data key="y">254.13593</data>
+</node>
+<node id="SpaceSciencenew">
+<data key="label">SpaceSciencenew</data>
+<data key="weighted degree">99.99999874830246</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-529.60565</data>
+<data key="y">258.95767</data>
+</node>
+<node id="elakdawalla">
+<data key="label">elakdawalla</data>
+<data key="weighted degree">100.00999820232391</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-721.8499</data>
+<data key="y">-287.66245</data>
+</node>
+<node id="SpaceX">
+<data key="label">SpaceX</data>
+<data key="weighted degree">100.01000048220158</data>
+<data key="modularity_class">9</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">-136.16064</data>
+<data key="y">-590.9449</data>
+</node>
+<node id="RandomSpaceFact">
+<data key="label">RandomSpaceFact</data>
+<data key="weighted degree">99.9899976849556</data>
+<data key="modularity_class">8</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-707.4294</data>
+<data key="y">308.56702</data>
+</node>
+<node id="NASAKennedy">
+<data key="label">NASAKennedy</data>
+<data key="weighted degree">99.99999997019768</data>
+<data key="modularity_class">9</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">303.71545</data>
+<data key="y">-522.73926</data>
+</node>
+<node id="csa_asc">
+<data key="label">csa_asc</data>
+<data key="weighted degree">100.0000002682209</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">592.4788</data>
+<data key="y">-66.84084</data>
+</node>
+<node id="ChabotSpace">
+<data key="label">ChabotSpace</data>
+<data key="weighted degree">100.01000073552132</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">641.10547</data>
+<data key="y">432.72452</data>
+</node>
+<node id="Philae2014">
+<data key="label">Philae2014</data>
+<data key="weighted degree">100.01000076532364</data>
+<data key="modularity_class">2</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">148.42825</data>
+<data key="y">-405.8298</data>
+</node>
+<node id="NASAJPL">
+<data key="label">NASAJPL</data>
+<data key="weighted degree">100.01000122725964</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001278</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-488.65753</data>
+<data key="y">-595.2922</data>
+</node>
+<node id="MarsCuriosity">
+<data key="label">MarsCuriosity</data>
+<data key="weighted degree">99.98999592661858</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-477.53854</data>
+<data key="y">-341.4677</data>
+</node>
+<node id="SETIInstitute">
+<data key="label">SETIInstitute</data>
+<data key="weighted degree">100.01000013947487</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-772.2136</data>
+<data key="y">-79.0264</data>
+</node>
+<node id="NASAJuno">
+<data key="label">NASAJuno</data>
+<data key="weighted degree">100.00000178813934</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-621.9426</data>
+<data key="y">-457.8287</data>
+</node>
+<node id="SPACEdotcom">
+<data key="label">SPACEdotcom</data>
+<data key="weighted degree">100.00000123679638</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-430.46823</data>
+<data key="y">449.49792</data>
+</node>
+<node id="Alex_Parker">
+<data key="label">Alex_Parker</data>
+<data key="weighted degree">100.0</data>
+<data key="modularity_class">5</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">499.92795</data>
+<data key="y">314.76718</data>
+</node>
+<node id="coreyspowell">
+<data key="label">coreyspowell</data>
+<data key="weighted degree">99.99999818205833</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-247.11383</data>
+<data key="y">544.8906</data>
+</node>
+<node id="Topic_2">
+<data key="label">ASTROBIOLOGY</data>
+<data key="weighted degree">696.4800027608871</data>
+<data key="modularity_class">7</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">35.399193</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-225.81184</data>
+<data key="y">-13.108243</data>
+</node>
+<node id="Topic_7">
+<data key="label">Topic_7</data>
+<data key="weighted degree">564.0299949645996</data>
+<data key="modularity_class">8</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">29.75942</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-143.00432</data>
+<data key="y">-154.89684</data>
+</node>
+<node id="NASA_Johnson">
+<data key="label">NASA_Johnson</data>
+<data key="weighted degree">99.99999786540866</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">535.70197</data>
+<data key="y">-276.43478</data>
+</node>
+<node id="NASASocial">
+<data key="label">NASASocial</data>
+<data key="weighted degree">99.98999726772308</data>
+<data key="modularity_class">4</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000425</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-587.45624</data>
+<data key="y">-159.49203</data>
+</node>
+<node id="PlanetQuest">
+<data key="label">PlanetQuest</data>
+<data key="weighted degree">100.00999835133553</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.001277</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">180.63028</data>
+<data key="y">585.6909</data>
+</node>
+<node id="Topic_8">
+<data key="label">Topic_8</data>
+<data key="weighted degree">485.11000131070614</data>
+<data key="modularity_class">9</data>
+<data key="degree">53</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.8732394366197183</data>
+<data key="harmonicclosnesscentrality">0.9274193548387096</data>
+<data key="betweenesscentrality">137.79999999999984</data>
+<data key="size">26.39898</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">5.418511</data>
+<data key="y">-226.57037</data>
+</node>
+<node id="AstrobiologyNAI">
+<data key="label">AstrobiologyNAI</data>
+<data key="weighted degree">99.97999995946884</data>
+<data key="modularity_class">7</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.0</data>
+<data key="r">76</data>
+<data key="g">70</data>
+<data key="b">62</data>
+<data key="x">-610.3173</data>
+<data key="y">485.1976</data>
+</node>
+<node id="ISS_Research">
+<data key="label">ISS_Research</data>
+<data key="weighted degree">100.00000050663948</data>
+<data key="modularity_class">0</data>
+<data key="degree">10</data>
+<data key="eccentricity">2.0</data>
+<data key="closnesscentrality">0.543859649122807</data>
+<data key="harmonicclosnesscentrality">0.5806451612903226</data>
+<data key="betweenesscentrality">0.8490566037735848</data>
+<data key="size">10.000852</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">693.33185</data>
+<data key="y">-369.97952</data>
+</node>
+<edge source="NASA_Technology" target="Topic_9">
+<data key="edgeid">0</data>
+<data key="weight">0.6000000238418579</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_3">
+<data key="edgeid">1</data>
+<data key="weight">0.1899999976158142</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_5">
+<data key="edgeid">2</data>
+<data key="weight">10.859999656677246</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_6">
+<data key="edgeid">3</data>
+<data key="weight">4.880000114440918</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_4">
+<data key="edgeid">4</data>
+<data key="weight">0.7300000190734863</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_0">
+<data key="edgeid">5</data>
+<data key="weight">12.15999984741211</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_8">
+<data key="edgeid">6</data>
+<data key="weight">62.2400016784668</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_2">
+<data key="edgeid">7</data>
+<data key="weight">6.869999885559082</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_7">
+<data key="edgeid">8</data>
+<data key="weight">1.2100000381469727</data>
+</edge>
+<edge source="NASA_Technology" target="Topic_1">
+<data key="edgeid">9</data>
+<data key="weight">0.27000001072883606</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_3">
+<data key="edgeid">10</data>
+<data key="weight">2.049999952316284</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_5">
+<data key="edgeid">11</data>
+<data key="weight">45.040000915527344</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_9">
+<data key="edgeid">12</data>
+<data key="weight">4.570000171661377</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_4">
+<data key="edgeid">13</data>
+<data key="weight">1.5700000524520874</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_0">
+<data key="edgeid">14</data>
+<data key="weight">14.489999771118164</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_6">
+<data key="edgeid">15</data>
+<data key="weight">3.4600000381469727</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_8">
+<data key="edgeid">16</data>
+<data key="weight">2.8299999237060547</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_2">
+<data key="edgeid">17</data>
+<data key="weight">12.90999984741211</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_7">
+<data key="edgeid">18</data>
+<data key="weight">11.970000267028809</data>
+</edge>
+<edge source="NASAVoyager" target="Topic_1">
+<data key="edgeid">19</data>
+<data key="weight">1.100000023841858</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_3">
+<data key="edgeid">20</data>
+<data key="weight">0.3199999928474426</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_2">
+<data key="edgeid">21</data>
+<data key="weight">4.909999847412109</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_9">
+<data key="edgeid">22</data>
+<data key="weight">65.87999725341797</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_7">
+<data key="edgeid">23</data>
+<data key="weight">0.6700000166893005</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_0">
+<data key="edgeid">24</data>
+<data key="weight">14.380000114440918</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_6">
+<data key="edgeid">25</data>
+<data key="weight">4.519999980926514</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_8">
+<data key="edgeid">26</data>
+<data key="weight">3.490000009536743</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_5">
+<data key="edgeid">27</data>
+<data key="weight">3.9200000762939453</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_4">
+<data key="edgeid">28</data>
+<data key="weight">1.2699999809265137</data>
+</edge>
+<edge source="SKA_telescope" target="Topic_1">
+<data key="edgeid">29</data>
+<data key="weight">0.6399999856948853</data>
+</edge>
+<edge source="Topic_6" target="TheUniverse_TM">
+<data key="edgeid">30</data>
+<data key="weight">0.3199999928474426</data>
+</edge>
+<edge source="Topic_6" target="ESA_CAVES">
+<data key="edgeid">31</data>
+<data key="weight">7.090000152587891</data>
+</edge>
+<edge source="Topic_6" target="Space_Station">
+<data key="edgeid">32</data>
+<data key="weight">71.26000213623047</data>
+</edge>
+<edge source="Topic_6" target="NASAGoddard">
+<data key="edgeid">33</data>
+<data key="weight">4.449999809265137</data>
+</edge>
+<edge source="Topic_6" target="The_SolarSystem">
+<data key="edgeid">34</data>
+<data key="weight">4.639999866485596</data>
+</edge>
+<edge source="Topic_6" target="earthskyscience">
+<data key="edgeid">35</data>
+<data key="weight">1.350000023841858</data>
+</edge>
+<edge source="Topic_6" target="HUBBLE_space">
+<data key="edgeid">36</data>
+<data key="weight">0.8600000143051147</data>
+</edge>
+<edge source="Topic_6" target="NASA_Astronauts">
+<data key="edgeid">37</data>
+<data key="weight">43.189998626708984</data>
+</edge>
+<edge source="Topic_6" target="MarsRovers">
+<data key="edgeid">38</data>
+<data key="weight">1.440000057220459</data>
+</edge>
+<edge source="Topic_6" target="NASA">
+<data key="edgeid">39</data>
+<data key="weight">20.920000076293945</data>
+</edge>
+<edge source="Topic_6" target="StarTalkRadio">
+<data key="edgeid">40</data>
+<data key="weight">2.2699999809265137</data>
+</edge>
+<edge source="Topic_6" target="SpaceTweeps">
+<data key="edgeid">41</data>
+<data key="weight">2.4800000190734863</data>
+</edge>
+<edge source="Topic_6" target="nasahqphoto">
+<data key="edgeid">42</data>
+<data key="weight">7.599999904632568</data>
+</edge>
+<edge source="Topic_6" target="spacegovuk">
+<data key="edgeid">43</data>
+<data key="weight">27.030000686645508</data>
+</edge>
+<edge source="Topic_6" target="universetoday">
+<data key="edgeid">44</data>
+<data key="weight">1.7699999809265137</data>
+</edge>
+<edge source="Topic_6" target="NSFVoyager2">
+<data key="edgeid">45</data>
+<data key="weight">0.12999999523162842</data>
+</edge>
+<edge source="Topic_6" target="esascience">
+<data key="edgeid">46</data>
+<data key="weight">0.8100000023841858</data>
+</edge>
+<edge source="Topic_6" target="NewHorizons2015">
+<data key="edgeid">47</data>
+<data key="weight">1.3300000429153442</data>
+</edge>
+<edge source="Topic_6" target="astrobiology">
+<data key="edgeid">48</data>
+<data key="weight">0.5299999713897705</data>
+</edge>
+<edge source="Topic_6" target="BadAstronomer">
+<data key="edgeid">49</data>
+<data key="weight">3.049999952316284</data>
+</edge>
+<edge source="Topic_6" target="NASAblueshift">
+<data key="edgeid">50</data>
+<data key="weight">2.700000047683716</data>
+</edge>
+<edge source="Topic_6" target="esaoperations">
+<data key="edgeid">51</data>
+<data key="weight">17.100000381469727</data>
+</edge>
+<edge source="Topic_6" target="NASASocial">
+<data key="edgeid">52</data>
+<data key="weight">9.569999694824219</data>
+</edge>
+<edge source="Topic_6" target="ESA_Rosetta">
+<data key="edgeid">53</data>
+<data key="weight">0.36000001430511475</data>
+</edge>
+<edge source="Topic_6" target="CassiniSaturn">
+<data key="edgeid">54</data>
+<data key="weight">0.8999999761581421</data>
+</edge>
+<edge source="Topic_6" target="esa">
+<data key="edgeid">55</data>
+<data key="weight">16.81999969482422</data>
+</edge>
+<edge source="Topic_6" target="N165Mars">
+<data key="edgeid">56</data>
+<data key="weight">1.659999966621399</data>
+</edge>
+<edge source="Topic_6" target="neiltyson">
+<data key="edgeid">57</data>
+<data key="weight">1.5099999904632568</data>
+</edge>
+<edge source="Topic_6" target="Cmdr_Hadfield">
+<data key="edgeid">58</data>
+<data key="weight">15.670000076293945</data>
+</edge>
+<edge source="Topic_6" target="Astro_Jeremy">
+<data key="edgeid">59</data>
+<data key="weight">44.90999984741211</data>
+</edge>
+<edge source="Topic_6" target="SpaceSciencenew">
+<data key="edgeid">60</data>
+<data key="weight">1.9800000190734863</data>
+</edge>
+<edge source="Topic_6" target="MarsCuriosity">
+<data key="edgeid">61</data>
+<data key="weight">1.0499999523162842</data>
+</edge>
+<edge source="Topic_6" target="SpaceX">
+<data key="edgeid">62</data>
+<data key="weight">10.529999732971191</data>
+</edge>
+<edge source="Topic_6" target="NASAJPL">
+<data key="edgeid">63</data>
+<data key="weight">1.2699999809265137</data>
+</edge>
+<edge source="Topic_6" target="NASAKennedy">
+<data key="edgeid">64</data>
+<data key="weight">12.109999656677246</data>
+</edge>
+<edge source="Topic_6" target="csa_asc">
+<data key="edgeid">65</data>
+<data key="weight">54.810001373291016</data>
+</edge>
+<edge source="Topic_6" target="ChabotSpace">
+<data key="edgeid">66</data>
+<data key="weight">2.9200000762939453</data>
+</edge>
+<edge source="Topic_6" target="Philae2014">
+<data key="edgeid">67</data>
+<data key="weight">1.9600000381469727</data>
+</edge>
+<edge source="Topic_6" target="elakdawalla">
+<data key="edgeid">68</data>
+<data key="weight">1.340000033378601</data>
+</edge>
+<edge source="Topic_6" target="RandomSpaceFact">
+<data key="edgeid">69</data>
+<data key="weight">3.7699999809265137</data>
+</edge>
+<edge source="Topic_6" target="SETIInstitute">
+<data key="edgeid">70</data>
+<data key="weight">1.9299999475479126</data>
+</edge>
+<edge source="Topic_6" target="NASAJuno">
+<data key="edgeid">71</data>
+<data key="weight">1.6100000143051147</data>
+</edge>
+<edge source="Topic_6" target="SPACEdotcom">
+<data key="edgeid">72</data>
+<data key="weight">5.670000076293945</data>
+</edge>
+<edge source="Topic_6" target="Alex_Parker">
+<data key="edgeid">73</data>
+<data key="weight">2.049999952316284</data>
+</edge>
+<edge source="Topic_6" target="coreyspowell">
+<data key="edgeid">74</data>
+<data key="weight">2.0899999141693115</data>
+</edge>
+<edge source="Topic_6" target="NASA_Johnson">
+<data key="edgeid">75</data>
+<data key="weight">65.12999725341797</data>
+</edge>
+<edge source="Topic_6" target="space">
+<data key="edgeid">76</data>
+<data key="weight">2.7899999618530273</data>
+</edge>
+<edge source="Topic_6" target="PlanetQuest">
+<data key="edgeid">77</data>
+<data key="weight">1.1299999952316284</data>
+</edge>
+<edge source="Topic_6" target="AstrobiologyNAI">
+<data key="edgeid">78</data>
+<data key="weight">1.2100000381469727</data>
+</edge>
+<edge source="Topic_6" target="ISS_Research">
+<data key="edgeid">79</data>
+<data key="weight">61.52000045776367</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_3">
+<data key="edgeid">80</data>
+<data key="weight">0.18000000715255737</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_2">
+<data key="edgeid">81</data>
+<data key="weight">2.549999952316284</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_7">
+<data key="edgeid">82</data>
+<data key="weight">3.6500000953674316</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_9">
+<data key="edgeid">83</data>
+<data key="weight">0.17000000178813934</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_0">
+<data key="edgeid">84</data>
+<data key="weight">1.4500000476837158</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_8">
+<data key="edgeid">85</data>
+<data key="weight">0.7799999713897705</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_5">
+<data key="edgeid">86</data>
+<data key="weight">0.8199999928474426</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_4">
+<data key="edgeid">87</data>
+<data key="weight">1.690000057220459</data>
+</edge>
+<edge source="TheUniverse_TM" target="Topic_1">
+<data key="edgeid">88</data>
+<data key="weight">88.41000366210938</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_3">
+<data key="edgeid">89</data>
+<data key="weight">0.6200000047683716</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_9">
+<data key="edgeid">90</data>
+<data key="weight">0.3799999952316284</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_5">
+<data key="edgeid">91</data>
+<data key="weight">34.810001373291016</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_4">
+<data key="edgeid">92</data>
+<data key="weight">1.5800000429153442</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_0">
+<data key="edgeid">93</data>
+<data key="weight">16.729999542236328</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_8">
+<data key="edgeid">94</data>
+<data key="weight">16.15999984741211</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_2">
+<data key="edgeid">95</data>
+<data key="weight">12.869999885559082</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_7">
+<data key="edgeid">96</data>
+<data key="weight">3.5799999237060547</data>
+</edge>
+<edge source="NASAGoddard" target="Topic_1">
+<data key="edgeid">97</data>
+<data key="weight">8.829999923706055</data>
+</edge>
+<edge source="Space_Station" target="Topic_9">
+<data key="edgeid">98</data>
+<data key="weight">0.49000000953674316</data>
+</edge>
+<edge source="Space_Station" target="Topic_3">
+<data key="edgeid">99</data>
+<data key="weight">0.3199999928474426</data>
+</edge>
+<edge source="Space_Station" target="Topic_5">
+<data key="edgeid">100</data>
+<data key="weight">14.109999656677246</data>
+</edge>
+<edge source="Space_Station" target="Topic_8">
+<data key="edgeid">101</data>
+<data key="weight">7.119999885559082</data>
+</edge>
+<edge source="Space_Station" target="Topic_4">
+<data key="edgeid">102</data>
+<data key="weight">0.550000011920929</data>
+</edge>
+<edge source="Space_Station" target="Topic_0">
+<data key="edgeid">103</data>
+<data key="weight">4.690000057220459</data>
+</edge>
+<edge source="Space_Station" target="Topic_2">
+<data key="edgeid">104</data>
+<data key="weight">0.6399999856948853</data>
+</edge>
+<edge source="Space_Station" target="Topic_7">
+<data key="edgeid">105</data>
+<data key="weight">0.5699999928474426</data>
+</edge>
+<edge source="Space_Station" target="Topic_1">
+<data key="edgeid">106</data>
+<data key="weight">0.23999999463558197</data>
+</edge>
+<edge source="Topic_9" target="ESA_CAVES">
+<data key="edgeid">107</data>
+<data key="weight">6.920000076293945</data>
+</edge>
+<edge source="Topic_9" target="The_SolarSystem">
+<data key="edgeid">108</data>
+<data key="weight">0.41999998688697815</data>
+</edge>
+<edge source="Topic_9" target="earthskyscience">
+<data key="edgeid">109</data>
+<data key="weight">0.12999999523162842</data>
+</edge>
+<edge source="Topic_9" target="HUBBLE_space">
+<data key="edgeid">110</data>
+<data key="weight">4.340000152587891</data>
+</edge>
+<edge source="Topic_9" target="NASA_Astronauts">
+<data key="edgeid">111</data>
+<data key="weight">2.5199999809265137</data>
+</edge>
+<edge source="Topic_9" target="MarsRovers">
+<data key="edgeid">112</data>
+<data key="weight">0.7400000095367432</data>
+</edge>
+<edge source="Topic_9" target="NASA">
+<data key="edgeid">113</data>
+<data key="weight">0.2800000011920929</data>
+</edge>
+<edge source="Topic_9" target="StarTalkRadio">
+<data key="edgeid">114</data>
+<data key="weight">1.25</data>
+</edge>
+<edge source="Topic_9" target="SpaceTweeps">
+<data key="edgeid">115</data>
+<data key="weight">59.91999816894531</data>
+</edge>
+<edge source="Topic_9" target="nasahqphoto">
+<data key="edgeid">116</data>
+<data key="weight">0.30000001192092896</data>
+</edge>
+<edge source="Topic_9" target="spacegovuk">
+<data key="edgeid">117</data>
+<data key="weight">38.4900016784668</data>
+</edge>
+<edge source="Topic_9" target="universetoday">
+<data key="edgeid">118</data>
+<data key="weight">1.2999999523162842</data>
+</edge>
+<edge source="Topic_9" target="NSFVoyager2">
+<data key="edgeid">119</data>
+<data key="weight">0.12999999523162842</data>
+</edge>
+<edge source="Topic_9" target="esascience">
+<data key="edgeid">120</data>
+<data key="weight">37.290000915527344</data>
+</edge>
+<edge source="Topic_9" target="NewHorizons2015">
+<data key="edgeid">121</data>
+<data key="weight">1.3300000429153442</data>
+</edge>
+<edge source="Topic_9" target="astrobiology">
+<data key="edgeid">122</data>
+<data key="weight">0.9300000071525574</data>
+</edge>
+<edge source="Topic_9" target="BadAstronomer">
+<data key="edgeid">123</data>
+<data key="weight">1.090000033378601</data>
+</edge>
+<edge source="Topic_9" target="NASAblueshift">
+<data key="edgeid">124</data>
+<data key="weight">3.1600000858306885</data>
+</edge>
+<edge source="Topic_9" target="esaoperations">
+<data key="edgeid">125</data>
+<data key="weight">52.4900016784668</data>
+</edge>
+<edge source="Topic_9" target="NASASocial">
+<data key="edgeid">126</data>
+<data key="weight">1.100000023841858</data>
+</edge>
+<edge source="Topic_9" target="ESA_Rosetta">
+<data key="edgeid">127</data>
+<data key="weight">53.70000076293945</data>
+</edge>
+<edge source="Topic_9" target="CassiniSaturn">
+<data key="edgeid">128</data>
+<data key="weight">1.850000023841858</data>
+</edge>
+<edge source="Topic_9" target="esa">
+<data key="edgeid">129</data>
+<data key="weight">51.7400016784668</data>
+</edge>
+<edge source="Topic_9" target="N165Mars">
+<data key="edgeid">130</data>
+<data key="weight">0.7900000214576721</data>
+</edge>
+<edge source="Topic_9" target="neiltyson">
+<data key="edgeid">131</data>
+<data key="weight">0.33000001311302185</data>
+</edge>
+<edge source="Topic_9" target="Cmdr_Hadfield">
+<data key="edgeid">132</data>
+<data key="weight">0.550000011920929</data>
+</edge>
+<edge source="Topic_9" target="Astro_Jeremy">
+<data key="edgeid">133</data>
+<data key="weight">0.6100000143051147</data>
+</edge>
+<edge source="Topic_9" target="SpaceSciencenew">
+<data key="edgeid">134</data>
+<data key="weight">0.36000001430511475</data>
+</edge>
+<edge source="Topic_9" target="MarsCuriosity">
+<data key="edgeid">135</data>
+<data key="weight">1.1799999475479126</data>
+</edge>
+<edge source="Topic_9" target="SpaceX">
+<data key="edgeid">136</data>
+<data key="weight">0.3400000035762787</data>
+</edge>
+<edge source="Topic_9" target="NASAJPL">
+<data key="edgeid">137</data>
+<data key="weight">1.1100000143051147</data>
+</edge>
+<edge source="Topic_9" target="NASAKennedy">
+<data key="edgeid">138</data>
+<data key="weight">0.7799999713897705</data>
+</edge>
+<edge source="Topic_9" target="csa_asc">
+<data key="edgeid">139</data>
+<data key="weight">2.809999942779541</data>
+</edge>
+<edge source="Topic_9" target="ChabotSpace">
+<data key="edgeid">140</data>
+<data key="weight">0.28999999165534973</data>
+</edge>
+<edge source="Topic_9" target="Philae2014">
+<data key="edgeid">141</data>
+<data key="weight">44.310001373291016</data>
+</edge>
+<edge source="Topic_9" target="elakdawalla">
+<data key="edgeid">142</data>
+<data key="weight">3.5399999618530273</data>
+</edge>
+<edge source="Topic_9" target="RandomSpaceFact">
+<data key="edgeid">143</data>
+<data key="weight">2.0399999618530273</data>
+</edge>
+<edge source="Topic_9" target="SETIInstitute">
+<data key="edgeid">144</data>
+<data key="weight">1.0199999809265137</data>
+</edge>
+<edge source="Topic_9" target="NASAJuno">
+<data key="edgeid">145</data>
+<data key="weight">2.7899999618530273</data>
+</edge>
+<edge source="Topic_9" target="SPACEdotcom">
+<data key="edgeid">146</data>
+<data key="weight">0.10999999940395355</data>
+</edge>
+<edge source="Topic_9" target="Alex_Parker">
+<data key="edgeid">147</data>
+<data key="weight">1.9800000190734863</data>
+</edge>
+<edge source="Topic_9" target="coreyspowell">
+<data key="edgeid">148</data>
+<data key="weight">1.0299999713897705</data>
+</edge>
+<edge source="Topic_9" target="NASA_Johnson">
+<data key="edgeid">149</data>
+<data key="weight">0.05999999865889549</data>
+</edge>
+<edge source="Topic_9" target="space">
+<data key="edgeid">150</data>
+<data key="weight">1.0299999713897705</data>
+</edge>
+<edge source="Topic_9" target="PlanetQuest">
+<data key="edgeid">151</data>
+<data key="weight">0.28999999165534973</data>
+</edge>
+<edge source="Topic_9" target="AstrobiologyNAI">
+<data key="edgeid">152</data>
+<data key="weight">1.590000033378601</data>
+</edge>
+<edge source="Topic_9" target="ISS_Research">
+<data key="edgeid">153</data>
+<data key="weight">0.7099999785423279</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_3">
+<data key="edgeid">154</data>
+<data key="weight">0.3700000047683716</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_2">
+<data key="edgeid">155</data>
+<data key="weight">8.850000381469727</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_7">
+<data key="edgeid">156</data>
+<data key="weight">1.600000023841858</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_0">
+<data key="edgeid">157</data>
+<data key="weight">14.859999656677246</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_8">
+<data key="edgeid">158</data>
+<data key="weight">1.440000057220459</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_5">
+<data key="edgeid">159</data>
+<data key="weight">6.989999771118164</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_4">
+<data key="edgeid">160</data>
+<data key="weight">51.11000061035156</data>
+</edge>
+<edge source="ESA_CAVES" target="Topic_1">
+<data key="edgeid">161</data>
+<data key="weight">0.7699999809265137</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_3">
+<data key="edgeid">162</data>
+<data key="weight">0.30000001192092896</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_2">
+<data key="edgeid">163</data>
+<data key="weight">50.720001220703125</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_7">
+<data key="edgeid">164</data>
+<data key="weight">15.079999923706055</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_0">
+<data key="edgeid">165</data>
+<data key="weight">3.7899999618530273</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_8">
+<data key="edgeid">166</data>
+<data key="weight">5.539999961853027</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_5">
+<data key="edgeid">167</data>
+<data key="weight">6.650000095367432</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_4">
+<data key="edgeid">168</data>
+<data key="weight">1.1100000143051147</data>
+</edge>
+<edge source="The_SolarSystem" target="Topic_1">
+<data key="edgeid">169</data>
+<data key="weight">11.75</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_3">
+<data key="edgeid">170</data>
+<data key="weight">0.5699999928474426</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_5">
+<data key="edgeid">171</data>
+<data key="weight">26.790000915527344</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_7">
+<data key="edgeid">172</data>
+<data key="weight">51.63999938964844</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_0">
+<data key="edgeid">173</data>
+<data key="weight">10.050000190734863</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_8">
+<data key="edgeid">174</data>
+<data key="weight">1.2400000095367432</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_2">
+<data key="edgeid">175</data>
+<data key="weight">3.680000066757202</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_4">
+<data key="edgeid">176</data>
+<data key="weight">0.9800000190734863</data>
+</edge>
+<edge source="CassiniSaturn" target="Topic_1">
+<data key="edgeid">177</data>
+<data key="weight">2.309999942779541</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_3">
+<data key="edgeid">178</data>
+<data key="weight">0.2199999988079071</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_2">
+<data key="edgeid">179</data>
+<data key="weight">9.710000038146973</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_4">
+<data key="edgeid">180</data>
+<data key="weight">1.6399999856948853</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_0">
+<data key="edgeid">181</data>
+<data key="weight">9.760000228881836</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_8">
+<data key="edgeid">182</data>
+<data key="weight">0.699999988079071</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_5">
+<data key="edgeid">183</data>
+<data key="weight">5.559999942779541</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_7">
+<data key="edgeid">184</data>
+<data key="weight">2.4100000858306885</data>
+</edge>
+<edge source="HUBBLE_space" target="Topic_1">
+<data key="edgeid">185</data>
+<data key="weight">64.79000091552734</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_3">
+<data key="edgeid">186</data>
+<data key="weight">1.8899999856948853</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_5">
+<data key="edgeid">187</data>
+<data key="weight">11.109999656677246</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_8">
+<data key="edgeid">188</data>
+<data key="weight">9.430000305175781</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_7">
+<data key="edgeid">189</data>
+<data key="weight">1.8899999856948853</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_0">
+<data key="edgeid">190</data>
+<data key="weight">20.34000015258789</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_2">
+<data key="edgeid">191</data>
+<data key="weight">1.2599999904632568</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_4">
+<data key="edgeid">192</data>
+<data key="weight">4.820000171661377</data>
+</edge>
+<edge source="NASA_Astronauts" target="Topic_1">
+<data key="edgeid">193</data>
+<data key="weight">3.559999942779541</data>
+</edge>
+<edge source="MarsRovers" target="Topic_3">
+<data key="edgeid">194</data>
+<data key="weight">0.699999988079071</data>
+</edge>
+<edge source="MarsRovers" target="Topic_5">
+<data key="edgeid">195</data>
+<data key="weight">73.04000091552734</data>
+</edge>
+<edge source="MarsRovers" target="Topic_7">
+<data key="edgeid">196</data>
+<data key="weight">3.4100000858306885</data>
+</edge>
+<edge source="MarsRovers" target="Topic_0">
+<data key="edgeid">197</data>
+<data key="weight">14.210000038146973</data>
+</edge>
+<edge source="MarsRovers" target="Topic_8">
+<data key="edgeid">198</data>
+<data key="weight">1.340000033378601</data>
+</edge>
+<edge source="MarsRovers" target="Topic_2">
+<data key="edgeid">199</data>
+<data key="weight">2.9800000190734863</data>
+</edge>
+<edge source="MarsRovers" target="Topic_4">
+<data key="edgeid">200</data>
+<data key="weight">1.340000033378601</data>
+</edge>
+<edge source="MarsRovers" target="Topic_1">
+<data key="edgeid">201</data>
+<data key="weight">0.7900000214576721</data>
+</edge>
+<edge source="NASA" target="Topic_3">
+<data key="edgeid">202</data>
+<data key="weight">0.75</data>
+</edge>
+<edge source="NASA" target="Topic_5">
+<data key="edgeid">203</data>
+<data key="weight">41.81999969482422</data>
+</edge>
+<edge source="NASA" target="Topic_7">
+<data key="edgeid">204</data>
+<data key="weight">7.28000020980835</data>
+</edge>
+<edge source="NASA" target="Topic_0">
+<data key="edgeid">205</data>
+<data key="weight">4.230000019073486</data>
+</edge>
+<edge source="NASA" target="Topic_8">
+<data key="edgeid">206</data>
+<data key="weight">11.59000015258789</data>
+</edge>
+<edge source="NASA" target="Topic_2">
+<data key="edgeid">207</data>
+<data key="weight">10.119999885559082</data>
+</edge>
+<edge source="NASA" target="Topic_4">
+<data key="edgeid">208</data>
+<data key="weight">0.1899999976158142</data>
+</edge>
+<edge source="NASA" target="Topic_1">
+<data key="edgeid">209</data>
+<data key="weight">2.8399999141693115</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_3">
+<data key="edgeid">210</data>
+<data key="weight">0.17000000178813934</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_5">
+<data key="edgeid">211</data>
+<data key="weight">10.600000381469727</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_7">
+<data key="edgeid">212</data>
+<data key="weight">8.140000343322754</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_0">
+<data key="edgeid">213</data>
+<data key="weight">58.11000061035156</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_8">
+<data key="edgeid">214</data>
+<data key="weight">3.9200000762939453</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_2">
+<data key="edgeid">215</data>
+<data key="weight">10.180000305175781</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_4">
+<data key="edgeid">216</data>
+<data key="weight">1.1799999475479126</data>
+</edge>
+<edge source="StarTalkRadio" target="Topic_1">
+<data key="edgeid">217</data>
+<data key="weight">4.170000076293945</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_3">
+<data key="edgeid">218</data>
+<data key="weight">0.1599999964237213</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_5">
+<data key="edgeid">219</data>
+<data key="weight">3.680000066757202</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_4">
+<data key="edgeid">220</data>
+<data key="weight">0.8899999856948853</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_0">
+<data key="edgeid">221</data>
+<data key="weight">14.050000190734863</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_8">
+<data key="edgeid">222</data>
+<data key="weight">12.819999694824219</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_2">
+<data key="edgeid">223</data>
+<data key="weight">2.640000104904175</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_7">
+<data key="edgeid">224</data>
+<data key="weight">2.9600000381469727</data>
+</edge>
+<edge source="SpaceTweeps" target="Topic_1">
+<data key="edgeid">225</data>
+<data key="weight">0.4099999964237213</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_3">
+<data key="edgeid">226</data>
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_5">
+<data key="edgeid">227</data>
+<data key="weight">9.699999809265137</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_7">
+<data key="edgeid">228</data>
+<data key="weight">1.0499999523162842</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_0">
+<data key="edgeid">229</data>
+<data key="weight">2.619999885559082</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_8">
+<data key="edgeid">230</data>
+<data key="weight">75.06999969482422</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_2">
+<data key="edgeid">231</data>
+<data key="weight">1.2000000476837158</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_4">
+<data key="edgeid">232</data>
+<data key="weight">1.5199999809265137</data>
+</edge>
+<edge source="nasahqphoto" target="Topic_1">
+<data key="edgeid">233</data>
+<data key="weight">0.7300000190734863</data>
+</edge>
+<edge source="spacegovuk" target="Topic_3">
+<data key="edgeid">234</data>
+<data key="weight">0.20999999344348907</data>
+</edge>
+<edge source="spacegovuk" target="Topic_5">
+<data key="edgeid">235</data>
+<data key="weight">6.059999942779541</data>
+</edge>
+<edge source="spacegovuk" target="Topic_4">
+<data key="edgeid">236</data>
+<data key="weight">0.28999999165534973</data>
+</edge>
+<edge source="spacegovuk" target="Topic_0">
+<data key="edgeid">237</data>
+<data key="weight">15.75</data>
+</edge>
+<edge source="spacegovuk" target="Topic_8">
+<data key="edgeid">238</data>
+<data key="weight">4.659999847412109</data>
+</edge>
+<edge source="spacegovuk" target="Topic_2">
+<data key="edgeid">239</data>
+<data key="weight">4.96999979019165</data>
+</edge>
+<edge source="spacegovuk" target="Topic_7">
+<data key="edgeid">240</data>
+<data key="weight">1.9700000286102295</data>
+</edge>
+<edge source="spacegovuk" target="Topic_1">
+<data key="edgeid">241</data>
+<data key="weight">0.5799999833106995</data>
+</edge>
+<edge source="universetoday" target="Topic_3">
+<data key="edgeid">242</data>
+<data key="weight">0.4699999988079071</data>
+</edge>
+<edge source="universetoday" target="Topic_2">
+<data key="edgeid">243</data>
+<data key="weight">26.799999237060547</data>
+</edge>
+<edge source="universetoday" target="Topic_7">
+<data key="edgeid">244</data>
+<data key="weight">42.959999084472656</data>
+</edge>
+<edge source="universetoday" target="Topic_0">
+<data key="edgeid">245</data>
+<data key="weight">1.559999942779541</data>
+</edge>
+<edge source="universetoday" target="Topic_8">
+<data key="edgeid">246</data>
+<data key="weight">4.900000095367432</data>
+</edge>
+<edge source="universetoday" target="Topic_5">
+<data key="edgeid">247</data>
+<data key="weight">6.099999904632568</data>
+</edge>
+<edge source="universetoday" target="Topic_4">
+<data key="edgeid">248</data>
+<data key="weight">3.3399999141693115</data>
+</edge>
+<edge source="universetoday" target="Topic_1">
+<data key="edgeid">249</data>
+<data key="weight">10.789999961853027</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_3">
+<data key="edgeid">250</data>
+<data key="weight">96.55999755859375</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_5">
+<data key="edgeid">251</data>
+<data key="weight">1.0299999713897705</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_7">
+<data key="edgeid">252</data>
+<data key="weight">0.7300000190734863</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_0">
+<data key="edgeid">253</data>
+<data key="weight">0.7799999713897705</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_8">
+<data key="edgeid">254</data>
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_2">
+<data key="edgeid">255</data>
+<data key="weight">0.18000000715255737</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_4">
+<data key="edgeid">256</data>
+<data key="weight">0.07999999821186066</data>
+</edge>
+<edge source="NSFVoyager2" target="Topic_1">
+<data key="edgeid">257</data>
+<data key="weight">0.18000000715255737</data>
+</edge>
+<edge source="esascience" target="Topic_3">
+<data key="edgeid">258</data>
+<data key="weight">0.33000001311302185</data>
+</edge>
+<edge source="esascience" target="Topic_5">
+<data key="edgeid">259</data>
+<data key="weight">25.8799991607666</data>
+</edge>
+<edge source="esascience" target="Topic_4">
+<data key="edgeid">260</data>
+<data key="weight">0.8100000023841858</data>
+</edge>
+<edge source="esascience" target="Topic_0">
+<data key="edgeid">261</data>
+<data key="weight">6.510000228881836</data>
+</edge>
+<edge source="esascience" target="Topic_8">
+<data key="edgeid">262</data>
+<data key="weight">0.3799999952316284</data>
+</edge>
+<edge source="esascience" target="Topic_2">
+<data key="edgeid">263</data>
+<data key="weight">7.199999809265137</data>
+</edge>
+<edge source="esascience" target="Topic_7">
+<data key="edgeid">264</data>
+<data key="weight">10.920000076293945</data>
+</edge>
+<edge source="esascience" target="Topic_1">
+<data key="edgeid">265</data>
+<data key="weight">9.869999885559082</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_3">
+<data key="edgeid">266</data>
+<data key="weight">0.8399999737739563</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_5">
+<data key="edgeid">267</data>
+<data key="weight">25.559999465942383</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_7">
+<data key="edgeid">268</data>
+<data key="weight">42.040000915527344</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_0">
+<data key="edgeid">269</data>
+<data key="weight">18.170000076293945</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_8">
+<data key="edgeid">270</data>
+<data key="weight">5.650000095367432</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_2">
+<data key="edgeid">271</data>
+<data key="weight">3.9800000190734863</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_4">
+<data key="edgeid">272</data>
+<data key="weight">0.46000000834465027</data>
+</edge>
+<edge source="NewHorizons2015" target="Topic_1">
+<data key="edgeid">273</data>
+<data key="weight">0.6499999761581421</data>
+</edge>
+<edge source="astrobiology" target="Topic_3">
+<data key="edgeid">274</data>
+<data key="weight">0.14000000059604645</data>
+</edge>
+<edge source="astrobiology" target="Topic_2">
+<data key="edgeid">275</data>
+<data key="weight">84.4800033569336</data>
+</edge>
+<edge source="astrobiology" target="Topic_7">
+<data key="edgeid">276</data>
+<data key="weight">2.0899999141693115</data>
+</edge>
+<edge source="astrobiology" target="Topic_0">
+<data key="edgeid">277</data>
+<data key="weight">4.099999904632568</data>
+</edge>
+<edge source="astrobiology" target="Topic_8">
+<data key="edgeid">278</data>
+<data key="weight">1.940000057220459</data>
+</edge>
+<edge source="astrobiology" target="Topic_5">
+<data key="edgeid">279</data>
+<data key="weight">4.650000095367432</data>
+</edge>
+<edge source="astrobiology" target="Topic_4">
+<data key="edgeid">280</data>
+<data key="weight">0.6499999761581421</data>
+</edge>
+<edge source="astrobiology" target="Topic_1">
+<data key="edgeid">281</data>
+<data key="weight">0.47999998927116394</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_3">
+<data key="edgeid">282</data>
+<data key="weight">0.49000000953674316</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_5">
+<data key="edgeid">283</data>
+<data key="weight">12.119999885559082</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_7">
+<data key="edgeid">284</data>
+<data key="weight">20.549999237060547</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_0">
+<data key="edgeid">285</data>
+<data key="weight">42.790000915527344</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_8">
+<data key="edgeid">286</data>
+<data key="weight">6.739999771118164</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_2">
+<data key="edgeid">287</data>
+<data key="weight">6.53000020980835</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_4">
+<data key="edgeid">288</data>
+<data key="weight">4.630000114440918</data>
+</edge>
+<edge source="BadAstronomer" target="Topic_1">
+<data key="edgeid">289</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_3">
+<data key="edgeid">290</data>
+<data key="weight">0.36000001430511475</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_5">
+<data key="edgeid">291</data>
+<data key="weight">11.869999885559082</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_4">
+<data key="edgeid">292</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_0">
+<data key="edgeid">293</data>
+<data key="weight">54.119998931884766</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_8">
+<data key="edgeid">294</data>
+<data key="weight">8.1899995803833</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_2">
+<data key="edgeid">295</data>
+<data key="weight">9.149999618530273</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_7">
+<data key="edgeid">296</data>
+<data key="weight">2.9600000381469727</data>
+</edge>
+<edge source="NASAblueshift" target="Topic_1">
+<data key="edgeid">297</data>
+<data key="weight">6.5</data>
+</edge>
+<edge source="earthskyscience" target="Topic_3">
+<data key="edgeid">298</data>
+<data key="weight">0.09000000357627869</data>
+</edge>
+<edge source="earthskyscience" target="Topic_2">
+<data key="edgeid">299</data>
+<data key="weight">6.21999979019165</data>
+</edge>
+<edge source="earthskyscience" target="Topic_7">
+<data key="edgeid">300</data>
+<data key="weight">12.609999656677246</data>
+</edge>
+<edge source="earthskyscience" target="Topic_0">
+<data key="edgeid">301</data>
+<data key="weight">7.320000171661377</data>
+</edge>
+<edge source="earthskyscience" target="Topic_8">
+<data key="edgeid">302</data>
+<data key="weight">0.9700000286102295</data>
+</edge>
+<edge source="earthskyscience" target="Topic_5">
+<data key="edgeid">303</data>
+<data key="weight">5.880000114440918</data>
+</edge>
+<edge source="earthskyscience" target="Topic_4">
+<data key="edgeid">304</data>
+<data key="weight">62.400001525878906</data>
+</edge>
+<edge source="earthskyscience" target="Topic_1">
+<data key="edgeid">305</data>
+<data key="weight">3.0199999809265137</data>
+</edge>
+<edge source="Topic_3" target="esaoperations">
+<data key="edgeid">306</data>
+<data key="weight">0.8899999856948853</data>
+</edge>
+<edge source="Topic_3" target="NASASocial">
+<data key="edgeid">307</data>
+<data key="weight">0.7400000095367432</data>
+</edge>
+<edge source="Topic_3" target="ESA_Rosetta">
+<data key="edgeid">308</data>
+<data key="weight">1.2599999904632568</data>
+</edge>
+<edge source="Topic_3" target="esa">
+<data key="edgeid">309</data>
+<data key="weight">0.30000001192092896</data>
+</edge>
+<edge source="Topic_3" target="N165Mars">
+<data key="edgeid">310</data>
+<data key="weight">0.9399999976158142</data>
+</edge>
+<edge source="Topic_3" target="neiltyson">
+<data key="edgeid">311</data>
+<data key="weight">1.7699999809265137</data>
+</edge>
+<edge source="Topic_3" target="Cmdr_Hadfield">
+<data key="edgeid">312</data>
+<data key="weight">0.7099999785423279</data>
+</edge>
+<edge source="Topic_3" target="Astro_Jeremy">
+<data key="edgeid">313</data>
+<data key="weight">0.9700000286102295</data>
+</edge>
+<edge source="Topic_3" target="SpaceSciencenew">
+<data key="edgeid">314</data>
+<data key="weight">0.25</data>
+</edge>
+<edge source="Topic_3" target="MarsCuriosity">
+<data key="edgeid">315</data>
+<data key="weight">0.550000011920929</data>
+</edge>
+<edge source="Topic_3" target="SpaceX">
+<data key="edgeid">316</data>
+<data key="weight">0.550000011920929</data>
+</edge>
+<edge source="Topic_3" target="NASAJPL">
+<data key="edgeid">317</data>
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge source="Topic_3" target="NASAKennedy">
+<data key="edgeid">318</data>
+<data key="weight">0.2800000011920929</data>
+</edge>
+<edge source="Topic_3" target="csa_asc">
+<data key="edgeid">319</data>
+<data key="weight">0.28999999165534973</data>
+</edge>
+<edge source="Topic_3" target="ChabotSpace">
+<data key="edgeid">320</data>
+<data key="weight">0.25999999046325684</data>
+</edge>
+<edge source="Topic_3" target="Philae2014">
+<data key="edgeid">321</data>
+<data key="weight">1.100000023841858</data>
+</edge>
+<edge source="Topic_3" target="elakdawalla">
+<data key="edgeid">322</data>
+<data key="weight">0.6100000143051147</data>
+</edge>
+<edge source="Topic_3" target="RandomSpaceFact">
+<data key="edgeid">323</data>
+<data key="weight">0.9399999976158142</data>
+</edge>
+<edge source="Topic_3" target="SETIInstitute">
+<data key="edgeid">324</data>
+<data key="weight">0.2800000011920929</data>
+</edge>
+<edge source="Topic_3" target="NASAJuno">
+<data key="edgeid">325</data>
+<data key="weight">2.059999942779541</data>
+</edge>
+<edge source="Topic_3" target="SPACEdotcom">
+<data key="edgeid">326</data>
+<data key="weight">0.30000001192092896</data>
+</edge>
+<edge source="Topic_3" target="Alex_Parker">
+<data key="edgeid">327</data>
+<data key="weight">0.7599999904632568</data>
+</edge>
+<edge source="Topic_3" target="coreyspowell">
+<data key="edgeid">328</data>
+<data key="weight">0.2199999988079071</data>
+</edge>
+<edge source="Topic_3" target="NASA_Johnson">
+<data key="edgeid">329</data>
+<data key="weight">0.20000000298023224</data>
+</edge>
+<edge source="Topic_3" target="space">
+<data key="edgeid">330</data>
+<data key="weight">0.25</data>
+</edge>
+<edge source="Topic_3" target="PlanetQuest">
+<data key="edgeid">331</data>
+<data key="weight">0.5799999833106995</data>
+</edge>
+<edge source="Topic_3" target="AstrobiologyNAI">
+<data key="edgeid">332</data>
+<data key="weight">0.4300000071525574</data>
+</edge>
+<edge source="Topic_3" target="ISS_Research">
+<data key="edgeid">333</data>
+<data key="weight">0.2800000011920929</data>
+</edge>
+<edge source="esaoperations" target="Topic_5">
+<data key="edgeid">334</data>
+<data key="weight">16.219999313354492</data>
+</edge>
+<edge source="esaoperations" target="Topic_4">
+<data key="edgeid">335</data>
+<data key="weight">0.8899999856948853</data>
+</edge>
+<edge source="esaoperations" target="Topic_0">
+<data key="edgeid">336</data>
+<data key="weight">5.849999904632568</data>
+</edge>
+<edge source="esaoperations" target="Topic_8">
+<data key="edgeid">337</data>
+<data key="weight">3.190000057220459</data>
+</edge>
+<edge source="esaoperations" target="Topic_2">
+<data key="edgeid">338</data>
+<data key="weight">1.5</data>
+</edge>
+<edge source="esaoperations" target="Topic_7">
+<data key="edgeid">339</data>
+<data key="weight">1.3300000429153442</data>
+</edge>
+<edge source="esaoperations" target="Topic_1">
+<data key="edgeid">340</data>
+<data key="weight">0.5299999713897705</data>
+</edge>
+<edge source="Topic_5" target="NASASocial">
+<data key="edgeid">341</data>
+<data key="weight">54.41999816894531</data>
+</edge>
+<edge source="Topic_5" target="ESA_Rosetta">
+<data key="edgeid">342</data>
+<data key="weight">30.5</data>
+</edge>
+<edge source="Topic_5" target="esa">
+<data key="edgeid">343</data>
+<data key="weight">14.130000114440918</data>
+</edge>
+<edge source="Topic_5" target="N165Mars">
+<data key="edgeid">344</data>
+<data key="weight">34.529998779296875</data>
+</edge>
+<edge source="Topic_5" target="neiltyson">
+<data key="edgeid">345</data>
+<data key="weight">10.100000381469727</data>
+</edge>
+<edge source="Topic_5" target="Cmdr_Hadfield">
+<data key="edgeid">346</data>
+<data key="weight">9.710000038146973</data>
+</edge>
+<edge source="Topic_5" target="Astro_Jeremy">
+<data key="edgeid">347</data>
+<data key="weight">16.719999313354492</data>
+</edge>
+<edge source="Topic_5" target="SpaceSciencenew">
+<data key="edgeid">348</data>
+<data key="weight">4.239999771118164</data>
+</edge>
+<edge source="Topic_5" target="MarsCuriosity">
+<data key="edgeid">349</data>
+<data key="weight">78.33999633789062</data>
+</edge>
+<edge source="Topic_5" target="SpaceX">
+<data key="edgeid">350</data>
+<data key="weight">16.639999389648438</data>
+</edge>
+<edge source="Topic_5" target="NASAJPL">
+<data key="edgeid">351</data>
+<data key="weight">59.060001373291016</data>
+</edge>
+<edge source="Topic_5" target="NASAKennedy">
+<data key="edgeid">352</data>
+<data key="weight">22.920000076293945</data>
+</edge>
+<edge source="Topic_5" target="csa_asc">
+<data key="edgeid">353</data>
+<data key="weight">13.819999694824219</data>
+</edge>
+<edge source="Topic_5" target="ChabotSpace">
+<data key="edgeid">354</data>
+<data key="weight">14.369999885559082</data>
+</edge>
+<edge source="Topic_5" target="Philae2014">
+<data key="edgeid">355</data>
+<data key="weight">28.809999465942383</data>
+</edge>
+<edge source="Topic_5" target="elakdawalla">
+<data key="edgeid">356</data>
+<data key="weight">19.65999984741211</data>
+</edge>
+<edge source="Topic_5" target="RandomSpaceFact">
+<data key="edgeid">357</data>
+<data key="weight">22.75</data>
+</edge>
+<edge source="Topic_5" target="SETIInstitute">
+<data key="edgeid">358</data>
+<data key="weight">12.579999923706055</data>
+</edge>
+<edge source="Topic_5" target="NASAJuno">
+<data key="edgeid">359</data>
+<data key="weight">56.150001525878906</data>
+</edge>
+<edge source="Topic_5" target="SPACEdotcom">
+<data key="edgeid">360</data>
+<data key="weight">7.170000076293945</data>
+</edge>
+<edge source="Topic_5" target="Alex_Parker">
+<data key="edgeid">361</data>
+<data key="weight">12.59000015258789</data>
+</edge>
+<edge source="Topic_5" target="coreyspowell">
+<data key="edgeid">362</data>
+<data key="weight">15.399999618530273</data>
+</edge>
+<edge source="Topic_5" target="NASA_Johnson">
+<data key="edgeid">363</data>
+<data key="weight">13.630000114440918</data>
+</edge>
+<edge source="Topic_5" target="space">
+<data key="edgeid">364</data>
+<data key="weight">10.670000076293945</data>
+</edge>
+<edge source="Topic_5" target="PlanetQuest">
+<data key="edgeid">365</data>
+<data key="weight">17.8799991607666</data>
+</edge>
+<edge source="Topic_5" target="AstrobiologyNAI">
+<data key="edgeid">366</data>
+<data key="weight">11.34000015258789</data>
+</edge>
+<edge source="Topic_5" target="ISS_Research">
+<data key="edgeid">367</data>
+<data key="weight">10.380000114440918</data>
+</edge>
+<edge source="Topic_1" target="NASASocial">
+<data key="edgeid">368</data>
+<data key="weight">2.950000047683716</data>
+</edge>
+<edge source="Topic_1" target="ESA_Rosetta">
+<data key="edgeid">369</data>
+<data key="weight">0.3100000023841858</data>
+</edge>
+<edge source="Topic_1" target="esa">
+<data key="edgeid">370</data>
+<data key="weight">2.75</data>
+</edge>
+<edge source="Topic_1" target="N165Mars">
+<data key="edgeid">371</data>
+<data key="weight">1.440000057220459</data>
+</edge>
+<edge source="Topic_1" target="neiltyson">
+<data key="edgeid">372</data>
+<data key="weight">0.6899999976158142</data>
+</edge>
+<edge source="Topic_1" target="Cmdr_Hadfield">
+<data key="edgeid">373</data>
+<data key="weight">0.47999998927116394</data>
+</edge>
+<edge source="Topic_1" target="Astro_Jeremy">
+<data key="edgeid">374</data>
+<data key="weight">0.4099999964237213</data>
+</edge>
+<edge source="Topic_1" target="SpaceSciencenew">
+<data key="edgeid">375</data>
+<data key="weight">6.480000019073486</data>
+</edge>
+<edge source="Topic_1" target="MarsCuriosity">
+<data key="edgeid">376</data>
+<data key="weight">0.27000001072883606</data>
+</edge>
+<edge source="Topic_1" target="SpaceX">
+<data key="edgeid">377</data>
+<data key="weight">0.10999999940395355</data>
+</edge>
+<edge source="Topic_1" target="NASAJPL">
+<data key="edgeid">378</data>
+<data key="weight">2.490000009536743</data>
+</edge>
+<edge source="Topic_1" target="NASAKennedy">
+<data key="edgeid">379</data>
+<data key="weight">1.4900000095367432</data>
+</edge>
+<edge source="Topic_1" target="csa_asc">
+<data key="edgeid">380</data>
+<data key="weight">0.8999999761581421</data>
+</edge>
+<edge source="Topic_1" target="ChabotSpace">
+<data key="edgeid">381</data>
+<data key="weight">2.2300000190734863</data>
+</edge>
+<edge source="Topic_1" target="Philae2014">
+<data key="edgeid">382</data>
+<data key="weight">0.5799999833106995</data>
+</edge>
+<edge source="Topic_1" target="elakdawalla">
+<data key="edgeid">383</data>
+<data key="weight">0.6299999952316284</data>
+</edge>
+<edge source="Topic_1" target="RandomSpaceFact">
+<data key="edgeid">384</data>
+<data key="weight">1.1100000143051147</data>
+</edge>
+<edge source="Topic_1" target="SETIInstitute">
+<data key="edgeid">385</data>
+<data key="weight">10.739999771118164</data>
+</edge>
+<edge source="Topic_1" target="NASAJuno">
+<data key="edgeid">386</data>
+<data key="weight">1.7200000286102295</data>
+</edge>
+<edge source="Topic_1" target="SPACEdotcom">
+<data key="edgeid">387</data>
+<data key="weight">5.639999866485596</data>
+</edge>
+<edge source="Topic_1" target="Alex_Parker">
+<data key="edgeid">388</data>
+<data key="weight">1.5199999809265137</data>
+</edge>
+<edge source="Topic_1" target="coreyspowell">
+<data key="edgeid">389</data>
+<data key="weight">6.489999771118164</data>
+</edge>
+<edge source="Topic_1" target="NASA_Johnson">
+<data key="edgeid">390</data>
+<data key="weight">0.3700000047683716</data>
+</edge>
+<edge source="Topic_1" target="space">
+<data key="edgeid">391</data>
+<data key="weight">11.59000015258789</data>
+</edge>
+<edge source="Topic_1" target="PlanetQuest">
+<data key="edgeid">392</data>
+<data key="weight">1.6299999952316284</data>
+</edge>
+<edge source="Topic_1" target="AstrobiologyNAI">
+<data key="edgeid">393</data>
+<data key="weight">1.559999942779541</data>
+</edge>
+<edge source="Topic_1" target="ISS_Research">
+<data key="edgeid">394</data>
+<data key="weight">1.090000033378601</data>
+</edge>
+<edge source="space" target="Topic_2">
+<data key="edgeid">395</data>
+<data key="weight">42.279998779296875</data>
+</edge>
+<edge source="space" target="Topic_7">
+<data key="edgeid">396</data>
+<data key="weight">15.520000457763672</data>
+</edge>
+<edge source="space" target="Topic_0">
+<data key="edgeid">397</data>
+<data key="weight">5.769999980926514</data>
+</edge>
+<edge source="space" target="Topic_8">
+<data key="edgeid">398</data>
+<data key="weight">8.40999984741211</data>
+</edge>
+<edge source="space" target="Topic_4">
+<data key="edgeid">399</data>
+<data key="weight">1.7000000476837158</data>
+</edge>
+<edge source="ESA_Rosetta" target="Topic_4">
+<data key="edgeid">400</data>
+<data key="weight">0.75</data>
+</edge>
+<edge source="ESA_Rosetta" target="Topic_0">
+<data key="edgeid">401</data>
+<data key="weight">7.559999942779541</data>
+</edge>
+<edge source="ESA_Rosetta" target="Topic_8">
+<data key="edgeid">402</data>
+<data key="weight">0.2199999988079071</data>
+</edge>
+<edge source="ESA_Rosetta" target="Topic_2">
+<data key="edgeid">403</data>
+<data key="weight">2.0999999046325684</data>
+</edge>
+<edge source="ESA_Rosetta" target="Topic_7">
+<data key="edgeid">404</data>
+<data key="weight">3.25</data>
+</edge>
+<edge source="Topic_0" target="NASASocial">
+<data key="edgeid">405</data>
+<data key="weight">4.929999828338623</data>
+</edge>
+<edge source="Topic_0" target="esa">
+<data key="edgeid">406</data>
+<data key="weight">4.630000114440918</data>
+</edge>
+<edge source="Topic_0" target="N165Mars">
+<data key="edgeid">407</data>
+<data key="weight">40.369998931884766</data>
+</edge>
+<edge source="Topic_0" target="neiltyson">
+<data key="edgeid">408</data>
+<data key="weight">60.189998626708984</data>
+</edge>
+<edge source="Topic_0" target="Cmdr_Hadfield">
+<data key="edgeid">409</data>
+<data key="weight">53.369998931884766</data>
+</edge>
+<edge source="Topic_0" target="Astro_Jeremy">
+<data key="edgeid">410</data>
+<data key="weight">22.899999618530273</data>
+</edge>
+<edge source="Topic_0" target="SpaceSciencenew">
+<data key="edgeid">411</data>
+<data key="weight">10.5600004196167</data>
+</edge>
+<edge source="Topic_0" target="MarsCuriosity">
+<data key="edgeid">412</data>
+<data key="weight">10.359999656677246</data>
+</edge>
+<edge source="Topic_0" target="SpaceX">
+<data key="edgeid">413</data>
+<data key="weight">9.720000267028809</data>
+</edge>
+<edge source="Topic_0" target="NASAJPL">
+<data key="edgeid">414</data>
+<data key="weight">6.71999979019165</data>
+</edge>
+<edge source="Topic_0" target="NASAKennedy">
+<data key="edgeid">415</data>
+<data key="weight">5.670000076293945</data>
+</edge>
+<edge source="Topic_0" target="csa_asc">
+<data key="edgeid">416</data>
+<data key="weight">14.229999542236328</data>
+</edge>
+<edge source="Topic_0" target="ChabotSpace">
+<data key="edgeid">417</data>
+<data key="weight">51.52000045776367</data>
+</edge>
+<edge source="Topic_0" target="Philae2014">
+<data key="edgeid">418</data>
+<data key="weight">14.920000076293945</data>
+</edge>
+<edge source="Topic_0" target="elakdawalla">
+<data key="edgeid">419</data>
+<data key="weight">25.40999984741211</data>
+</edge>
+<edge source="Topic_0" target="RandomSpaceFact">
+<data key="edgeid">420</data>
+<data key="weight">10.569999694824219</data>
+</edge>
+<edge source="Topic_0" target="SETIInstitute">
+<data key="edgeid">421</data>
+<data key="weight">9.739999771118164</data>
+</edge>
+<edge source="Topic_0" target="NASAJuno">
+<data key="edgeid">422</data>
+<data key="weight">8.220000267028809</data>
+</edge>
+<edge source="Topic_0" target="SPACEdotcom">
+<data key="edgeid">423</data>
+<data key="weight">4.960000038146973</data>
+</edge>
+<edge source="Topic_0" target="Alex_Parker">
+<data key="edgeid">424</data>
+<data key="weight">42.47999954223633</data>
+</edge>
+<edge source="Topic_0" target="coreyspowell">
+<data key="edgeid">425</data>
+<data key="weight">15.15999984741211</data>
+</edge>
+<edge source="Topic_0" target="NASA_Johnson">
+<data key="edgeid">426</data>
+<data key="weight">5.840000152587891</data>
+</edge>
+<edge source="Topic_0" target="PlanetQuest">
+<data key="edgeid">427</data>
+<data key="weight">17.299999237060547</data>
+</edge>
+<edge source="Topic_0" target="AstrobiologyNAI">
+<data key="edgeid">428</data>
+<data key="weight">13.510000228881836</data>
+</edge>
+<edge source="Topic_0" target="ISS_Research">
+<data key="edgeid">429</data>
+<data key="weight">14.670000076293945</data>
+</edge>
+<edge source="esa" target="Topic_7">
+<data key="edgeid">430</data>
+<data key="weight">0.7599999904632568</data>
+</edge>
+<edge source="esa" target="Topic_8">
+<data key="edgeid">431</data>
+<data key="weight">3.6700000762939453</data>
+</edge>
+<edge source="esa" target="Topic_2">
+<data key="edgeid">432</data>
+<data key="weight">2.569999933242798</data>
+</edge>
+<edge source="esa" target="Topic_4">
+<data key="edgeid">433</data>
+<data key="weight">2.640000104904175</data>
+</edge>
+<edge source="Topic_4" target="NASASocial">
+<data key="edgeid">434</data>
+<data key="weight">1.4700000286102295</data>
+</edge>
+<edge source="Topic_4" target="N165Mars">
+<data key="edgeid">435</data>
+<data key="weight">4.329999923706055</data>
+</edge>
+<edge source="Topic_4" target="neiltyson">
+<data key="edgeid">436</data>
+<data key="weight">4.400000095367432</data>
+</edge>
+<edge source="Topic_4" target="Cmdr_Hadfield">
+<data key="edgeid">437</data>
+<data key="weight">8.479999542236328</data>
+</edge>
+<edge source="Topic_4" target="Astro_Jeremy">
+<data key="edgeid">438</data>
+<data key="weight">4.570000171661377</data>
+</edge>
+<edge source="Topic_4" target="SpaceSciencenew">
+<data key="edgeid">439</data>
+<data key="weight">0.8199999928474426</data>
+</edge>
+<edge source="Topic_4" target="MarsCuriosity">
+<data key="edgeid">440</data>
+<data key="weight">0.7599999904632568</data>
+</edge>
+<edge source="Topic_4" target="SpaceX">
+<data key="edgeid">441</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="NASAJPL">
+<data key="edgeid">442</data>
+<data key="weight">0.4699999988079071</data>
+</edge>
+<edge source="Topic_4" target="NASAKennedy">
+<data key="edgeid">443</data>
+<data key="weight">0.7400000095367432</data>
+</edge>
+<edge source="Topic_4" target="csa_asc">
+<data key="edgeid">444</data>
+<data key="weight">2.25</data>
+</edge>
+<edge source="Topic_4" target="ChabotSpace">
+<data key="edgeid">445</data>
+<data key="weight">2.4700000286102295</data>
+</edge>
+<edge source="Topic_4" target="Philae2014">
+<data key="edgeid">446</data>
+<data key="weight">1.5499999523162842</data>
+</edge>
+<edge source="Topic_4" target="elakdawalla">
+<data key="edgeid">447</data>
+<data key="weight">1.2999999523162842</data>
+</edge>
+<edge source="Topic_4" target="RandomSpaceFact">
+<data key="edgeid">448</data>
+<data key="weight">2.059999942779541</data>
+</edge>
+<edge source="Topic_4" target="SETIInstitute">
+<data key="edgeid">449</data>
+<data key="weight">1.0499999523162842</data>
+</edge>
+<edge source="Topic_4" target="NASAJuno">
+<data key="edgeid">450</data>
+<data key="weight">0.7599999904632568</data>
+</edge>
+<edge source="Topic_4" target="SPACEdotcom">
+<data key="edgeid">451</data>
+<data key="weight">1.3300000429153442</data>
+</edge>
+<edge source="Topic_4" target="Alex_Parker">
+<data key="edgeid">452</data>
+<data key="weight">3.0899999141693115</data>
+</edge>
+<edge source="Topic_4" target="coreyspowell">
+<data key="edgeid">453</data>
+<data key="weight">5.550000190734863</data>
+</edge>
+<edge source="Topic_4" target="NASA_Johnson">
+<data key="edgeid">454</data>
+<data key="weight">0.5099999904632568</data>
+</edge>
+<edge source="Topic_4" target="PlanetQuest">
+<data key="edgeid">455</data>
+<data key="weight">0.6600000262260437</data>
+</edge>
+<edge source="Topic_4" target="AstrobiologyNAI">
+<data key="edgeid">456</data>
+<data key="weight">1.8700000047683716</data>
+</edge>
+<edge source="Topic_4" target="ISS_Research">
+<data key="edgeid">457</data>
+<data key="weight">0.6600000262260437</data>
+</edge>
+<edge source="N165Mars" target="Topic_7">
+<data key="edgeid">458</data>
+<data key="weight">5.909999847412109</data>
+</edge>
+<edge source="N165Mars" target="Topic_8">
+<data key="edgeid">459</data>
+<data key="weight">1.590000033378601</data>
+</edge>
+<edge source="N165Mars" target="Topic_2">
+<data key="edgeid">460</data>
+<data key="weight">8.4399995803833</data>
+</edge>
+<edge source="neiltyson" target="Topic_2">
+<data key="edgeid">461</data>
+<data key="weight">10.600000381469727</data>
+</edge>
+<edge source="neiltyson" target="Topic_7">
+<data key="edgeid">462</data>
+<data key="weight">8.829999923706055</data>
+</edge>
+<edge source="neiltyson" target="Topic_8">
+<data key="edgeid">463</data>
+<data key="weight">1.590000033378601</data>
+</edge>
+<edge source="Cmdr_Hadfield" target="Topic_7">
+<data key="edgeid">464</data>
+<data key="weight">3.3299999237060547</data>
+</edge>
+<edge source="Cmdr_Hadfield" target="Topic_8">
+<data key="edgeid">465</data>
+<data key="weight">2.7699999809265137</data>
+</edge>
+<edge source="Cmdr_Hadfield" target="Topic_2">
+<data key="edgeid">466</data>
+<data key="weight">4.940000057220459</data>
+</edge>
+<edge source="Astro_Jeremy" target="Topic_8">
+<data key="edgeid">467</data>
+<data key="weight">3.799999952316284</data>
+</edge>
+<edge source="Astro_Jeremy" target="Topic_7">
+<data key="edgeid">468</data>
+<data key="weight">1.3200000524520874</data>
+</edge>
+<edge source="Astro_Jeremy" target="Topic_2">
+<data key="edgeid">469</data>
+<data key="weight">3.7799999713897705</data>
+</edge>
+<edge source="SpaceSciencenew" target="Topic_2">
+<data key="edgeid">470</data>
+<data key="weight">16.489999771118164</data>
+</edge>
+<edge source="SpaceSciencenew" target="Topic_7">
+<data key="edgeid">471</data>
+<data key="weight">42.959999084472656</data>
+</edge>
+<edge source="SpaceSciencenew" target="Topic_8">
+<data key="edgeid">472</data>
+<data key="weight">15.859999656677246</data>
+</edge>
+<edge source="elakdawalla" target="Topic_8">
+<data key="edgeid">473</data>
+<data key="weight">2.8499999046325684</data>
+</edge>
+<edge source="elakdawalla" target="Topic_2">
+<data key="edgeid">474</data>
+<data key="weight">3.7300000190734863</data>
+</edge>
+<edge source="elakdawalla" target="Topic_7">
+<data key="edgeid">475</data>
+<data key="weight">40.939998626708984</data>
+</edge>
+<edge source="SpaceX" target="Topic_8">
+<data key="edgeid">476</data>
+<data key="weight">57.880001068115234</data>
+</edge>
+<edge source="SpaceX" target="Topic_2">
+<data key="edgeid">477</data>
+<data key="weight">1.4900000095367432</data>
+</edge>
+<edge source="SpaceX" target="Topic_7">
+<data key="edgeid">478</data>
+<data key="weight">1.75</data>
+</edge>
+<edge source="RandomSpaceFact" target="Topic_7">
+<data key="edgeid">479</data>
+<data key="weight">43.91999816894531</data>
+</edge>
+<edge source="RandomSpaceFact" target="Topic_8">
+<data key="edgeid">480</data>
+<data key="weight">6.690000057220459</data>
+</edge>
+<edge source="RandomSpaceFact" target="Topic_2">
+<data key="edgeid">481</data>
+<data key="weight">6.139999866485596</data>
+</edge>
+<edge source="NASAKennedy" target="Topic_8">
+<data key="edgeid">482</data>
+<data key="weight">53.84000015258789</data>
+</edge>
+<edge source="NASAKennedy" target="Topic_2">
+<data key="edgeid">483</data>
+<data key="weight">0.8199999928474426</data>
+</edge>
+<edge source="NASAKennedy" target="Topic_7">
+<data key="edgeid">484</data>
+<data key="weight">1.350000023841858</data>
+</edge>
+<edge source="csa_asc" target="Topic_7">
+<data key="edgeid">485</data>
+<data key="weight">1.399999976158142</data>
+</edge>
+<edge source="csa_asc" target="Topic_8">
+<data key="edgeid">486</data>
+<data key="weight">6.989999771118164</data>
+</edge>
+<edge source="csa_asc" target="Topic_2">
+<data key="edgeid">487</data>
+<data key="weight">2.5</data>
+</edge>
+<edge source="ChabotSpace" target="Topic_7">
+<data key="edgeid">488</data>
+<data key="weight">8.079999923706055</data>
+</edge>
+<edge source="ChabotSpace" target="Topic_8">
+<data key="edgeid">489</data>
+<data key="weight">7.190000057220459</data>
+</edge>
+<edge source="ChabotSpace" target="Topic_2">
+<data key="edgeid">490</data>
+<data key="weight">10.680000305175781</data>
+</edge>
+<edge source="Philae2014" target="Topic_8">
+<data key="edgeid">491</data>
+<data key="weight">1.2400000095367432</data>
+</edge>
+<edge source="Philae2014" target="Topic_2">
+<data key="edgeid">492</data>
+<data key="weight">1.0700000524520874</data>
+</edge>
+<edge source="Philae2014" target="Topic_7">
+<data key="edgeid">493</data>
+<data key="weight">4.46999979019165</data>
+</edge>
+<edge source="NASAJPL" target="Topic_7">
+<data key="edgeid">494</data>
+<data key="weight">9.850000381469727</data>
+</edge>
+<edge source="NASAJPL" target="Topic_8">
+<data key="edgeid">495</data>
+<data key="weight">3.809999942779541</data>
+</edge>
+<edge source="NASAJPL" target="Topic_2">
+<data key="edgeid">496</data>
+<data key="weight">15.029999732971191</data>
+</edge>
+<edge source="MarsCuriosity" target="Topic_7">
+<data key="edgeid">497</data>
+<data key="weight">2.0299999713897705</data>
+</edge>
+<edge source="MarsCuriosity" target="Topic_8">
+<data key="edgeid">498</data>
+<data key="weight">2.4100000858306885</data>
+</edge>
+<edge source="MarsCuriosity" target="Topic_2">
+<data key="edgeid">499</data>
+<data key="weight">3.0399999618530273</data>
+</edge>
+<edge source="SETIInstitute" target="Topic_2">
+<data key="edgeid">500</data>
+<data key="weight">47.040000915527344</data>
+</edge>
+<edge source="SETIInstitute" target="Topic_7">
+<data key="edgeid">501</data>
+<data key="weight">14.15999984741211</data>
+</edge>
+<edge source="SETIInstitute" target="Topic_8">
+<data key="edgeid">502</data>
+<data key="weight">1.4700000286102295</data>
+</edge>
+<edge source="NASAJuno" target="Topic_7">
+<data key="edgeid">503</data>
+<data key="weight">16.170000076293945</data>
+</edge>
+<edge source="NASAJuno" target="Topic_8">
+<data key="edgeid">504</data>
+<data key="weight">5.050000190734863</data>
+</edge>
+<edge source="NASAJuno" target="Topic_2">
+<data key="edgeid">505</data>
+<data key="weight">5.46999979019165</data>
+</edge>
+<edge source="SPACEdotcom" target="Topic_2">
+<data key="edgeid">506</data>
+<data key="weight">44.7400016784668</data>
+</edge>
+<edge source="SPACEdotcom" target="Topic_7">
+<data key="edgeid">507</data>
+<data key="weight">22.399999618530273</data>
+</edge>
+<edge source="SPACEdotcom" target="Topic_8">
+<data key="edgeid">508</data>
+<data key="weight">7.679999828338623</data>
+</edge>
+<edge source="Alex_Parker" target="Topic_7">
+<data key="edgeid">509</data>
+<data key="weight">25.100000381469727</data>
+</edge>
+<edge source="Alex_Parker" target="Topic_8">
+<data key="edgeid">510</data>
+<data key="weight">2.049999952316284</data>
+</edge>
+<edge source="Alex_Parker" target="Topic_2">
+<data key="edgeid">511</data>
+<data key="weight">8.380000114440918</data>
+</edge>
+<edge source="coreyspowell" target="Topic_2">
+<data key="edgeid">512</data>
+<data key="weight">29.729999542236328</data>
+</edge>
+<edge source="coreyspowell" target="Topic_7">
+<data key="edgeid">513</data>
+<data key="weight">23.219999313354492</data>
+</edge>
+<edge source="coreyspowell" target="Topic_8">
+<data key="edgeid">514</data>
+<data key="weight">1.1100000143051147</data>
+</edge>
+<edge source="Topic_2" target="NASASocial">
+<data key="edgeid">515</data>
+<data key="weight">9.9399995803833</data>
+</edge>
+<edge source="Topic_2" target="NASA_Johnson">
+<data key="edgeid">516</data>
+<data key="weight">0.8999999761581421</data>
+</edge>
+<edge source="Topic_2" target="PlanetQuest">
+<data key="edgeid">517</data>
+<data key="weight">55.90999984741211</data>
+</edge>
+<edge source="Topic_2" target="AstrobiologyNAI">
+<data key="edgeid">518</data>
+<data key="weight">60.15999984741211</data>
+</edge>
+<edge source="Topic_2" target="ISS_Research">
+<data key="edgeid">519</data>
+<data key="weight">5.409999847412109</data>
+</edge>
+<edge source="Topic_7" target="NASASocial">
+<data key="edgeid">520</data>
+<data key="weight">4.050000190734863</data>
+</edge>
+<edge source="Topic_7" target="NASA_Johnson">
+<data key="edgeid">521</data>
+<data key="weight">0.5099999904632568</data>
+</edge>
+<edge source="Topic_7" target="PlanetQuest">
+<data key="edgeid">522</data>
+<data key="weight">4.130000114440918</data>
+</edge>
+<edge source="Topic_7" target="AstrobiologyNAI">
+<data key="edgeid">523</data>
+<data key="weight">2.609999895095825</data>
+</edge>
+<edge source="Topic_7" target="ISS_Research">
+<data key="edgeid">524</data>
+<data key="weight">0.7400000095367432</data>
+</edge>
+<edge source="NASA_Johnson" target="Topic_8">
+<data key="edgeid">525</data>
+<data key="weight">12.850000381469727</data>
+</edge>
+<edge source="NASASocial" target="Topic_8">
+<data key="edgeid">526</data>
+<data key="weight">10.819999694824219</data>
+</edge>
+<edge source="PlanetQuest" target="Topic_8">
+<data key="edgeid">527</data>
+<data key="weight">0.5</data>
+</edge>
+<edge source="Topic_8" target="AstrobiologyNAI">
+<data key="edgeid">528</data>
+<data key="weight">5.699999809265137</data>
+</edge>
+<edge source="Topic_8" target="ISS_Research">
+<data key="edgeid">529</data>
+<data key="weight">4.539999961853027</data>
+</edge>
+</graph>
+</graphml>
