@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="solar" label="solar" />
+      <node id="km" label="km" />
+      <node id="Topic_6" label="Topic_6" />
+      <node id="shuttle" label="shuttle" />
+      <node id="years" label="years" />
+      <node id="details" label="details" />
+      <node id="spacecraft" label="spacecraft" />
+      <node id="space" label="space" />
+      <node id="horizons" label="horizons" />
+      <node id="atv" label="atv" />
+      <node id="nebula" label="nebula" />
+      <node id="sensor" label="sensor" />
+      <node id="mission" label="mission" />
+      <node id="progress" label="progress" />
+      <node id="falcon" label="falcon" />
+      <node id="day" label="day" />
+      <node id="spacex" label="spacex" />
+      <node id="mars" label="mars" />
+      <node id="uk" label="uk" />
+      <node id="news" label="news" />
+      <node id="flashback" label="flashback" />
+      <node id="cometlanding" label="cometlanding" />
+      <node id="venus" label="venus" />
+      <node id="eclipse" label="eclipse" />
+      <node id="aurora" label="aurora" />
+      <node id="app" label="app" />
+      <node id="spacewalk" label="spacewalk" />
+      <node id="fun" label="fun" />
+      <node id="min" label="min" />
+      <node id="di" label="di" />
+      <node id="saturn" label="saturn" />
+      <node id="esa" label="esa" />
+      <node id="search" label="search" />
+      <node id="astrobiology" label="astrobiology" />
+      <node id="ska" label="ska" />
+      <node id="life" label="life" />
+      <node id="cave" label="cave" />
+      <node id="rosetta" label="rosetta" />
+      <node id="bias" label="bias" />
+      <node id="black" label="black" />
+      <node id="Topic_4" label="Topic_4" />
+      <node id="live" label="live" />
+      <node id="bright" label="bright" />
+      <node id="check" label="check" />
+      <node id="travel" label="travel" />
+      <node id="Topic_2" label="Topic_2" />
+      <node id="light" label="light" />
+      <node id="planet" label="planet" />
+      <node id="time" label="time" />
+      <node id="Topic_7" label="Topic_7" />
+      <node id="earth" label="earth" />
+      <node id="galaxy" label="galaxy" />
+      <node id="today" label="today" />
+      <node id="cassini" label="cassini" />
+      <node id="Topic_8" label="Topic_8" />
+      <node id="watch" label="watch" />
+      <node id="sentinel" label="sentinel" />
+      <node id="spiral" label="spiral" />
+      <node id="tech" label="tech" />
+      <node id="test" label="test" />
+      <node id="join" label="join" />
+      <node id="planets" label="planets" />
+      <node id="night" label="night" />
+      <node id="video" label="video" />
+      <node id="photo" label="photo" />
+      <node id="cool" label="cool" />
+      <node id="command" label="command" />
+      <node id="posted" label="posted" />
+      <node id="soyuz" label="soyuz" />
+      <node id="blog" label="blog" />
+      <node id="view" label="view" />
+      <node id="aacs" label="aacs" />
+      <node id="earthsky" label="earthsky" />
+      <node id="april" label="april" />
+      <node id="images" label="images" />
+      <node id="love" label="love" />
+      <node id="image" label="image" />
+      <node id="cluster" label="cluster" />
+      <node id="caves" label="caves" />
+      <node id="pluto" label="pluto" />
+      <node id="science" label="science" />
+      <node id="water" label="water" />
+      <node id="iss" label="iss" />
+      <node id="flight" label="flight" />
+      <node id="station" label="station" />
+      <node id="exp" label="exp" />
+      <node id="stws" label="stws" />
+      <node id="dragon" label="dragon" />
+      <node id="astronauts" label="astronauts" />
+      <node id="exoplanet" label="exoplanet" />
+      <node id="universe" label="universe" />
+      <node id="chabot" label="chabot" />
+      <node id="hubble" label="hubble" />
+      <node id="sister" label="sister" />
+      <node id="stars" label="stars" />
+      <node id="morning" label="morning" />
+      <node id="jupiter" label="jupiter" />
+      <node id="secs" label="secs" />
+      <node id="star" label="star" />
+      <node id="Topic_5" label="Topic_5" />
+      <node id="Topic_3" label="Topic_3" />
+      <node id="tonight" label="tonight" />
+      <node id="shot" label="shot" />
+      <node id="mins" label="mins" />
+      <node id="week" label="week" />
+      <node id="hrs" label="hrs" />
+      <node id="eca" label="eca" />
+      <node id="Topic_0" label="Topic_0" />
+      <node id="team" label="team" />
+      <node id="technology" label="technology" />
+      <node id="make" label="make" />
+      <node id="ship" label="ship" />
+      <node id="Topic_1" label="Topic_1" />
+      <node id="moon" label="moon" />
+      <node id="st" label="st" />
+      <node id="end" label="end" />
+      <node id="photos" label="photos" />
+      <node id="milky" label="milky" />
+      <node id="moons" label="moons" />
+      <node id="info" label="info" />
+      <node id="people" label="people" />
+      <node id="post" label="post" />
+      <node id="gain" label="gain" />
+      <node id="happy" label="happy" />
+      <node id="hole" label="hole" />
+      <node id="crew" label="crew" />
+      <node id="spacetweeps" label="spacetweeps" />
+      <node id="astronaut" label="astronaut" />
+      <node id="asteroid" label="asteroid" />
+      <node id="sunset" label="sunset" />
+      <node id="landing" label="landing" />
+      <node id="sun" label="sun" />
+      <node id="things" label="things" />
+      <node id="titan" label="titan" />
+      <node id="ngc" label="ngc" />
+      <node id="galaxies" label="galaxies" />
+      <node id="pm" label="pm" />
+      <node id="alien" label="alien" />
+      <node id="flyby" label="flyby" />
+      <node id="antenna" label="antenna" />
+      <node id="launch" label="launch" />
+      <node id="world" label="world" />
+      <node id="comet" label="comet" />
+      <node id="good" label="good" />
+      <node id="nasa" label="nasa" />
+      <node id="rocket" label="rocket" />
+      <node id="system" label="system" />
+      <node id="Topic_9" label="Topic_9" />
+      <node id="great" label="great" />
+      <node id="pt" label="pt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="solar" target="Topic_2" />
+      <edge id="1" source="km" target="Topic_9" />
+      <edge id="2" source="Topic_6" target="live" />
+      <edge id="3" source="Topic_6" target="iss" />
+      <edge id="4" source="Topic_6" target="station" />
+      <edge id="5" source="Topic_6" target="exp" />
+      <edge id="6" source="Topic_6" target="launch" />
+      <edge id="7" source="Topic_6" target="space" />
+      <edge id="8" source="Topic_6" target="soyuz" />
+      <edge id="9" source="Topic_6" target="week" />
+      <edge id="10" source="Topic_6" target="crew" />
+      <edge id="11" source="Topic_6" target="astronauts" />
+      <edge id="12" source="Topic_6" target="progress" />
+      <edge id="13" source="Topic_6" target="earth" />
+      <edge id="14" source="Topic_6" target="today" />
+      <edge id="15" source="Topic_6" target="mission" />
+      <edge id="16" source="Topic_6" target="astronaut" />
+      <edge id="17" source="Topic_6" target="watch" />
+      <edge id="18" source="Topic_6" target="dragon" />
+      <edge id="19" source="Topic_6" target="spacewalk" />
+      <edge id="20" source="Topic_6" target="pm" />
+      <edge id="21" source="shuttle" target="Topic_8" />
+      <edge id="22" source="years" target="Topic_5" />
+      <edge id="23" source="details" target="Topic_5" />
+      <edge id="24" source="spacecraft" target="Topic_8" />
+      <edge id="25" source="space" target="Topic_2" />
+      <edge id="26" source="space" target="Topic_7" />
+      <edge id="27" source="space" target="Topic_8" />
+      <edge id="28" source="space" target="Topic_9" />
+      <edge id="29" source="space" target="Topic_1" />
+      <edge id="30" source="horizons" target="Topic_7" />
+      <edge id="31" source="atv" target="Topic_9" />
+      <edge id="32" source="nebula" target="Topic_1" />
+      <edge id="33" source="sensor" target="Topic_3" />
+      <edge id="34" source="mission" target="Topic_9" />
+      <edge id="35" source="mission" target="Topic_5" />
+      <edge id="36" source="falcon" target="Topic_8" />
+      <edge id="37" source="day" target="Topic_0" />
+      <edge id="38" source="day" target="Topic_4" />
+      <edge id="39" source="spacex" target="Topic_8" />
+      <edge id="40" source="mars" target="Topic_2" />
+      <edge id="41" source="mars" target="Topic_5" />
+      <edge id="42" source="uk" target="Topic_9" />
+      <edge id="43" source="news" target="Topic_7" />
+      <edge id="44" source="flashback" target="Topic_1" />
+      <edge id="45" source="cometlanding" target="Topic_9" />
+      <edge id="46" source="venus" target="Topic_7" />
+      <edge id="47" source="venus" target="Topic_4" />
+      <edge id="48" source="eclipse" target="Topic_4" />
+      <edge id="49" source="aurora" target="Topic_1" />
+      <edge id="50" source="app" target="Topic_1" />
+      <edge id="51" source="fun" target="Topic_0" />
+      <edge id="52" source="min" target="Topic_3" />
+      <edge id="53" source="di" target="Topic_4" />
+      <edge id="54" source="saturn" target="Topic_7" />
+      <edge id="55" source="esa" target="Topic_1" />
+      <edge id="56" source="esa" target="Topic_9" />
+      <edge id="57" source="search" target="Topic_2" />
+      <edge id="58" source="astrobiology" target="Topic_2" />
+      <edge id="59" source="ska" target="Topic_9" />
+      <edge id="60" source="life" target="Topic_2" />
+      <edge id="61" source="cave" target="Topic_4" />
+      <edge id="62" source="rosetta" target="Topic_9" />
+      <edge id="63" source="bias" target="Topic_3" />
+      <edge id="64" source="black" target="Topic_2" />
+      <edge id="65" source="Topic_4" target="night" />
+      <edge id="66" source="Topic_4" target="photo" />
+      <edge id="67" source="Topic_4" target="morning" />
+      <edge id="68" source="Topic_4" target="tonight" />
+      <edge id="69" source="Topic_4" target="shot" />
+      <edge id="70" source="Topic_4" target="photos" />
+      <edge id="71" source="Topic_4" target="light" />
+      <edge id="72" source="Topic_4" target="earthsky" />
+      <edge id="73" source="Topic_4" target="april" />
+      <edge id="74" source="Topic_4" target="star" />
+      <edge id="75" source="Topic_4" target="jupiter" />
+      <edge id="76" source="Topic_4" target="moon" />
+      <edge id="77" source="Topic_4" target="sunset" />
+      <edge id="78" source="Topic_4" target="caves" />
+      <edge id="79" source="live" target="Topic_5" />
+      <edge id="80" source="bright" target="Topic_7" />
+      <edge id="81" source="check" target="Topic_0" />
+      <edge id="82" source="check" target="Topic_8" />
+      <edge id="83" source="travel" target="Topic_3" />
+      <edge id="84" source="Topic_2" target="video" />
+      <edge id="85" source="Topic_2" target="water" />
+      <edge id="86" source="Topic_2" target="planets" />
+      <edge id="87" source="Topic_2" target="exoplanet" />
+      <edge id="88" source="Topic_2" target="planet" />
+      <edge id="89" source="Topic_2" target="alien" />
+      <edge id="90" source="Topic_2" target="hole" />
+      <edge id="91" source="Topic_2" target="earth" />
+      <edge id="92" source="Topic_2" target="stars" />
+      <edge id="93" source="Topic_2" target="nasa" />
+      <edge id="94" source="Topic_2" target="system" />
+      <edge id="95" source="Topic_2" target="star" />
+      <edge id="96" source="light" target="Topic_3" />
+      <edge id="97" source="time" target="Topic_0" />
+      <edge id="98" source="time" target="Topic_3" />
+      <edge id="99" source="Topic_7" target="comet" />
+      <edge id="100" source="Topic_7" target="cassini" />
+      <edge id="101" source="Topic_7" target="moons" />
+      <edge id="102" source="Topic_7" target="sun" />
+      <edge id="103" source="Topic_7" target="jupiter" />
+      <edge id="104" source="Topic_7" target="image" />
+      <edge id="105" source="Topic_7" target="flyby" />
+      <edge id="106" source="Topic_7" target="earth" />
+      <edge id="107" source="Topic_7" target="pluto" />
+      <edge id="108" source="Topic_7" target="titan" />
+      <edge id="109" source="Topic_7" target="images" />
+      <edge id="110" source="Topic_7" target="moon" />
+      <edge id="111" source="Topic_7" target="asteroid" />
+      <edge id="112" source="earth" target="Topic_3" />
+      <edge id="113" source="earth" target="Topic_5" />
+      <edge id="114" source="galaxy" target="Topic_1" />
+      <edge id="115" source="today" target="Topic_9" />
+      <edge id="116" source="today" target="Topic_0" />
+      <edge id="117" source="today" target="Topic_8" />
+      <edge id="118" source="today" target="Topic_5" />
+      <edge id="119" source="Topic_8" target="photos" />
+      <edge id="120" source="Topic_8" target="flight" />
+      <edge id="121" source="Topic_8" target="station" />
+      <edge id="122" source="Topic_8" target="launch" />
+      <edge id="123" source="Topic_8" target="posted" />
+      <edge id="124" source="Topic_8" target="technology" />
+      <edge id="125" source="Topic_8" target="test" />
+      <edge id="126" source="Topic_8" target="nasa" />
+      <edge id="127" source="Topic_8" target="rocket" />
+      <edge id="128" source="Topic_8" target="dragon" />
+      <edge id="129" source="Topic_8" target="tech" />
+      <edge id="130" source="Topic_8" target="images" />
+      <edge id="131" source="watch" target="Topic_5" />
+      <edge id="132" source="sentinel" target="Topic_9" />
+      <edge id="133" source="spiral" target="Topic_1" />
+      <edge id="134" source="join" target="Topic_5" />
+      <edge id="135" source="video" target="Topic_5" />
+      <edge id="136" source="cool" target="Topic_0" />
+      <edge id="137" source="command" target="Topic_3" />
+      <edge id="138" source="blog" target="Topic_9" />
+      <edge id="139" source="view" target="Topic_5" />
+      <edge id="140" source="aacs" target="Topic_3" />
+      <edge id="141" source="love" target="Topic_0" />
+      <edge id="142" source="image" target="Topic_1" />
+      <edge id="143" source="cluster" target="Topic_1" />
+      <edge id="144" source="science" target="Topic_0" />
+      <edge id="145" source="science" target="Topic_9" />
+      <edge id="146" source="science" target="Topic_5" />
+      <edge id="147" source="stws" target="Topic_9" />
+      <edge id="148" source="universe" target="Topic_1" />
+      <edge id="149" source="chabot" target="Topic_0" />
+      <edge id="150" source="hubble" target="Topic_1" />
+      <edge id="151" source="sister" target="Topic_3" />
+      <edge id="152" source="stars" target="Topic_1" />
+      <edge id="153" source="morning" target="Topic_0" />
+      <edge id="154" source="secs" target="Topic_3" />
+      <edge id="155" source="star" target="Topic_1" />
+      <edge id="156" source="Topic_5" target="tonight" />
+      <edge id="157" source="Topic_5" target="launch" />
+      <edge id="158" source="Topic_5" target="pm" />
+      <edge id="159" source="Topic_5" target="team" />
+      <edge id="160" source="Topic_5" target="landing" />
+      <edge id="161" source="Topic_5" target="pt" />
+      <edge id="162" source="Topic_5" target="st" />
+      <edge id="163" source="Topic_3" target="antenna" />
+      <edge id="164" source="Topic_3" target="mins" />
+      <edge id="165" source="Topic_3" target="hrs" />
+      <edge id="166" source="Topic_3" target="eca" />
+      <edge id="167" source="Topic_3" target="ship" />
+      <edge id="168" source="Topic_3" target="end" />
+      <edge id="169" source="Topic_3" target="gain" />
+      <edge id="170" source="Topic_3" target="sun" />
+      <edge id="171" source="tonight" target="Topic_0" />
+      <edge id="172" source="week" target="Topic_9" />
+      <edge id="173" source="Topic_0" target="things" />
+      <edge id="174" source="Topic_0" target="people" />
+      <edge id="175" source="Topic_0" target="happy" />
+      <edge id="176" source="Topic_0" target="world" />
+      <edge id="177" source="Topic_0" target="make" />
+      <edge id="178" source="Topic_0" target="good" />
+      <edge id="179" source="Topic_0" target="sun" />
+      <edge id="180" source="Topic_0" target="great" />
+      <edge id="181" source="Topic_1" target="milky" />
+      <edge id="182" source="Topic_1" target="ngc" />
+      <edge id="183" source="Topic_1" target="galaxies" />
+      <edge id="184" source="Topic_1" target="info" />
+      <edge id="185" source="Topic_1" target="nasa" />
+      <edge id="186" source="post" target="Topic_9" />
+      <edge id="187" source="spacetweeps" target="Topic_9" />
+      <edge id="188" source="launch" target="Topic_9" />
+      <edge id="189" source="comet" target="Topic_9" />
+    </edges>
+  </graph>
+</gexf>
