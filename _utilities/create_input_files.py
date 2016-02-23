@@ -9,7 +9,10 @@ import os
 #################
 
 
-lines = open('../input/space_tweets.csv','r').readlines()
+path_to_preprocessed_data_file = '../../FacebookML/fb_data/posts/preprocessed_fb_posts_20160127.csv'
+path_to_store_output_directory = '../mallet_input/multiple_files/fb_posts/'
+
+lines = open(path_to_preprocessed_data_file,'r').readlines()
 #lines = open('test.txt','r').readlines()
 
 
@@ -22,37 +25,37 @@ for line in lines:
         unique_user.append(spline[0])
 
 
-print (len(unique_user))
+print ("Number of user is "+str(len(unique_user)))
 
-tweets = []
+texts = []
 
 for u in unique_user:
-    tweets_per_user = []
-    tweets_pu_combined = []
+    texts_per_user = []
+    texts_pu_combined = []
 
     for line in lines:
         spline = line.replace('\n','').split(',')
 
         if spline[0] == u:
-            tweets_per_user.append(spline[1])
+            texts_per_user.append(spline[-1])
 
     # join all tweets per user into one whole tweet
-    tweets_pu_combined = ' '.join(tweets_per_user)
-    tweets.append(tweets_pu_combined)
+    texts_pu_combined = ' '.join(texts_per_user)
+    texts.append(texts_pu_combined)
 
-print (len(tweets))
+print ("Length of text is "+str(len(texts)))
 
-combined = zip(unique_user,tweets)
+combined = zip(unique_user,texts)
 combined_list = []
 
 for c in combined:
     c = list(c)
     combined_list.append(c)
 
-print (len(combined_list))
+print ("Length of combined list is "+str(len(combined_list)))
 
-for cl in combined_list:
-    f = open('../input/space_tweets/'+cl[0]+'.txt','w')
+for cl in combined_list[1:]:
+    f = open(path_to_store_output_directory+cl[0]+'.txt','w')
     f.write(cl[1])
 
 
