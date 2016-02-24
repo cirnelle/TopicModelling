@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="NasaAstrobiology" label="NasaAstrobiology" />
+      <node id="nasaarmstrong" label="nasaarmstrong" />
+      <node id="Topic_6" label="Topic_6" />
+      <node id="Topic_4" label="Topic_4" />
+      <node id="NASAsKeplerMission" label="NASAsKeplerMission" />
+      <node id="mars.rovers" label="mars.rovers" />
+      <node id="neildegrassetyson" label="neildegrassetyson" />
+      <node id="ESOAstronomy" label="ESOAstronomy" />
+      <node id="Topic_2" label="Topic_2" />
+      <node id="NASA.Little.SDO" label="NASA.Little.SDO" />
+      <node id="131376260352637" label="131376260352637" />
+      <node id="Topic_3" label="Topic_3" />
+      <node id="NASAJPL" label="NASAJPL" />
+      <node id="ISRO" label="ISRO" />
+      <node id="MarsCuriosity" label="MarsCuriosity" />
+      <node id="EuropeanSpaceAgency" label="EuropeanSpaceAgency" />
+      <node id="NASACassini" label="NASACassini" />
+      <node id="Topic_8" label="Topic_8" />
+      <node id="LunarReconnaissanceOrbiter" label="LunarReconnaissanceOrbiter" />
+      <node id="chandraxrayobservatory" label="chandraxrayobservatory" />
+      <node id="NASAOrion" label="NASAOrion" />
+      <node id="FollowNASA360" label="FollowNASA360" />
+      <node id="NASAKennedy" label="NASAKennedy" />
+      <node id="new.horizons1" label="new.horizons1" />
+      <node id="NASA.GSFC" label="NASA.GSFC" />
+      <node id="Topic_5" label="Topic_5" />
+      <node id="NASAJuno" label="NASAJuno" />
+      <node id="nasasolarsystem" label="nasasolarsystem" />
+      <node id="EuropeanSpaceHistory" label="EuropeanSpaceHistory" />
+      <node id="Topic_1" label="Topic_1" />
+      <node id="RosettaMission" label="RosettaMission" />
+      <node id="universetoday" label="universetoday" />
+      <node id="planetarysociety" label="planetarysociety" />
+      <node id="Topic_7" label="Topic_7" />
+      <node id="NASAJSC" label="NASAJSC" />
+      <node id="nasalarc" label="nasalarc" />
+      <node id="AstronautChrisHadfield" label="AstronautChrisHadfield" />
+      <node id="Topic_9" label="Topic_9" />
+      <node id="NASASLS" label="NASASLS" />
+      <node id="NASAHistoryOffice" label="NASAHistoryOffice" />
+      <node id="NASAGlenn" label="NASAGlenn" />
+      <node id="nasaearth" label="nasaearth" />
+      <node id="spacecom" label="spacecom" />
+      <node id="NasaMeteorWatch" label="NasaMeteorWatch" />
+      <node id="ISS" label="ISS" />
+      <node id="StarTalkRadio" label="StarTalkRadio" />
+      <node id="webbtelescope" label="webbtelescope" />
+      <node id="SpaceX" label="SpaceX" />
+      <node id="NASA.ISRU" label="NASA.ISRU" />
+      <node id="hubbleESA" label="hubbleESA" />
+      <node id="CanadianSpaceAgency" label="CanadianSpaceAgency" />
+      <node id="NASA.STI.Program" label="NASA.STI.Program" />
+      <node id="SETIInstitute" label="SETIInstitute" />
+      <node id="nasaspaceplace" label="nasaspaceplace" />
+      <node id="ESATimPeake" label="ESATimPeake" />
+      <node id="NASA" label="NASA" />
+      <node id="Topic_0" label="Topic_0" />
+      <node id="HubbleTelescope" label="HubbleTelescope" />
+      <node id="AstronomyMagazine" label="AstronomyMagazine" />
+      <node id="spacegovuk" label="spacegovuk" />
+    </nodes>
+    <edges>
+      <edge id="0" source="NasaAstrobiology" target="Topic_5" weight="0.01" />
+      <edge id="1" source="NasaAstrobiology" target="Topic_7" weight="0.88" />
+      <edge id="2" source="NasaAstrobiology" target="Topic_6" weight="42.11" />
+      <edge id="3" source="NasaAstrobiology" target="Topic_9" weight="4.24" />
+      <edge id="4" source="NasaAstrobiology" target="Topic_4" weight="8.11" />
+      <edge id="5" source="NasaAstrobiology" target="Topic_0" weight="0.14" />
+      <edge id="6" source="NasaAstrobiology" target="Topic_1" weight="26.1" />
+      <edge id="7" source="NasaAstrobiology" target="Topic_3" weight="0.01" />
+      <edge id="8" source="NasaAstrobiology" target="Topic_8" weight="1.72" />
+      <edge id="9" source="NasaAstrobiology" target="Topic_2" weight="16.69" />
+      <edge id="10" source="nasaarmstrong" target="Topic_2" weight="0.13" />
+      <edge id="11" source="nasaarmstrong" target="Topic_7" weight="0.12" />
+      <edge id="12" source="nasaarmstrong" target="Topic_6" weight="4.77" />
+      <edge id="13" source="nasaarmstrong" target="Topic_9" weight="9.79" />
+      <edge id="14" source="nasaarmstrong" target="Topic_4" weight="81.24" />
+      <edge id="15" source="nasaarmstrong" target="Topic_0" weight="0.67" />
+      <edge id="16" source="nasaarmstrong" target="Topic_3" weight="1.31" />
+      <edge id="17" source="nasaarmstrong" target="Topic_1" weight="1.49" />
+      <edge id="18" source="nasaarmstrong" target="Topic_8" weight="0.01" />
+      <edge id="19" source="nasaarmstrong" target="Topic_5" weight="0.46" />
+      <edge id="20" source="Topic_6" target="neildegrassetyson" weight="7.65" />
+      <edge id="21" source="Topic_6" target="NASAsKeplerMission" weight="36.75" />
+      <edge id="22" source="Topic_6" target="mars.rovers" weight="90.35" />
+      <edge id="23" source="Topic_6" target="ESOAstronomy" weight="4.23" />
+      <edge id="24" source="Topic_6" target="NASA.Little.SDO" weight="5.99" />
+      <edge id="25" source="Topic_6" target="131376260352637" weight="8.84" />
+      <edge id="26" source="Topic_6" target="NASAJPL" weight="76.45" />
+      <edge id="27" source="Topic_6" target="MarsCuriosity" weight="86.43" />
+      <edge id="28" source="Topic_6" target="ISRO" weight="3.52" />
+      <edge id="29" source="Topic_6" target="NASACassini" weight="70.42" />
+      <edge id="30" source="Topic_6" target="planetarysociety" weight="44.66" />
+      <edge id="31" source="Topic_6" target="NASAGlenn" weight="9.88" />
+      <edge id="32" source="Topic_6" target="NASAOrion" weight="3.64" />
+      <edge id="33" source="Topic_6" target="FollowNASA360" weight="47.47" />
+      <edge id="34" source="Topic_6" target="NASAKennedy" weight="7.85" />
+      <edge id="35" source="Topic_6" target="new.horizons1" weight="84.86" />
+      <edge id="36" source="Topic_6" target="NASA.GSFC" weight="11.26" />
+      <edge id="37" source="Topic_6" target="EuropeanSpaceAgency" weight="13.63" />
+      <edge id="38" source="Topic_6" target="NASAJuno" weight="72.97" />
+      <edge id="39" source="Topic_6" target="nasasolarsystem" weight="77.99" />
+      <edge id="40" source="Topic_6" target="EuropeanSpaceHistory" weight="8.84" />
+      <edge id="41" source="Topic_6" target="RosettaMission" weight="18.98" />
+      <edge id="42" source="Topic_6" target="universetoday" weight="47.68" />
+      <edge id="43" source="Topic_6" target="LunarReconnaissanceOrbiter" weight="50.81" />
+      <edge id="44" source="Topic_6" target="NASAJSC" weight="4.62" />
+      <edge id="45" source="Topic_6" target="nasalarc" weight="17.03" />
+      <edge id="46" source="Topic_6" target="AstronautChrisHadfield" weight="19.39" />
+      <edge id="47" source="Topic_6" target="NASA" weight="30.43" />
+      <edge id="48" source="Topic_6" target="NASASLS" weight="19.39" />
+      <edge id="49" source="Topic_6" target="NASAHistoryOffice" weight="20.77" />
+      <edge id="50" source="Topic_6" target="chandraxrayobservatory" weight="4.24" />
+      <edge id="51" source="Topic_6" target="nasaearth" weight="7.07" />
+      <edge id="52" source="Topic_6" target="NasaMeteorWatch" weight="24.75" />
+      <edge id="53" source="Topic_6" target="ISS" weight="2.76" />
+      <edge id="54" source="Topic_6" target="StarTalkRadio" weight="26.66" />
+      <edge id="55" source="Topic_6" target="webbtelescope" weight="7.25" />
+      <edge id="56" source="Topic_6" target="SpaceX" weight="13.07" />
+      <edge id="57" source="Topic_6" target="NASA.ISRU" weight="23.14" />
+      <edge id="58" source="Topic_6" target="hubbleESA" weight="3.24" />
+      <edge id="59" source="Topic_6" target="CanadianSpaceAgency" weight="12.1" />
+      <edge id="60" source="Topic_6" target="NASA.STI.Program" weight="23.2" />
+      <edge id="61" source="Topic_6" target="SETIInstitute" weight="30.64" />
+      <edge id="62" source="Topic_6" target="nasaspaceplace" weight="55.99" />
+      <edge id="63" source="Topic_6" target="ESATimPeake" weight="9.92" />
+      <edge id="64" source="Topic_6" target="spacecom" weight="48.55" />
+      <edge id="65" source="Topic_6" target="HubbleTelescope" weight="22.66" />
+      <edge id="66" source="Topic_6" target="AstronomyMagazine" weight="33.9" />
+      <edge id="67" source="Topic_6" target="spacegovuk" weight="13.59" />
+      <edge id="68" source="Topic_4" target="neildegrassetyson" weight="2.43" />
+      <edge id="69" source="Topic_4" target="NASAsKeplerMission" weight="8.33" />
+      <edge id="70" source="Topic_4" target="mars.rovers" weight="2.67" />
+      <edge id="71" source="Topic_4" target="ESOAstronomy" weight="1.29" />
+      <edge id="72" source="Topic_4" target="NASA.Little.SDO" weight="2.4" />
+      <edge id="73" source="Topic_4" target="131376260352637" weight="0.01" />
+      <edge id="74" source="Topic_4" target="NASAJPL" weight="4.75" />
+      <edge id="75" source="Topic_4" target="MarsCuriosity" weight="6.64" />
+      <edge id="76" source="Topic_4" target="ISRO" weight="11.82" />
+      <edge id="77" source="Topic_4" target="NASACassini" weight="0.03" />
+      <edge id="78" source="Topic_4" target="planetarysociety" weight="6.58" />
+      <edge id="79" source="Topic_4" target="NASAGlenn" weight="76.15" />
+      <edge id="80" source="Topic_4" target="NASAOrion" weight="85.71" />
+      <edge id="81" source="Topic_4" target="FollowNASA360" weight="11.02" />
+      <edge id="82" source="Topic_4" target="NASAKennedy" weight="56.01" />
+      <edge id="83" source="Topic_4" target="new.horizons1" weight="4.24" />
+      <edge id="84" source="Topic_4" target="NASA.GSFC" weight="10.69" />
+      <edge id="85" source="Topic_4" target="EuropeanSpaceAgency" weight="2.28" />
+      <edge id="86" source="Topic_4" target="NASAJuno" weight="9.98" />
+      <edge id="87" source="Topic_4" target="nasasolarsystem" weight="5.35" />
+      <edge id="88" source="Topic_4" target="EuropeanSpaceHistory" weight="7.78" />
+      <edge id="89" source="Topic_4" target="RosettaMission" weight="0.08" />
+      <edge id="90" source="Topic_4" target="universetoday" weight="7.03" />
+      <edge id="91" source="Topic_4" target="LunarReconnaissanceOrbiter" weight="3.29" />
+      <edge id="92" source="Topic_4" target="NASAJSC" weight="23.05" />
+      <edge id="93" source="Topic_4" target="nasalarc" weight="52.39" />
+      <edge id="94" source="Topic_4" target="AstronautChrisHadfield" weight="3.42" />
+      <edge id="95" source="Topic_4" target="NASA" weight="10.47" />
+      <edge id="96" source="Topic_4" target="NASASLS" weight="70.81" />
+      <edge id="97" source="Topic_4" target="NASAHistoryOffice" weight="50.09" />
+      <edge id="98" source="Topic_4" target="chandraxrayobservatory" weight="0.44" />
+      <edge id="99" source="Topic_4" target="nasaearth" weight="2.65" />
+      <edge id="100" source="Topic_4" target="NasaMeteorWatch" weight="1.84" />
+      <edge id="101" source="Topic_4" target="ISS" weight="5.9" />
+      <edge id="102" source="Topic_4" target="StarTalkRadio" weight="5.95" />
+      <edge id="103" source="Topic_4" target="webbtelescope" weight="14.19" />
+      <edge id="104" source="Topic_4" target="SpaceX" weight="24.01" />
+      <edge id="105" source="Topic_4" target="NASA.ISRU" weight="60.12" />
+      <edge id="106" source="Topic_4" target="hubbleESA" weight="0.05" />
+      <edge id="107" source="Topic_4" target="CanadianSpaceAgency" weight="5.94" />
+      <edge id="108" source="Topic_4" target="NASA.STI.Program" weight="23.69" />
+      <edge id="109" source="Topic_4" target="SETIInstitute" weight="1.81" />
+      <edge id="110" source="Topic_4" target="nasaspaceplace" weight="6.49" />
+      <edge id="111" source="Topic_4" target="ESATimPeake" weight="3.15" />
+      <edge id="112" source="Topic_4" target="spacecom" weight="6.42" />
+      <edge id="113" source="Topic_4" target="HubbleTelescope" weight="0.92" />
+      <edge id="114" source="Topic_4" target="AstronomyMagazine" weight="0.75" />
+      <edge id="115" source="Topic_4" target="spacegovuk" weight="5.21" />
+      <edge id="116" source="NASAsKeplerMission" target="Topic_5" weight="0.82" />
+      <edge id="117" source="NASAsKeplerMission" target="Topic_7" weight="5.23" />
+      <edge id="118" source="NASAsKeplerMission" target="Topic_9" weight="1.64" />
+      <edge id="119" source="NASAsKeplerMission" target="Topic_0" weight="0.57" />
+      <edge id="120" source="NASAsKeplerMission" target="Topic_3" weight="0.82" />
+      <edge id="121" source="NASAsKeplerMission" target="Topic_1" weight="39.88" />
+      <edge id="122" source="NASAsKeplerMission" target="Topic_8" weight="0.89" />
+      <edge id="123" source="NASAsKeplerMission" target="Topic_2" weight="5.07" />
+      <edge id="124" source="mars.rovers" target="Topic_2" weight="0.43" />
+      <edge id="125" source="mars.rovers" target="Topic_5" weight="0.16" />
+      <edge id="126" source="mars.rovers" target="Topic_7" weight="0.06" />
+      <edge id="127" source="mars.rovers" target="Topic_9" weight="3.08" />
+      <edge id="128" source="mars.rovers" target="Topic_0" weight="0.01" />
+      <edge id="129" source="mars.rovers" target="Topic_3" weight="0.15" />
+      <edge id="130" source="mars.rovers" target="Topic_1" weight="1.56" />
+      <edge id="131" source="mars.rovers" target="Topic_8" weight="1.54" />
+      <edge id="132" source="neildegrassetyson" target="Topic_5" weight="0.4" />
+      <edge id="133" source="neildegrassetyson" target="Topic_7" weight="0.04" />
+      <edge id="134" source="neildegrassetyson" target="Topic_9" weight="1.3" />
+      <edge id="135" source="neildegrassetyson" target="Topic_0" weight="0.0" />
+      <edge id="136" source="neildegrassetyson" target="Topic_3" weight="0.15" />
+      <edge id="137" source="neildegrassetyson" target="Topic_1" weight="3.23" />
+      <edge id="138" source="neildegrassetyson" target="Topic_8" weight="0.09" />
+      <edge id="139" source="neildegrassetyson" target="Topic_2" weight="84.7" />
+      <edge id="140" source="ESOAstronomy" target="Topic_2" weight="0.16" />
+      <edge id="141" source="ESOAstronomy" target="Topic_7" weight="3.03" />
+      <edge id="142" source="ESOAstronomy" target="Topic_0" weight="81.14" />
+      <edge id="143" source="ESOAstronomy" target="Topic_9" weight="1.87" />
+      <edge id="144" source="ESOAstronomy" target="Topic_3" weight="0.0" />
+      <edge id="145" source="ESOAstronomy" target="Topic_1" weight="6.14" />
+      <edge id="146" source="ESOAstronomy" target="Topic_8" weight="0.84" />
+      <edge id="147" source="ESOAstronomy" target="Topic_5" weight="1.29" />
+      <edge id="148" source="Topic_2" target="NASA.Little.SDO" weight="0.0" />
+      <edge id="149" source="Topic_2" target="131376260352637" weight="10.19" />
+      <edge id="150" source="Topic_2" target="NASAJPL" weight="0.15" />
+      <edge id="151" source="Topic_2" target="MarsCuriosity" weight="0.39" />
+      <edge id="152" source="Topic_2" target="ISRO" weight="0.01" />
+      <edge id="153" source="Topic_2" target="NASACassini" weight="0.0" />
+      <edge id="154" source="Topic_2" target="planetarysociety" weight="2.43" />
+      <edge id="155" source="Topic_2" target="NASAGlenn" weight="1.82" />
+      <edge id="156" source="Topic_2" target="NASAOrion" weight="0.69" />
+      <edge id="157" source="Topic_2" target="FollowNASA360" weight="0.03" />
+      <edge id="158" source="Topic_2" target="NASAKennedy" weight="0.0" />
+      <edge id="159" source="Topic_2" target="new.horizons1" weight="1.25" />
+      <edge id="160" source="Topic_2" target="NASA.GSFC" weight="0.0" />
+      <edge id="161" source="Topic_2" target="EuropeanSpaceAgency" weight="0.19" />
+      <edge id="162" source="Topic_2" target="NASAJuno" weight="0.0" />
+      <edge id="163" source="Topic_2" target="nasasolarsystem" weight="1.07" />
+      <edge id="164" source="Topic_2" target="EuropeanSpaceHistory" weight="0.0" />
+      <edge id="165" source="Topic_2" target="RosettaMission" weight="0.01" />
+      <edge id="166" source="Topic_2" target="universetoday" weight="1.18" />
+      <edge id="167" source="Topic_2" target="LunarReconnaissanceOrbiter" weight="1.63" />
+      <edge id="168" source="Topic_2" target="NASAJSC" weight="0.19" />
+      <edge id="169" source="Topic_2" target="nasalarc" weight="1.01" />
+      <edge id="170" source="Topic_2" target="AstronautChrisHadfield" weight="30.77" />
+      <edge id="171" source="Topic_2" target="NASA" weight="0.0" />
+      <edge id="172" source="Topic_2" target="NASASLS" weight="0.0" />
+      <edge id="173" source="Topic_2" target="NASAHistoryOffice" weight="0.0" />
+      <edge id="174" source="Topic_2" target="chandraxrayobservatory" weight="0.14" />
+      <edge id="175" source="Topic_2" target="nasaearth" weight="0.25" />
+      <edge id="176" source="Topic_2" target="NasaMeteorWatch" weight="30.74" />
+      <edge id="177" source="Topic_2" target="ISS" weight="0.0" />
+      <edge id="178" source="Topic_2" target="StarTalkRadio" weight="37.46" />
+      <edge id="179" source="Topic_2" target="webbtelescope" weight="0.25" />
+      <edge id="180" source="Topic_2" target="SpaceX" weight="1.38" />
+      <edge id="181" source="Topic_2" target="NASA.ISRU" weight="0.0" />
+      <edge id="182" source="Topic_2" target="hubbleESA" weight="0.0" />
+      <edge id="183" source="Topic_2" target="CanadianSpaceAgency" weight="0.43" />
+      <edge id="184" source="Topic_2" target="NASA.STI.Program" weight="0.0" />
+      <edge id="185" source="Topic_2" target="SETIInstitute" weight="0.34" />
+      <edge id="186" source="Topic_2" target="nasaspaceplace" weight="3.32" />
+      <edge id="187" source="Topic_2" target="ESATimPeake" weight="5.24" />
+      <edge id="188" source="Topic_2" target="spacecom" weight="8.88" />
+      <edge id="189" source="Topic_2" target="HubbleTelescope" weight="0.38" />
+      <edge id="190" source="Topic_2" target="AstronomyMagazine" weight="0.2" />
+      <edge id="191" source="Topic_2" target="spacegovuk" weight="0.3" />
+      <edge id="192" source="NASA.Little.SDO" target="Topic_7" weight="0.81" />
+      <edge id="193" source="NASA.Little.SDO" target="Topic_9" weight="2.92" />
+      <edge id="194" source="NASA.Little.SDO" target="Topic_0" weight="0.13" />
+      <edge id="195" source="NASA.Little.SDO" target="Topic_3" weight="0.59" />
+      <edge id="196" source="NASA.Little.SDO" target="Topic_1" weight="5.64" />
+      <edge id="197" source="NASA.Little.SDO" target="Topic_8" weight="0.0" />
+      <edge id="198" source="NASA.Little.SDO" target="Topic_5" weight="81.51" />
+      <edge id="199" source="131376260352637" target="Topic_5" weight="1.0" />
+      <edge id="200" source="131376260352637" target="Topic_7" weight="8.57" />
+      <edge id="201" source="131376260352637" target="Topic_9" weight="12.48" />
+      <edge id="202" source="131376260352637" target="Topic_0" weight="0.02" />
+      <edge id="203" source="131376260352637" target="Topic_3" weight="56.86" />
+      <edge id="204" source="131376260352637" target="Topic_1" weight="2.02" />
+      <edge id="205" source="131376260352637" target="Topic_8" weight="0.0" />
+      <edge id="206" source="Topic_3" target="NASAJPL" weight="1.3" />
+      <edge id="207" source="Topic_3" target="MarsCuriosity" weight="0.2" />
+      <edge id="208" source="Topic_3" target="ISRO" weight="0.0" />
+      <edge id="209" source="Topic_3" target="NASACassini" weight="0.0" />
+      <edge id="210" source="Topic_3" target="planetarysociety" weight="2.67" />
+      <edge id="211" source="Topic_3" target="NASAGlenn" weight="4.93" />
+      <edge id="212" source="Topic_3" target="NASAOrion" weight="5.53" />
+      <edge id="213" source="Topic_3" target="FollowNASA360" weight="7.09" />
+      <edge id="214" source="Topic_3" target="NASAKennedy" weight="30.32" />
+      <edge id="215" source="Topic_3" target="new.horizons1" weight="0.03" />
+      <edge id="216" source="Topic_3" target="NASA.GSFC" weight="1.91" />
+      <edge id="217" source="Topic_3" target="EuropeanSpaceAgency" weight="6.78" />
+      <edge id="218" source="Topic_3" target="NASAJuno" weight="0.29" />
+      <edge id="219" source="Topic_3" target="nasasolarsystem" weight="0.07" />
+      <edge id="220" source="Topic_3" target="EuropeanSpaceHistory" weight="4.03" />
+      <edge id="221" source="Topic_3" target="RosettaMission" weight="0.0" />
+      <edge id="222" source="Topic_3" target="universetoday" weight="8.83" />
+      <edge id="223" source="Topic_3" target="LunarReconnaissanceOrbiter" weight="0.0" />
+      <edge id="224" source="Topic_3" target="NASAJSC" weight="69.51" />
+      <edge id="225" source="Topic_3" target="nasalarc" weight="7.73" />
+      <edge id="226" source="Topic_3" target="AstronautChrisHadfield" weight="6.75" />
+      <edge id="227" source="Topic_3" target="NASA" weight="30.78" />
+      <edge id="228" source="Topic_3" target="NASASLS" weight="3.66" />
+      <edge id="229" source="Topic_3" target="NASAHistoryOffice" weight="5.12" />
+      <edge id="230" source="Topic_3" target="chandraxrayobservatory" weight="0.17" />
+      <edge id="231" source="Topic_3" target="nasaearth" weight="1.77" />
+      <edge id="232" source="Topic_3" target="NasaMeteorWatch" weight="0.5" />
+      <edge id="233" source="Topic_3" target="ISS" weight="84.92" />
+      <edge id="234" source="Topic_3" target="StarTalkRadio" weight="6.57" />
+      <edge id="235" source="Topic_3" target="webbtelescope" weight="0.03" />
+      <edge id="236" source="Topic_3" target="SpaceX" weight="57.47" />
+      <edge id="237" source="Topic_3" target="NASA.ISRU" weight="8.95" />
+      <edge id="238" source="Topic_3" target="hubbleESA" weight="0.0" />
+      <edge id="239" source="Topic_3" target="CanadianSpaceAgency" weight="18.15" />
+      <edge id="240" source="Topic_3" target="NASA.STI.Program" weight="5.71" />
+      <edge id="241" source="Topic_3" target="SETIInstitute" weight="0.83" />
+      <edge id="242" source="Topic_3" target="nasaspaceplace" weight="3.55" />
+      <edge id="243" source="Topic_3" target="ESATimPeake" weight="17.66" />
+      <edge id="244" source="Topic_3" target="spacecom" weight="7.56" />
+      <edge id="245" source="Topic_3" target="HubbleTelescope" weight="0.0" />
+      <edge id="246" source="Topic_3" target="AstronomyMagazine" weight="0.14" />
+      <edge id="247" source="Topic_3" target="spacegovuk" weight="0.26" />
+      <edge id="248" source="NASAJPL" target="Topic_7" weight="0.12" />
+      <edge id="249" source="NASAJPL" target="Topic_9" weight="8.09" />
+      <edge id="250" source="NASAJPL" target="Topic_0" weight="0.57" />
+      <edge id="251" source="NASAJPL" target="Topic_1" weight="7.49" />
+      <edge id="252" source="NASAJPL" target="Topic_8" weight="0.34" />
+      <edge id="253" source="NASAJPL" target="Topic_5" weight="0.74" />
+      <edge id="254" source="ISRO" target="Topic_7" weight="0.92" />
+      <edge id="255" source="ISRO" target="Topic_9" weight="2.25" />
+      <edge id="256" source="ISRO" target="Topic_8" weight="78.88" />
+      <edge id="257" source="ISRO" target="Topic_0" weight="0.0" />
+      <edge id="258" source="ISRO" target="Topic_1" weight="1.15" />
+      <edge id="259" source="ISRO" target="Topic_5" weight="1.43" />
+      <edge id="260" source="MarsCuriosity" target="Topic_5" weight="0.44" />
+      <edge id="261" source="MarsCuriosity" target="Topic_7" weight="0.0" />
+      <edge id="262" source="MarsCuriosity" target="Topic_9" weight="2.06" />
+      <edge id="263" source="MarsCuriosity" target="Topic_0" weight="0.0" />
+      <edge id="264" source="MarsCuriosity" target="Topic_1" weight="2.43" />
+      <edge id="265" source="MarsCuriosity" target="Topic_8" weight="1.4" />
+      <edge id="266" source="EuropeanSpaceAgency" target="Topic_5" weight="1.0" />
+      <edge id="267" source="EuropeanSpaceAgency" target="Topic_7" weight="45.94" />
+      <edge id="268" source="EuropeanSpaceAgency" target="Topic_9" weight="5.76" />
+      <edge id="269" source="EuropeanSpaceAgency" target="Topic_8" weight="18.29" />
+      <edge id="270" source="EuropeanSpaceAgency" target="Topic_1" weight="2.77" />
+      <edge id="271" source="EuropeanSpaceAgency" target="Topic_0" weight="3.35" />
+      <edge id="272" source="NASACassini" target="Topic_7" weight="0.01" />
+      <edge id="273" source="NASACassini" target="Topic_0" weight="0.32" />
+      <edge id="274" source="NASACassini" target="Topic_9" weight="9.82" />
+      <edge id="275" source="NASACassini" target="Topic_1" weight="9.65" />
+      <edge id="276" source="NASACassini" target="Topic_8" weight="0.0" />
+      <edge id="277" source="NASACassini" target="Topic_5" weight="9.74" />
+      <edge id="278" source="Topic_8" target="planetarysociety" weight="34.3" />
+      <edge id="279" source="Topic_8" target="NASAGlenn" weight="0.02" />
+      <edge id="280" source="Topic_8" target="NASAOrion" weight="0.02" />
+      <edge id="281" source="Topic_8" target="FollowNASA360" weight="0.12" />
+      <edge id="282" source="Topic_8" target="NASAKennedy" weight="0.06" />
+      <edge id="283" source="Topic_8" target="new.horizons1" weight="2.6" />
+      <edge id="284" source="Topic_8" target="NASA.GSFC" weight="0.0" />
+      <edge id="285" source="Topic_8" target="NASAJuno" weight="5.97" />
+      <edge id="286" source="Topic_8" target="nasasolarsystem" weight="3.26" />
+      <edge id="287" source="Topic_8" target="EuropeanSpaceHistory" weight="1.03" />
+      <edge id="288" source="Topic_8" target="RosettaMission" weight="71.5" />
+      <edge id="289" source="Topic_8" target="universetoday" weight="2.79" />
+      <edge id="290" source="Topic_8" target="LunarReconnaissanceOrbiter" weight="32.49" />
+      <edge id="291" source="Topic_8" target="NASAJSC" weight="0.0" />
+      <edge id="292" source="Topic_8" target="nasalarc" weight="0.0" />
+      <edge id="293" source="Topic_8" target="AstronautChrisHadfield" weight="0.01" />
+      <edge id="294" source="Topic_8" target="NASA" weight="0.0" />
+      <edge id="295" source="Topic_8" target="NASASLS" weight="0.06" />
+      <edge id="296" source="Topic_8" target="NASAHistoryOffice" weight="0.0" />
+      <edge id="297" source="Topic_8" target="chandraxrayobservatory" weight="0.0" />
+      <edge id="298" source="Topic_8" target="nasaearth" weight="0.21" />
+      <edge id="299" source="Topic_8" target="NasaMeteorWatch" weight="0.08" />
+      <edge id="300" source="Topic_8" target="ISS" weight="0.0" />
+      <edge id="301" source="Topic_8" target="StarTalkRadio" weight="1.43" />
+      <edge id="302" source="Topic_8" target="webbtelescope" weight="0.07" />
+      <edge id="303" source="Topic_8" target="SpaceX" weight="0.67" />
+      <edge id="304" source="Topic_8" target="NASA.ISRU" weight="1.67" />
+      <edge id="305" source="Topic_8" target="hubbleESA" weight="0.31" />
+      <edge id="306" source="Topic_8" target="CanadianSpaceAgency" weight="0.26" />
+      <edge id="307" source="Topic_8" target="NASA.STI.Program" weight="0.17" />
+      <edge id="308" source="Topic_8" target="SETIInstitute" weight="2.4" />
+      <edge id="309" source="Topic_8" target="nasaspaceplace" weight="0.23" />
+      <edge id="310" source="Topic_8" target="ESATimPeake" weight="0.07" />
+      <edge id="311" source="Topic_8" target="spacecom" weight="0.71" />
+      <edge id="312" source="Topic_8" target="HubbleTelescope" weight="0.51" />
+      <edge id="313" source="Topic_8" target="AstronomyMagazine" weight="1.53" />
+      <edge id="314" source="Topic_8" target="spacegovuk" weight="5.16" />
+      <edge id="315" source="LunarReconnaissanceOrbiter" target="Topic_7" weight="0.58" />
+      <edge id="316" source="LunarReconnaissanceOrbiter" target="Topic_9" weight="4.55" />
+      <edge id="317" source="LunarReconnaissanceOrbiter" target="Topic_1" weight="2.44" />
+      <edge id="318" source="LunarReconnaissanceOrbiter" target="Topic_0" weight="0.6" />
+      <edge id="319" source="LunarReconnaissanceOrbiter" target="Topic_5" weight="3.62" />
+      <edge id="320" source="chandraxrayobservatory" target="Topic_7" weight="0.34" />
+      <edge id="321" source="chandraxrayobservatory" target="Topic_1" weight="85.57" />
+      <edge id="322" source="chandraxrayobservatory" target="Topic_9" weight="1.11" />
+      <edge id="323" source="chandraxrayobservatory" target="Topic_0" weight="1.1" />
+      <edge id="324" source="chandraxrayobservatory" target="Topic_5" weight="6.9" />
+      <edge id="325" source="NASAOrion" target="Topic_7" weight="1.28" />
+      <edge id="326" source="NASAOrion" target="Topic_9" weight="1.0" />
+      <edge id="327" source="NASAOrion" target="Topic_0" weight="0.01" />
+      <edge id="328" source="NASAOrion" target="Topic_1" weight="0.52" />
+      <edge id="329" source="NASAOrion" target="Topic_5" weight="1.59" />
+      <edge id="330" source="FollowNASA360" target="Topic_7" weight="0.0" />
+      <edge id="331" source="FollowNASA360" target="Topic_9" weight="6.12" />
+      <edge id="332" source="FollowNASA360" target="Topic_0" weight="5.08" />
+      <edge id="333" source="FollowNASA360" target="Topic_1" weight="16.31" />
+      <edge id="334" source="FollowNASA360" target="Topic_5" weight="6.75" />
+      <edge id="335" source="NASAKennedy" target="Topic_7" weight="0.15" />
+      <edge id="336" source="NASAKennedy" target="Topic_9" weight="3.67" />
+      <edge id="337" source="NASAKennedy" target="Topic_1" weight="0.44" />
+      <edge id="338" source="NASAKennedy" target="Topic_0" weight="0.51" />
+      <edge id="339" source="NASAKennedy" target="Topic_5" weight="1.0" />
+      <edge id="340" source="new.horizons1" target="Topic_5" weight="0.97" />
+      <edge id="341" source="new.horizons1" target="Topic_7" weight="0.05" />
+      <edge id="342" source="new.horizons1" target="Topic_9" weight="1.66" />
+      <edge id="343" source="new.horizons1" target="Topic_0" weight="0.06" />
+      <edge id="344" source="new.horizons1" target="Topic_1" weight="4.28" />
+      <edge id="345" source="NASA.GSFC" target="Topic_7" weight="0.01" />
+      <edge id="346" source="NASA.GSFC" target="Topic_9" weight="38.1" />
+      <edge id="347" source="NASA.GSFC" target="Topic_0" weight="10.33" />
+      <edge id="348" source="NASA.GSFC" target="Topic_1" weight="10.82" />
+      <edge id="349" source="NASA.GSFC" target="Topic_5" weight="16.88" />
+      <edge id="350" source="Topic_5" target="planetarysociety" weight="0.56" />
+      <edge id="351" source="Topic_5" target="NASAGlenn" weight="0.58" />
+      <edge id="352" source="Topic_5" target="NASAJuno" weight="4.8" />
+      <edge id="353" source="Topic_5" target="nasasolarsystem" weight="2.62" />
+      <edge id="354" source="Topic_5" target="EuropeanSpaceHistory" weight="2.67" />
+      <edge id="355" source="Topic_5" target="RosettaMission" weight="2.26" />
+      <edge id="356" source="Topic_5" target="universetoday" weight="3.59" />
+      <edge id="357" source="Topic_5" target="NASAJSC" weight="0.33" />
+      <edge id="358" source="Topic_5" target="nasalarc" weight="2.7" />
+      <edge id="359" source="Topic_5" target="AstronautChrisHadfield" weight="1.33" />
+      <edge id="360" source="Topic_5" target="NASA" weight="4.12" />
+      <edge id="361" source="Topic_5" target="NASASLS" weight="1.04" />
+      <edge id="362" source="Topic_5" target="NASAHistoryOffice" weight="3.7" />
+      <edge id="363" source="Topic_5" target="nasaearth" weight="4.11" />
+      <edge id="364" source="Topic_5" target="NasaMeteorWatch" weight="25.41" />
+      <edge id="365" source="Topic_5" target="ISS" weight="0.69" />
+      <edge id="366" source="Topic_5" target="StarTalkRadio" weight="2.93" />
+      <edge id="367" source="Topic_5" target="webbtelescope" weight="0.91" />
+      <edge id="368" source="Topic_5" target="SpaceX" weight="0.85" />
+      <edge id="369" source="Topic_5" target="NASA.ISRU" weight="0.2" />
+      <edge id="370" source="Topic_5" target="hubbleESA" weight="1.9" />
+      <edge id="371" source="Topic_5" target="CanadianSpaceAgency" weight="1.97" />
+      <edge id="372" source="Topic_5" target="NASA.STI.Program" weight="2.66" />
+      <edge id="373" source="Topic_5" target="SETIInstitute" weight="6.32" />
+      <edge id="374" source="Topic_5" target="nasaspaceplace" weight="3.95" />
+      <edge id="375" source="Topic_5" target="ESATimPeake" weight="0.71" />
+      <edge id="376" source="Topic_5" target="spacecom" weight="2.28" />
+      <edge id="377" source="Topic_5" target="HubbleTelescope" weight="2.45" />
+      <edge id="378" source="Topic_5" target="AstronomyMagazine" weight="2.88" />
+      <edge id="379" source="Topic_5" target="spacegovuk" weight="0.26" />
+      <edge id="380" source="NASAJuno" target="Topic_7" weight="0.52" />
+      <edge id="381" source="NASAJuno" target="Topic_9" weight="0.99" />
+      <edge id="382" source="NASAJuno" target="Topic_0" weight="0.34" />
+      <edge id="383" source="NASAJuno" target="Topic_1" weight="4.14" />
+      <edge id="384" source="nasasolarsystem" target="Topic_7" weight="1.25" />
+      <edge id="385" source="nasasolarsystem" target="Topic_9" weight="3.85" />
+      <edge id="386" source="nasasolarsystem" target="Topic_0" weight="0.17" />
+      <edge id="387" source="nasasolarsystem" target="Topic_1" weight="4.37" />
+      <edge id="388" source="EuropeanSpaceHistory" target="Topic_7" weight="69.88" />
+      <edge id="389" source="EuropeanSpaceHistory" target="Topic_9" weight="0.21" />
+      <edge id="390" source="EuropeanSpaceHistory" target="Topic_0" weight="0.95" />
+      <edge id="391" source="EuropeanSpaceHistory" target="Topic_1" weight="4.61" />
+      <edge id="392" source="Topic_1" target="planetarysociety" weight="5.51" />
+      <edge id="393" source="Topic_1" target="NASAGlenn" weight="1.32" />
+      <edge id="394" source="Topic_1" target="RosettaMission" weight="1.78" />
+      <edge id="395" source="Topic_1" target="universetoday" weight="20.65" />
+      <edge id="396" source="Topic_1" target="NASAJSC" weight="0.23" />
+      <edge id="397" source="Topic_1" target="nasalarc" weight="2.2" />
+      <edge id="398" source="Topic_1" target="AstronautChrisHadfield" weight="2.88" />
+      <edge id="399" source="Topic_1" target="NASA" weight="9.86" />
+      <edge id="400" source="Topic_1" target="NASASLS" weight="2.62" />
+      <edge id="401" source="Topic_1" target="NASAHistoryOffice" weight="4.42" />
+      <edge id="402" source="Topic_1" target="nasaearth" weight="2.72" />
+      <edge id="403" source="Topic_1" target="NasaMeteorWatch" weight="6.65" />
+      <edge id="404" source="Topic_1" target="ISS" weight="0.47" />
+      <edge id="405" source="Topic_1" target="StarTalkRadio" weight="10.59" />
+      <edge id="406" source="Topic_1" target="webbtelescope" weight="7.2" />
+      <edge id="407" source="Topic_1" target="SpaceX" weight="0.27" />
+      <edge id="408" source="Topic_1" target="NASA.ISRU" weight="1.66" />
+      <edge id="409" source="Topic_1" target="hubbleESA" weight="15.22" />
+      <edge id="410" source="Topic_1" target="CanadianSpaceAgency" weight="2.59" />
+      <edge id="411" source="Topic_1" target="NASA.STI.Program" weight="12.0" />
+      <edge id="412" source="Topic_1" target="SETIInstitute" weight="46.83" />
+      <edge id="413" source="Topic_1" target="nasaspaceplace" weight="11.45" />
+      <edge id="414" source="Topic_1" target="ESATimPeake" weight="1.37" />
+      <edge id="415" source="Topic_1" target="spacecom" weight="18.64" />
+      <edge id="416" source="Topic_1" target="HubbleTelescope" weight="34.36" />
+      <edge id="417" source="Topic_1" target="AstronomyMagazine" weight="56.73" />
+      <edge id="418" source="Topic_1" target="spacegovuk" weight="3.51" />
+      <edge id="419" source="RosettaMission" target="Topic_7" weight="4.64" />
+      <edge id="420" source="RosettaMission" target="Topic_9" weight="0.0" />
+      <edge id="421" source="RosettaMission" target="Topic_0" weight="0.74" />
+      <edge id="422" source="universetoday" target="Topic_7" weight="0.9" />
+      <edge id="423" source="universetoday" target="Topic_9" weight="6.59" />
+      <edge id="424" source="universetoday" target="Topic_0" weight="0.76" />
+      <edge id="425" source="planetarysociety" target="Topic_7" weight="1.56" />
+      <edge id="426" source="planetarysociety" target="Topic_9" weight="1.34" />
+      <edge id="427" source="planetarysociety" target="Topic_0" weight="0.37" />
+      <edge id="428" source="Topic_7" target="NASAGlenn" weight="1.92" />
+      <edge id="429" source="Topic_7" target="NASAJSC" weight="0.9" />
+      <edge id="430" source="Topic_7" target="nasalarc" weight="0.77" />
+      <edge id="431" source="Topic_7" target="AstronautChrisHadfield" weight="24.24" />
+      <edge id="432" source="Topic_7" target="NASA" weight="0.0" />
+      <edge id="433" source="Topic_7" target="NASASLS" weight="0.13" />
+      <edge id="434" source="Topic_7" target="NASAHistoryOffice" weight="12.12" />
+      <edge id="435" source="Topic_7" target="nasaearth" weight="1.34" />
+      <edge id="436" source="Topic_7" target="NasaMeteorWatch" weight="0.33" />
+      <edge id="437" source="Topic_7" target="ISS" weight="2.1" />
+      <edge id="438" source="Topic_7" target="StarTalkRadio" weight="2.59" />
+      <edge id="439" source="Topic_7" target="webbtelescope" weight="0.6" />
+      <edge id="440" source="Topic_7" target="SpaceX" weight="1.47" />
+      <edge id="441" source="Topic_7" target="NASA.ISRU" weight="1.65" />
+      <edge id="442" source="Topic_7" target="hubbleESA" weight="0.86" />
+      <edge id="443" source="Topic_7" target="CanadianSpaceAgency" weight="54.31" />
+      <edge id="444" source="Topic_7" target="NASA.STI.Program" weight="0.0" />
+      <edge id="445" source="Topic_7" target="SETIInstitute" weight="0.5" />
+      <edge id="446" source="Topic_7" target="nasaspaceplace" weight="2.76" />
+      <edge id="447" source="Topic_7" target="ESATimPeake" weight="58.82" />
+      <edge id="448" source="Topic_7" target="spacecom" weight="2.01" />
+      <edge id="449" source="Topic_7" target="HubbleTelescope" weight="0.0" />
+      <edge id="450" source="Topic_7" target="AstronomyMagazine" weight="0.37" />
+      <edge id="451" source="Topic_7" target="spacegovuk" weight="64.91" />
+      <edge id="452" source="NASAJSC" target="Topic_9" weight="1.09" />
+      <edge id="453" source="NASAJSC" target="Topic_0" weight="0.06" />
+      <edge id="454" source="nasalarc" target="Topic_9" weight="16.16" />
+      <edge id="455" source="nasalarc" target="Topic_0" weight="0.0" />
+      <edge id="456" source="AstronautChrisHadfield" target="Topic_9" weight="11.2" />
+      <edge id="457" source="AstronautChrisHadfield" target="Topic_0" weight="0.01" />
+      <edge id="458" source="Topic_9" target="NASAGlenn" weight="3.37" />
+      <edge id="459" source="Topic_9" target="NASA" weight="13.78" />
+      <edge id="460" source="Topic_9" target="NASASLS" weight="2.15" />
+      <edge id="461" source="Topic_9" target="NASAHistoryOffice" weight="3.78" />
+      <edge id="462" source="Topic_9" target="nasaearth" weight="79.89" />
+      <edge id="463" source="Topic_9" target="NasaMeteorWatch" weight="9.69" />
+      <edge id="464" source="Topic_9" target="ISS" weight="3.15" />
+      <edge id="465" source="Topic_9" target="StarTalkRadio" weight="2.61" />
+      <edge id="466" source="Topic_9" target="webbtelescope" weight="0.73" />
+      <edge id="467" source="Topic_9" target="SpaceX" weight="0.8" />
+      <edge id="468" source="Topic_9" target="NASA.ISRU" weight="2.39" />
+      <edge id="469" source="Topic_9" target="hubbleESA" weight="1.27" />
+      <edge id="470" source="Topic_9" target="CanadianSpaceAgency" weight="3.86" />
+      <edge id="471" source="Topic_9" target="NASA.STI.Program" weight="31.0" />
+      <edge id="472" source="Topic_9" target="SETIInstitute" weight="7.32" />
+      <edge id="473" source="Topic_9" target="nasaspaceplace" weight="9.72" />
+      <edge id="474" source="Topic_9" target="ESATimPeake" weight="3.06" />
+      <edge id="475" source="Topic_9" target="spacecom" weight="3.58" />
+      <edge id="476" source="Topic_9" target="HubbleTelescope" weight="0.68" />
+      <edge id="477" source="Topic_9" target="AstronomyMagazine" weight="1.96" />
+      <edge id="478" source="Topic_9" target="spacegovuk" weight="2.53" />
+      <edge id="479" source="NASASLS" target="Topic_0" weight="0.14" />
+      <edge id="480" source="NASAHistoryOffice" target="Topic_0" weight="0.0" />
+      <edge id="481" source="NASAGlenn" target="Topic_0" weight="0.0" />
+      <edge id="482" source="nasaearth" target="Topic_0" weight="0.0" />
+      <edge id="483" source="spacecom" target="Topic_0" weight="1.39" />
+      <edge id="484" source="NasaMeteorWatch" target="Topic_0" weight="0.0" />
+      <edge id="485" source="ISS" target="Topic_0" weight="0.0" />
+      <edge id="486" source="StarTalkRadio" target="Topic_0" weight="3.2" />
+      <edge id="487" source="webbtelescope" target="Topic_0" weight="68.75" />
+      <edge id="488" source="SpaceX" target="Topic_0" weight="0.0" />
+      <edge id="489" source="NASA.ISRU" target="Topic_0" weight="0.22" />
+      <edge id="490" source="hubbleESA" target="Topic_0" weight="77.15" />
+      <edge id="491" source="CanadianSpaceAgency" target="Topic_0" weight="0.39" />
+      <edge id="492" source="NASA.STI.Program" target="Topic_0" weight="1.58" />
+      <edge id="493" source="SETIInstitute" target="Topic_0" weight="3.01" />
+      <edge id="494" source="nasaspaceplace" target="Topic_0" weight="2.54" />
+      <edge id="495" source="ESATimPeake" target="Topic_0" weight="0.0" />
+      <edge id="496" source="NASA" target="Topic_0" weight="0.57" />
+      <edge id="497" source="Topic_0" target="HubbleTelescope" weight="38.03" />
+      <edge id="498" source="Topic_0" target="AstronomyMagazine" weight="1.55" />
+      <edge id="499" source="Topic_0" target="spacegovuk" weight="4.27" />
+    </edges>
+  </graph>
+</gexf>

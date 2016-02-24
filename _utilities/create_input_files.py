@@ -9,7 +9,7 @@ import os
 #################
 
 
-path_to_preprocessed_data_file = '../../FacebookML/fb_data/posts/preprocessed_fb_posts_20160127.csv'
+path_to_preprocessed_data_file = '../../FacebookML/fb_data/posts/preprocessed_fb_posts_20160223.csv'
 path_to_store_output_directory = '../mallet_input/multiple_files/fb_posts/'
 
 lines = open(path_to_preprocessed_data_file,'r').readlines()

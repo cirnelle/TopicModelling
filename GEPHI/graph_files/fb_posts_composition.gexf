@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-02-23">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="NasaAstrobiology" label="NasaAstrobiology">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.01000097766519"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="-124.35974" y="-552.6765"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="nasaarmstrong" label="nasaarmstrong">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.98999777622521"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-457.6185" y="232.5033"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Topic_6" label="PLANET EXPLORATION">
+        <attvalues>
+          <attvalue for="degree" value="50"></attvalue>
+          <attvalue for="weighted degree" value="1412.3899991512299"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8676470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.923728813559322"></attvalue>
+          <attvalue for="betweenesscentrality" value="157.03590896542792"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="220.22414" y="-37.45195"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Topic_4" label="ROCKET LAUNCH">
+        <attvalues>
+          <attvalue for="degree" value="50"></attvalue>
+          <attvalue for="weighted degree" value="795.6699916534126"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8676470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.923728813559322"></attvalue>
+          <attvalue for="betweenesscentrality" value="157.03590896542792"></attvalue>
+        </attvalues>
+        <viz:size value="46.504295"></viz:size>
+        <viz:position x="124.52704" y="106.13538"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="NASAsKeplerMission" label="NASAsKeplerMission">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000113248825"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="132.72946" y="-586.76587"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="mars.rovers" label="mars.rovers">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00999838672578"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="-244.73317" y="362.31815"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="neildegrassetyson" label="neildegrassetyson">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.98999709635973"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-24.737091" y="635.2869"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="ESOAstronomy" label="ESOAstronomy">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.9899991452694"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.8575772971817215"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="364.5069" y="457.99655"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Topic_2" label="STARTALK">
+        <attvalues>
+          <attvalue for="degree" value="37"></attvalue>
+          <attvalue for="weighted degree" value="249.49999647028744"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6276595744680851"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7768361581920904"></attvalue>
+          <attvalue for="betweenesscentrality" value="77.81102518344082"></attvalue>
+        </attvalues>
+        <viz:size value="25.69639"></viz:size>
+        <viz:position x="-264.44666" y="139.56622"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="NASA.Little.SDO" label="NASA.Little.SDO">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.99000191688538"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.1523905543438284"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-513.4479" y="-584.2134"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="131376260352637" label="131376260352637">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.98999956063926"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.7901483396156508"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="547.2185" y="-124.04913"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Topic_3" label="SPACE MISSIONS">
+        <attvalues>
+          <attvalue for="degree" value="43"></attvalue>
+          <attvalue for="weighted degree" value="471.6600022893399"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7195121951219512"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8446327683615821"></attvalue>
+          <attvalue for="betweenesscentrality" value="110.87833968160669"></attvalue>
+        </attvalues>
+        <viz:size value="34.16021"></viz:size>
+        <viz:position x="-72.19016" y="220.89154"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="NASAJPL" label="NASAJPL">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.99999683350325"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000761"></viz:size>
+        <viz:position x="-433.01675" y="-8.877651"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="ISRO" label="ISRO">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.97999686934054"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.2853679109960383"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-738.3165" y="-224.26183"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="MarsCuriosity" label="MarsCuriosity">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.9900001436472"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3339917749788597"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-648.9164" y="-405.549"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="EuropeanSpaceAgency" label="EuropeanSpaceAgency">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.9899999499321"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="158.32295" y="492.80002"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="NASACassini" label="NASACassini">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="99.98999724537134"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5175438596491229"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5508474576271186"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.7918273199657824"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="302.27127" y="-723.9111"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Topic_8" label="ROSETTA">
+        <attvalues>
+          <attvalue for="degree" value="40"></attvalue>
+          <attvalue for="weighted degree" value="273.7099984250963"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6704545454545454"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8107344632768362"></attvalue>
+          <attvalue for="betweenesscentrality" value="92.51665142802675"></attvalue>
+        </attvalues>
+        <viz:size value="26.61874"></viz:size>
+        <viz:position x="99.88888" y="272.3862"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="LunarReconnaissanceOrbiter" label="LunarReconnaissanceOrbiter">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="100.01000314950943"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.8575772971817215"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="-46.301643" y="451.14807"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="chandraxrayobservatory" label="chandraxrayobservatory">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="100.00999960303307"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.7901483396156508"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="602.6282" y="52.964443"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="NASAOrion" label="NASAOrion">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.98999938182533"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="338.99664" y="-539.6274"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="FollowNASA360" label="FollowNASA360">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99000110290945"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.9145260817469967"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="2.6282597" y="-419.922"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="NASAKennedy" label="NASAKennedy">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="100.00999798998237"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6778206531877062"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="-577.10144" y="517.3085"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="new.horizons1" label="new.horizons1">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000048987567"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-642.44946" y="337.89166"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="NASA.GSFC" label="NASA.GSFC">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.99999702908099"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.1523905543438284"></attvalue>
+        </attvalues>
+        <viz:size value="20.000761"></viz:size>
+        <viz:position x="560.8138" y="514.0986"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="Topic_5" label="SOLAR DYNAMICS">
+        <attvalues>
+          <attvalue for="degree" value="50"></attvalue>
+          <attvalue for="weighted degree" value="227.4900015834719"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8676470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.923728813559322"></attvalue>
+          <attvalue for="betweenesscentrality" value="157.03590896542792"></attvalue>
+        </attvalues>
+        <viz:size value="24.857857"></viz:size>
+        <viz:position x="37.550766" y="-83.96989"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="NASAJuno" label="NASAJuno">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="100.00000059604645"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6778206531877062"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="74.45669" y="779.4944"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="nasasolarsystem" label="nasasolarsystem">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.99999748915434"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000761"></viz:size>
+        <viz:position x="-360.97388" y="-222.81676"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="EuropeanSpaceHistory" label="EuropeanSpaceHistory">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99999798834324"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6778206531877062"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="487.2754" y="-354.01868"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Topic_1" label="GALAXIES &amp; BLACK HOLES">
+        <attvalues>
+          <attvalue for="degree" value="50"></attvalue>
+          <attvalue for="weighted degree" value="526.7800006121397"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8676470588235294"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.923728813559322"></attvalue>
+          <attvalue for="betweenesscentrality" value="157.03590896542792"></attvalue>
+        </attvalues>
+        <viz:size value="36.260162"></viz:size>
+        <viz:position x="-69.52451" y="48.69108"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="RosettaMission" label="RosettaMission">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.98999937810004"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5185295181354286"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-326.04404" y="-522.22473"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="universetoday" label="universetoday">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="384.39682" y="87.37654"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="planetarysociety" label="planetarysociety">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.9799993634224"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="710.9909" y="-217.39156"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Topic_7" label="SPACE AGENCIES">
+        <attvalues>
+          <attvalue for="degree" value="45"></attvalue>
+          <attvalue for="weighted degree" value="381.5899994932115"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.7564102564102564"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.8672316384180793"></attvalue>
+          <attvalue for="betweenesscentrality" value="122.79953347757223"></attvalue>
+        </attvalues>
+        <viz:size value="30.728737"></viz:size>
+        <viz:position x="-211.71008" y="-56.01938"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="NASAJSC" label="NASAJSC">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.9800012819469"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.7901483396156508"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-308.46017" y="-706.81915"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="nasalarc" label="nasalarc">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.99000000953674"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553673"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.2157338969873437"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-759.26416" y="189.81427"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="AstronautChrisHadfield" label="AstronautChrisHadfield">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.99999966099858"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-592.70624" y="86.27403"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Topic_9" label="GLOBAL CLIMATE">
+        <attvalues>
+          <attvalue for="degree" value="49"></attvalue>
+          <attvalue for="weighted degree" value="350.25999660789967"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8428571428571429"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9124293785310734"></attvalue>
+          <attvalue for="betweenesscentrality" value="149.7046701474328"></attvalue>
+        </attvalues>
+        <viz:size value="29.53513"></viz:size>
+        <viz:position x="-80.12749" y="-192.21754"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="NASASLS" label="NASASLS">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99999697133899"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6778206531877062"></attvalue>
+        </attvalues>
+        <viz:size value="20.000761"></viz:size>
+        <viz:position x="768.05316" y="-31.412928"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="NASAHistoryOffice" label="NASAHistoryOffice">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="100.00000047683716"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5175438596491229"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5508474576271186"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.6813458958568922"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-408.9397" y="662.5207"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="NASAGlenn" label="NASAGlenn">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99000139907002"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="307.5483" y="280.44452"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="nasaearth" label="nasaearth">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="100.00999982655048"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="-756.826" y="-25.04853"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="spacecom" label="spacecom">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.01999861001968"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.001524"></viz:size>
+        <viz:position x="409.58548" y="650.13965"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="NasaMeteorWatch" label="NasaMeteorWatch">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.98999933898449"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="741.6613" y="177.32744"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="ISS" label="ISS">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="99.98999825119972"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5175438596491229"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5508474576271186"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.6813458958568922"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="90.58586" y="-762.1477"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="StarTalkRadio" label="StarTalkRadio">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.98999893665314"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-416.96408" y="430.4869"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="webbtelescope" label="webbtelescope">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="99.9799994584173"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-481.72815" y="-352.36676"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="SpaceX" label="SpaceX">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99000123143196"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-185.3305" y="758.3272"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="NASA.ISRU" label="NASA.ISRU">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99999813735485"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836157"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6778206531877062"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="675.3866" y="358.99536"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="hubbleESA" label="hubbleESA">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="100.00000177696347"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.239382805476965"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-106.45312" y="-758.10394"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="CanadianSpaceAgency" label="CanadianSpaceAgency">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000125169754"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-193.26521" y="-387.36502"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="NASA.STI.Program" label="NASA.STI.Program">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="100.01000146567822"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.2879928216083731"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="663.2305" y="-401.23813"></viz:position>
+        <viz:color r="214" g="205" b="36"></viz:color>
+      </node>
+      <node id="SETIInstitute" label="SETIInstitute">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000157952309"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="504.69965" y="272.36423"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="nasaspaceplace" label="nasaspaceplace">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000141561031"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="247.02077" y="-388.60016"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="ESATimPeake" label="ESATimPeake">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="99.99999941140413"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5363636363636364"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5734463276836158"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.72705830245157"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="379.76437" y="-192.87392"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="NASA" label="NASA">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="100.01000052690506"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5175438596491229"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5508474576271186"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8322124955721756"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="526.19934" y="-579.95294"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Topic_0" label="TELESCOPES">
+        <attvalues>
+          <attvalue for="degree" value="39"></attvalue>
+          <attvalue for="weighted degree" value="310.79999941028655"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6555555555555556"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.7994350282485878"></attvalue>
+          <attvalue for="betweenesscentrality" value="90.14614422020851"></attvalue>
+        </attvalues>
+        <viz:size value="28.031788"></viz:size>
+        <viz:position x="150.67078" y="-225.04124"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="HubbleTelescope" label="HubbleTelescope">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="99.989999294281"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5267857142857143"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5621468926553672"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.4469843586565592"></attvalue>
+        </attvalues>
+        <viz:size value="20.000381"></viz:size>
+        <viz:position x="-237.77039" y="569.5685"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="AstronomyMagazine" label="AstronomyMagazine">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.01000115275383"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.001143"></viz:size>
+        <viz:position x="228.89609" y="681.6685"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="spacegovuk" label="spacegovuk">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="100.00000363588333"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5462962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5847457627118644"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.381446271080785"></attvalue>
+        </attvalues>
+        <viz:size value="20.000763"></viz:size>
+        <viz:position x="-561.2516" y="-161.03897"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="NasaAstrobiology" target="Topic_5" weight="0.009999999776482582"></edge>
+      <edge id="1" source="NasaAstrobiology" target="Topic_7" weight="0.8799999952316284"></edge>
+      <edge id="2" source="NasaAstrobiology" target="Topic_6" weight="42.11000061035156"></edge>
+      <edge id="3" source="NasaAstrobiology" target="Topic_9" weight="4.239999771118164"></edge>
+      <edge id="4" source="NasaAstrobiology" target="Topic_4" weight="8.109999656677246"></edge>
+      <edge id="5" source="NasaAstrobiology" target="Topic_0" weight="0.14000000059604645"></edge>
+      <edge id="6" source="NasaAstrobiology" target="Topic_1" weight="26.100000381469727"></edge>
+      <edge id="7" source="NasaAstrobiology" target="Topic_3" weight="0.009999999776482582"></edge>
+      <edge id="8" source="NasaAstrobiology" target="Topic_8" weight="1.7200000286102295"></edge>
+      <edge id="9" source="NasaAstrobiology" target="Topic_2" weight="16.690000534057617"></edge>
+      <edge id="10" source="nasaarmstrong" target="Topic_2" weight="0.12999999523162842"></edge>
+      <edge id="11" source="nasaarmstrong" target="Topic_7" weight="0.11999999731779099"></edge>
+      <edge id="12" source="nasaarmstrong" target="Topic_6" weight="4.769999980926514"></edge>
+      <edge id="13" source="nasaarmstrong" target="Topic_9" weight="9.789999961853027"></edge>
+      <edge id="14" source="nasaarmstrong" target="Topic_4" weight="81.23999786376953"></edge>
+      <edge id="15" source="nasaarmstrong" target="Topic_0" weight="0.6700000166893005"></edge>
+      <edge id="16" source="nasaarmstrong" target="Topic_3" weight="1.309999942779541"></edge>
+      <edge id="17" source="nasaarmstrong" target="Topic_1" weight="1.4900000095367432"></edge>
+      <edge id="18" source="nasaarmstrong" target="Topic_8" weight="0.009999999776482582"></edge>
+      <edge id="19" source="nasaarmstrong" target="Topic_5" weight="0.46000000834465027"></edge>
+      <edge id="20" source="Topic_6" target="neildegrassetyson" weight="7.650000095367432"></edge>
+      <edge id="21" source="Topic_6" target="NASAsKeplerMission" weight="36.75"></edge>
+      <edge id="22" source="Topic_6" target="mars.rovers" weight="90.3499984741211"></edge>
+      <edge id="23" source="Topic_6" target="ESOAstronomy" weight="4.230000019073486"></edge>
+      <edge id="24" source="Topic_6" target="NASA.Little.SDO" weight="5.989999771118164"></edge>
+      <edge id="25" source="Topic_6" target="131376260352637" weight="8.84000015258789"></edge>
+      <edge id="26" source="Topic_6" target="NASAJPL" weight="76.44999694824219"></edge>
+      <edge id="27" source="Topic_6" target="MarsCuriosity" weight="86.43000030517578"></edge>
+      <edge id="28" source="Topic_6" target="ISRO" weight="3.5199999809265137"></edge>
+      <edge id="29" source="Topic_6" target="NASACassini" weight="70.41999816894531"></edge>
+      <edge id="30" source="Topic_6" target="planetarysociety" weight="44.65999984741211"></edge>
+      <edge id="31" source="Topic_6" target="NASAGlenn" weight="9.880000114440918"></edge>
+      <edge id="32" source="Topic_6" target="NASAOrion" weight="3.640000104904175"></edge>
+      <edge id="33" source="Topic_6" target="FollowNASA360" weight="47.470001220703125"></edge>
+      <edge id="34" source="Topic_6" target="NASAKennedy" weight="7.849999904632568"></edge>
+      <edge id="35" source="Topic_6" target="new.horizons1" weight="84.86000061035156"></edge>
+      <edge id="36" source="Topic_6" target="NASA.GSFC" weight="11.260000228881836"></edge>
+      <edge id="37" source="Topic_6" target="EuropeanSpaceAgency" weight="13.630000114440918"></edge>
+      <edge id="38" source="Topic_6" target="NASAJuno" weight="72.97000122070312"></edge>
+      <edge id="39" source="Topic_6" target="nasasolarsystem" weight="77.98999786376953"></edge>
+      <edge id="40" source="Topic_6" target="EuropeanSpaceHistory" weight="8.84000015258789"></edge>
+      <edge id="41" source="Topic_6" target="RosettaMission" weight="18.979999542236328"></edge>
+      <edge id="42" source="Topic_6" target="universetoday" weight="47.68000030517578"></edge>
+      <edge id="43" source="Topic_6" target="LunarReconnaissanceOrbiter" weight="50.810001373291016"></edge>
+      <edge id="44" source="Topic_6" target="NASAJSC" weight="4.619999885559082"></edge>
+      <edge id="45" source="Topic_6" target="nasalarc" weight="17.030000686645508"></edge>
+      <edge id="46" source="Topic_6" target="AstronautChrisHadfield" weight="19.389999389648438"></edge>
+      <edge id="47" source="Topic_6" target="NASA" weight="30.43000030517578"></edge>
+      <edge id="48" source="Topic_6" target="NASASLS" weight="19.389999389648438"></edge>
+      <edge id="49" source="Topic_6" target="NASAHistoryOffice" weight="20.770000457763672"></edge>
+      <edge id="50" source="Topic_6" target="chandraxrayobservatory" weight="4.239999771118164"></edge>
+      <edge id="51" source="Topic_6" target="nasaearth" weight="7.070000171661377"></edge>
+      <edge id="52" source="Topic_6" target="NasaMeteorWatch" weight="24.75"></edge>
+      <edge id="53" source="Topic_6" target="ISS" weight="2.759999990463257"></edge>
+      <edge id="54" source="Topic_6" target="StarTalkRadio" weight="26.65999984741211"></edge>
+      <edge id="55" source="Topic_6" target="webbtelescope" weight="7.25"></edge>
+      <edge id="56" source="Topic_6" target="SpaceX" weight="13.069999694824219"></edge>
+      <edge id="57" source="Topic_6" target="NASA.ISRU" weight="23.139999389648438"></edge>
+      <edge id="58" source="Topic_6" target="hubbleESA" weight="3.240000009536743"></edge>
+      <edge id="59" source="Topic_6" target="CanadianSpaceAgency" weight="12.100000381469727"></edge>
+      <edge id="60" source="Topic_6" target="NASA.STI.Program" weight="23.200000762939453"></edge>
+      <edge id="61" source="Topic_6" target="SETIInstitute" weight="30.639999389648438"></edge>
+      <edge id="62" source="Topic_6" target="nasaspaceplace" weight="55.9900016784668"></edge>
+      <edge id="63" source="Topic_6" target="ESATimPeake" weight="9.920000076293945"></edge>
+      <edge id="64" source="Topic_6" target="spacecom" weight="48.54999923706055"></edge>
+      <edge id="65" source="Topic_6" target="HubbleTelescope" weight="22.65999984741211"></edge>
+      <edge id="66" source="Topic_6" target="AstronomyMagazine" weight="33.900001525878906"></edge>
+      <edge id="67" source="Topic_6" target="spacegovuk" weight="13.59000015258789"></edge>
+      <edge id="68" source="Topic_4" target="neildegrassetyson" weight="2.430000066757202"></edge>
+      <edge id="69" source="Topic_4" target="NASAsKeplerMission" weight="8.329999923706055"></edge>
+      <edge id="70" source="Topic_4" target="mars.rovers" weight="2.6700000762939453"></edge>
+      <edge id="71" source="Topic_4" target="ESOAstronomy" weight="1.2899999618530273"></edge>
+      <edge id="72" source="Topic_4" target="NASA.Little.SDO" weight="2.4000000953674316"></edge>
+      <edge id="73" source="Topic_4" target="131376260352637" weight="0.009999999776482582"></edge>
+      <edge id="74" source="Topic_4" target="NASAJPL" weight="4.75"></edge>
+      <edge id="75" source="Topic_4" target="MarsCuriosity" weight="6.639999866485596"></edge>
+      <edge id="76" source="Topic_4" target="ISRO" weight="11.819999694824219"></edge>
+      <edge id="77" source="Topic_4" target="NASACassini" weight="0.029999999329447746"></edge>
+      <edge id="78" source="Topic_4" target="planetarysociety" weight="6.579999923706055"></edge>
+      <edge id="79" source="Topic_4" target="NASAGlenn" weight="76.1500015258789"></edge>
+      <edge id="80" source="Topic_4" target="NASAOrion" weight="85.70999908447266"></edge>
+      <edge id="81" source="Topic_4" target="FollowNASA360" weight="11.020000457763672"></edge>
+      <edge id="82" source="Topic_4" target="NASAKennedy" weight="56.0099983215332"></edge>
+      <edge id="83" source="Topic_4" target="new.horizons1" weight="4.239999771118164"></edge>
+      <edge id="84" source="Topic_4" target="NASA.GSFC" weight="10.6899995803833"></edge>
+      <edge id="85" source="Topic_4" target="EuropeanSpaceAgency" weight="2.2799999713897705"></edge>
+      <edge id="86" source="Topic_4" target="NASAJuno" weight="9.979999542236328"></edge>
+      <edge id="87" source="Topic_4" target="nasasolarsystem" weight="5.349999904632568"></edge>
+      <edge id="88" source="Topic_4" target="EuropeanSpaceHistory" weight="7.78000020980835"></edge>
+      <edge id="89" source="Topic_4" target="RosettaMission" weight="0.07999999821186066"></edge>
+      <edge id="90" source="Topic_4" target="universetoday" weight="7.03000020980835"></edge>
+      <edge id="91" source="Topic_4" target="LunarReconnaissanceOrbiter" weight="3.2899999618530273"></edge>
+      <edge id="92" source="Topic_4" target="NASAJSC" weight="23.049999237060547"></edge>
+      <edge id="93" source="Topic_4" target="nasalarc" weight="52.38999938964844"></edge>
+      <edge id="94" source="Topic_4" target="AstronautChrisHadfield" weight="3.4200000762939453"></edge>
+      <edge id="95" source="Topic_4" target="NASA" weight="10.470000267028809"></edge>
+      <edge id="96" source="Topic_4" target="NASASLS" weight="70.80999755859375"></edge>
+      <edge id="97" source="Topic_4" target="NASAHistoryOffice" weight="50.09000015258789"></edge>
+      <edge id="98" source="Topic_4" target="chandraxrayobservatory" weight="0.4399999976158142"></edge>
+      <edge id="99" source="Topic_4" target="nasaearth" weight="2.6500000953674316"></edge>
+      <edge id="100" source="Topic_4" target="NasaMeteorWatch" weight="1.840000033378601"></edge>
+      <edge id="101" source="Topic_4" target="ISS" weight="5.900000095367432"></edge>
+      <edge id="102" source="Topic_4" target="StarTalkRadio" weight="5.949999809265137"></edge>
+      <edge id="103" source="Topic_4" target="webbtelescope" weight="14.1899995803833"></edge>
+      <edge id="104" source="Topic_4" target="SpaceX" weight="24.010000228881836"></edge>
+      <edge id="105" source="Topic_4" target="NASA.ISRU" weight="60.119998931884766"></edge>
+      <edge id="106" source="Topic_4" target="hubbleESA" weight="0.05000000074505806"></edge>
+      <edge id="107" source="Topic_4" target="CanadianSpaceAgency" weight="5.940000057220459"></edge>
+      <edge id="108" source="Topic_4" target="NASA.STI.Program" weight="23.690000534057617"></edge>
+      <edge id="109" source="Topic_4" target="SETIInstitute" weight="1.809999942779541"></edge>
+      <edge id="110" source="Topic_4" target="nasaspaceplace" weight="6.489999771118164"></edge>
+      <edge id="111" source="Topic_4" target="ESATimPeake" weight="3.1500000953674316"></edge>
+      <edge id="112" source="Topic_4" target="spacecom" weight="6.420000076293945"></edge>
+      <edge id="113" source="Topic_4" target="HubbleTelescope" weight="0.9200000166893005"></edge>
+      <edge id="114" source="Topic_4" target="AstronomyMagazine" weight="0.75"></edge>
+      <edge id="115" source="Topic_4" target="spacegovuk" weight="5.210000038146973"></edge>
+      <edge id="116" source="NASAsKeplerMission" target="Topic_5" weight="0.8199999928474426"></edge>
+      <edge id="117" source="NASAsKeplerMission" target="Topic_7" weight="5.230000019073486"></edge>
+      <edge id="118" source="NASAsKeplerMission" target="Topic_9" weight="1.6399999856948853"></edge>
+      <edge id="119" source="NASAsKeplerMission" target="Topic_0" weight="0.5699999928474426"></edge>
+      <edge id="120" source="NASAsKeplerMission" target="Topic_3" weight="0.8199999928474426"></edge>
+      <edge id="121" source="NASAsKeplerMission" target="Topic_1" weight="39.880001068115234"></edge>
+      <edge id="122" source="NASAsKeplerMission" target="Topic_8" weight="0.8899999856948853"></edge>
+      <edge id="123" source="NASAsKeplerMission" target="Topic_2" weight="5.070000171661377"></edge>
+      <edge id="124" source="mars.rovers" target="Topic_2" weight="0.4300000071525574"></edge>
+      <edge id="125" source="mars.rovers" target="Topic_5" weight="0.1599999964237213"></edge>
+      <edge id="126" source="mars.rovers" target="Topic_7" weight="0.05999999865889549"></edge>
+      <edge id="127" source="mars.rovers" target="Topic_9" weight="3.0799999237060547"></edge>
+      <edge id="128" source="mars.rovers" target="Topic_0" weight="0.009999999776482582"></edge>
+      <edge id="129" source="mars.rovers" target="Topic_3" weight="0.15000000596046448"></edge>
+      <edge id="130" source="mars.rovers" target="Topic_1" weight="1.559999942779541"></edge>
+      <edge id="131" source="mars.rovers" target="Topic_8" weight="1.5399999618530273"></edge>
+      <edge id="132" source="neildegrassetyson" target="Topic_5" weight="0.4000000059604645"></edge>
+      <edge id="133" source="neildegrassetyson" target="Topic_7" weight="0.03999999910593033"></edge>
+      <edge id="134" source="neildegrassetyson" target="Topic_9" weight="1.2999999523162842"></edge>
+      <edge id="136" source="neildegrassetyson" target="Topic_3" weight="0.15000000596046448"></edge>
+      <edge id="137" source="neildegrassetyson" target="Topic_1" weight="3.2300000190734863"></edge>
+      <edge id="138" source="neildegrassetyson" target="Topic_8" weight="0.09000000357627869"></edge>
+      <edge id="139" source="neildegrassetyson" target="Topic_2" weight="84.69999694824219"></edge>
+      <edge id="140" source="ESOAstronomy" target="Topic_2" weight="0.1599999964237213"></edge>
+      <edge id="141" source="ESOAstronomy" target="Topic_7" weight="3.0299999713897705"></edge>
+      <edge id="142" source="ESOAstronomy" target="Topic_0" weight="81.13999938964844"></edge>
+      <edge id="143" source="ESOAstronomy" target="Topic_9" weight="1.8700000047683716"></edge>
+      <edge id="145" source="ESOAstronomy" target="Topic_1" weight="6.139999866485596"></edge>
+      <edge id="146" source="ESOAstronomy" target="Topic_8" weight="0.8399999737739563"></edge>
+      <edge id="147" source="ESOAstronomy" target="Topic_5" weight="1.2899999618530273"></edge>
+      <edge id="149" source="Topic_2" target="131376260352637" weight="10.1899995803833"></edge>
+      <edge id="150" source="Topic_2" target="NASAJPL" weight="0.15000000596046448"></edge>
+      <edge id="151" source="Topic_2" target="MarsCuriosity" weight="0.38999998569488525"></edge>
+      <edge id="152" source="Topic_2" target="ISRO" weight="0.009999999776482582"></edge>
+      <edge id="154" source="Topic_2" target="planetarysociety" weight="2.430000066757202"></edge>
+      <edge id="155" source="Topic_2" target="NASAGlenn" weight="1.8200000524520874"></edge>
+      <edge id="156" source="Topic_2" target="NASAOrion" weight="0.6899999976158142"></edge>
+      <edge id="157" source="Topic_2" target="FollowNASA360" weight="0.029999999329447746"></edge>
+      <edge id="159" source="Topic_2" target="new.horizons1" weight="1.25"></edge>
+      <edge id="161" source="Topic_2" target="EuropeanSpaceAgency" weight="0.1899999976158142"></edge>
+      <edge id="163" source="Topic_2" target="nasasolarsystem" weight="1.0700000524520874"></edge>
+      <edge id="165" source="Topic_2" target="RosettaMission" weight="0.009999999776482582"></edge>
+      <edge id="166" source="Topic_2" target="universetoday" weight="1.1799999475479126"></edge>
+      <edge id="167" source="Topic_2" target="LunarReconnaissanceOrbiter" weight="1.6299999952316284"></edge>
+      <edge id="168" source="Topic_2" target="NASAJSC" weight="0.1899999976158142"></edge>
+      <edge id="169" source="Topic_2" target="nasalarc" weight="1.0099999904632568"></edge>
+      <edge id="170" source="Topic_2" target="AstronautChrisHadfield" weight="30.770000457763672"></edge>
+      <edge id="174" source="Topic_2" target="chandraxrayobservatory" weight="0.14000000059604645"></edge>
+      <edge id="175" source="Topic_2" target="nasaearth" weight="0.25"></edge>
+      <edge id="176" source="Topic_2" target="NasaMeteorWatch" weight="30.739999771118164"></edge>
+      <edge id="178" source="Topic_2" target="StarTalkRadio" weight="37.459999084472656"></edge>
+      <edge id="179" source="Topic_2" target="webbtelescope" weight="0.25"></edge>
+      <edge id="180" source="Topic_2" target="SpaceX" weight="1.3799999952316284"></edge>
+      <edge id="183" source="Topic_2" target="CanadianSpaceAgency" weight="0.4300000071525574"></edge>
+      <edge id="185" source="Topic_2" target="SETIInstitute" weight="0.3400000035762787"></edge>
+      <edge id="186" source="Topic_2" target="nasaspaceplace" weight="3.319999933242798"></edge>
+      <edge id="187" source="Topic_2" target="ESATimPeake" weight="5.239999771118164"></edge>
+      <edge id="188" source="Topic_2" target="spacecom" weight="8.880000114440918"></edge>
+      <edge id="189" source="Topic_2" target="HubbleTelescope" weight="0.3799999952316284"></edge>
+      <edge id="190" source="Topic_2" target="AstronomyMagazine" weight="0.20000000298023224"></edge>
+      <edge id="191" source="Topic_2" target="spacegovuk" weight="0.30000001192092896"></edge>
+      <edge id="192" source="NASA.Little.SDO" target="Topic_7" weight="0.8100000023841858"></edge>
+      <edge id="193" source="NASA.Little.SDO" target="Topic_9" weight="2.9200000762939453"></edge>
+      <edge id="194" source="NASA.Little.SDO" target="Topic_0" weight="0.12999999523162842"></edge>
+      <edge id="195" source="NASA.Little.SDO" target="Topic_3" weight="0.5899999737739563"></edge>
+      <edge id="196" source="NASA.Little.SDO" target="Topic_1" weight="5.639999866485596"></edge>
+      <edge id="198" source="NASA.Little.SDO" target="Topic_5" weight="81.51000213623047"></edge>
+      <edge id="199" source="131376260352637" target="Topic_5"></edge>
+      <edge id="200" source="131376260352637" target="Topic_7" weight="8.569999694824219"></edge>
+      <edge id="201" source="131376260352637" target="Topic_9" weight="12.479999542236328"></edge>
+      <edge id="202" source="131376260352637" target="Topic_0" weight="0.019999999552965164"></edge>
+      <edge id="203" source="131376260352637" target="Topic_3" weight="56.86000061035156"></edge>
+      <edge id="204" source="131376260352637" target="Topic_1" weight="2.0199999809265137"></edge>
+      <edge id="206" source="Topic_3" target="NASAJPL" weight="1.2999999523162842"></edge>
+      <edge id="207" source="Topic_3" target="MarsCuriosity" weight="0.20000000298023224"></edge>
+      <edge id="210" source="Topic_3" target="planetarysociety" weight="2.6700000762939453"></edge>
+      <edge id="211" source="Topic_3" target="NASAGlenn" weight="4.929999828338623"></edge>
+      <edge id="212" source="Topic_3" target="NASAOrion" weight="5.53000020980835"></edge>
+      <edge id="213" source="Topic_3" target="FollowNASA360" weight="7.090000152587891"></edge>
+      <edge id="214" source="Topic_3" target="NASAKennedy" weight="30.31999969482422"></edge>
+      <edge id="215" source="Topic_3" target="new.horizons1" weight="0.029999999329447746"></edge>
+      <edge id="216" source="Topic_3" target="NASA.GSFC" weight="1.909999966621399"></edge>
+      <edge id="217" source="Topic_3" target="EuropeanSpaceAgency" weight="6.78000020980835"></edge>
+      <edge id="218" source="Topic_3" target="NASAJuno" weight="0.28999999165534973"></edge>
+      <edge id="219" source="Topic_3" target="nasasolarsystem" weight="0.07000000029802322"></edge>
+      <edge id="220" source="Topic_3" target="EuropeanSpaceHistory" weight="4.03000020980835"></edge>
+      <edge id="222" source="Topic_3" target="universetoday" weight="8.829999923706055"></edge>
+      <edge id="224" source="Topic_3" target="NASAJSC" weight="69.51000213623047"></edge>
+      <edge id="225" source="Topic_3" target="nasalarc" weight="7.730000019073486"></edge>
+      <edge id="226" source="Topic_3" target="AstronautChrisHadfield" weight="6.75"></edge>
+      <edge id="227" source="Topic_3" target="NASA" weight="30.780000686645508"></edge>
+      <edge id="228" source="Topic_3" target="NASASLS" weight="3.6600000858306885"></edge>
+      <edge id="229" source="Topic_3" target="NASAHistoryOffice" weight="5.119999885559082"></edge>
+      <edge id="230" source="Topic_3" target="chandraxrayobservatory" weight="0.17000000178813934"></edge>
+      <edge id="231" source="Topic_3" target="nasaearth" weight="1.7699999809265137"></edge>
+      <edge id="232" source="Topic_3" target="NasaMeteorWatch" weight="0.5"></edge>
+      <edge id="233" source="Topic_3" target="ISS" weight="84.91999816894531"></edge>
+      <edge id="234" source="Topic_3" target="StarTalkRadio" weight="6.570000171661377"></edge>
+      <edge id="235" source="Topic_3" target="webbtelescope" weight="0.029999999329447746"></edge>
+      <edge id="236" source="Topic_3" target="SpaceX" weight="57.470001220703125"></edge>
+      <edge id="237" source="Topic_3" target="NASA.ISRU" weight="8.949999809265137"></edge>
+      <edge id="239" source="Topic_3" target="CanadianSpaceAgency" weight="18.149999618530273"></edge>
+      <edge id="240" source="Topic_3" target="NASA.STI.Program" weight="5.710000038146973"></edge>
+      <edge id="241" source="Topic_3" target="SETIInstitute" weight="0.8299999833106995"></edge>
+      <edge id="242" source="Topic_3" target="nasaspaceplace" weight="3.549999952316284"></edge>
+      <edge id="243" source="Topic_3" target="ESATimPeake" weight="17.65999984741211"></edge>
+      <edge id="244" source="Topic_3" target="spacecom" weight="7.559999942779541"></edge>
+      <edge id="246" source="Topic_3" target="AstronomyMagazine" weight="0.14000000059604645"></edge>
+      <edge id="247" source="Topic_3" target="spacegovuk" weight="0.25999999046325684"></edge>
+      <edge id="248" source="NASAJPL" target="Topic_7" weight="0.11999999731779099"></edge>
+      <edge id="249" source="NASAJPL" target="Topic_9" weight="8.09000015258789"></edge>
+      <edge id="250" source="NASAJPL" target="Topic_0" weight="0.5699999928474426"></edge>
+      <edge id="251" source="NASAJPL" target="Topic_1" weight="7.489999771118164"></edge>
+      <edge id="252" source="NASAJPL" target="Topic_8" weight="0.3400000035762787"></edge>
+      <edge id="253" source="NASAJPL" target="Topic_5" weight="0.7400000095367432"></edge>
+      <edge id="254" source="ISRO" target="Topic_7" weight="0.9200000166893005"></edge>
+      <edge id="255" source="ISRO" target="Topic_9" weight="2.25"></edge>
+      <edge id="256" source="ISRO" target="Topic_8" weight="78.87999725341797"></edge>
+      <edge id="258" source="ISRO" target="Topic_1" weight="1.149999976158142"></edge>
+      <edge id="259" source="ISRO" target="Topic_5" weight="1.4299999475479126"></edge>
+      <edge id="260" source="MarsCuriosity" target="Topic_5" weight="0.4399999976158142"></edge>
+      <edge id="262" source="MarsCuriosity" target="Topic_9" weight="2.059999942779541"></edge>
+      <edge id="264" source="MarsCuriosity" target="Topic_1" weight="2.430000066757202"></edge>
+      <edge id="265" source="MarsCuriosity" target="Topic_8" weight="1.399999976158142"></edge>
+      <edge id="266" source="EuropeanSpaceAgency" target="Topic_5"></edge>
+      <edge id="267" source="EuropeanSpaceAgency" target="Topic_7" weight="45.939998626708984"></edge>
+      <edge id="268" source="EuropeanSpaceAgency" target="Topic_9" weight="5.760000228881836"></edge>
+      <edge id="269" source="EuropeanSpaceAgency" target="Topic_8" weight="18.290000915527344"></edge>
+      <edge id="270" source="EuropeanSpaceAgency" target="Topic_1" weight="2.7699999809265137"></edge>
+      <edge id="271" source="EuropeanSpaceAgency" target="Topic_0" weight="3.3499999046325684"></edge>
+      <edge id="272" source="NASACassini" target="Topic_7" weight="0.009999999776482582"></edge>
+      <edge id="273" source="NASACassini" target="Topic_0" weight="0.3199999928474426"></edge>
+      <edge id="274" source="NASACassini" target="Topic_9" weight="9.819999694824219"></edge>
+      <edge id="275" source="NASACassini" target="Topic_1" weight="9.649999618530273"></edge>
+      <edge id="277" source="NASACassini" target="Topic_5" weight="9.739999771118164"></edge>
+      <edge id="278" source="Topic_8" target="planetarysociety" weight="34.29999923706055"></edge>
+      <edge id="279" source="Topic_8" target="NASAGlenn" weight="0.019999999552965164"></edge>
+      <edge id="280" source="Topic_8" target="NASAOrion" weight="0.019999999552965164"></edge>
+      <edge id="281" source="Topic_8" target="FollowNASA360" weight="0.11999999731779099"></edge>
+      <edge id="282" source="Topic_8" target="NASAKennedy" weight="0.05999999865889549"></edge>
+      <edge id="283" source="Topic_8" target="new.horizons1" weight="2.5999999046325684"></edge>
+      <edge id="285" source="Topic_8" target="NASAJuno" weight="5.96999979019165"></edge>
+      <edge id="286" source="Topic_8" target="nasasolarsystem" weight="3.259999990463257"></edge>
+      <edge id="287" source="Topic_8" target="EuropeanSpaceHistory" weight="1.0299999713897705"></edge>
+      <edge id="288" source="Topic_8" target="RosettaMission" weight="71.5"></edge>
+      <edge id="289" source="Topic_8" target="universetoday" weight="2.7899999618530273"></edge>
+      <edge id="290" source="Topic_8" target="LunarReconnaissanceOrbiter" weight="32.4900016784668"></edge>
+      <edge id="293" source="Topic_8" target="AstronautChrisHadfield" weight="0.009999999776482582"></edge>
+      <edge id="295" source="Topic_8" target="NASASLS" weight="0.05999999865889549"></edge>
+      <edge id="298" source="Topic_8" target="nasaearth" weight="0.20999999344348907"></edge>
+      <edge id="299" source="Topic_8" target="NasaMeteorWatch" weight="0.07999999821186066"></edge>
+      <edge id="301" source="Topic_8" target="StarTalkRadio" weight="1.4299999475479126"></edge>
+      <edge id="302" source="Topic_8" target="webbtelescope" weight="0.07000000029802322"></edge>
+      <edge id="303" source="Topic_8" target="SpaceX" weight="0.6700000166893005"></edge>
+      <edge id="304" source="Topic_8" target="NASA.ISRU" weight="1.6699999570846558"></edge>
+      <edge id="305" source="Topic_8" target="hubbleESA" weight="0.3100000023841858"></edge>
+      <edge id="306" source="Topic_8" target="CanadianSpaceAgency" weight="0.25999999046325684"></edge>
+      <edge id="307" source="Topic_8" target="NASA.STI.Program" weight="0.17000000178813934"></edge>
+      <edge id="308" source="Topic_8" target="SETIInstitute" weight="2.4000000953674316"></edge>
+      <edge id="309" source="Topic_8" target="nasaspaceplace" weight="0.23000000417232513"></edge>
+      <edge id="310" source="Topic_8" target="ESATimPeake" weight="0.07000000029802322"></edge>
+      <edge id="311" source="Topic_8" target="spacecom" weight="0.7099999785423279"></edge>
+      <edge id="312" source="Topic_8" target="HubbleTelescope" weight="0.5099999904632568"></edge>
+      <edge id="313" source="Topic_8" target="AstronomyMagazine" weight="1.5299999713897705"></edge>
+      <edge id="314" source="Topic_8" target="spacegovuk" weight="5.159999847412109"></edge>
+      <edge id="315" source="LunarReconnaissanceOrbiter" target="Topic_7" weight="0.5799999833106995"></edge>
+      <edge id="316" source="LunarReconnaissanceOrbiter" target="Topic_9" weight="4.550000190734863"></edge>
+      <edge id="317" source="LunarReconnaissanceOrbiter" target="Topic_1" weight="2.440000057220459"></edge>
+      <edge id="318" source="LunarReconnaissanceOrbiter" target="Topic_0" weight="0.6000000238418579"></edge>
+      <edge id="319" source="LunarReconnaissanceOrbiter" target="Topic_5" weight="3.619999885559082"></edge>
+      <edge id="320" source="chandraxrayobservatory" target="Topic_7" weight="0.3400000035762787"></edge>
+      <edge id="321" source="chandraxrayobservatory" target="Topic_1" weight="85.56999969482422"></edge>
+      <edge id="322" source="chandraxrayobservatory" target="Topic_9" weight="1.1100000143051147"></edge>
+      <edge id="323" source="chandraxrayobservatory" target="Topic_0" weight="1.100000023841858"></edge>
+      <edge id="324" source="chandraxrayobservatory" target="Topic_5" weight="6.900000095367432"></edge>
+      <edge id="325" source="NASAOrion" target="Topic_7" weight="1.2799999713897705"></edge>
+      <edge id="326" source="NASAOrion" target="Topic_9"></edge>
+      <edge id="327" source="NASAOrion" target="Topic_0" weight="0.009999999776482582"></edge>
+      <edge id="328" source="NASAOrion" target="Topic_1" weight="0.5199999809265137"></edge>
+      <edge id="329" source="NASAOrion" target="Topic_5" weight="1.590000033378601"></edge>
+      <edge id="331" source="FollowNASA360" target="Topic_9" weight="6.119999885559082"></edge>
+      <edge id="332" source="FollowNASA360" target="Topic_0" weight="5.079999923706055"></edge>
+      <edge id="333" source="FollowNASA360" target="Topic_1" weight="16.309999465942383"></edge>
+      <edge id="334" source="FollowNASA360" target="Topic_5" weight="6.75"></edge>
+      <edge id="335" source="NASAKennedy" target="Topic_7" weight="0.15000000596046448"></edge>
+      <edge id="336" source="NASAKennedy" target="Topic_9" weight="3.6700000762939453"></edge>
+      <edge id="337" source="NASAKennedy" target="Topic_1" weight="0.4399999976158142"></edge>
+      <edge id="338" source="NASAKennedy" target="Topic_0" weight="0.5099999904632568"></edge>
+      <edge id="339" source="NASAKennedy" target="Topic_5"></edge>
+      <edge id="340" source="new.horizons1" target="Topic_5" weight="0.9700000286102295"></edge>
+      <edge id="341" source="new.horizons1" target="Topic_7" weight="0.05000000074505806"></edge>
+      <edge id="342" source="new.horizons1" target="Topic_9" weight="1.659999966621399"></edge>
+      <edge id="343" source="new.horizons1" target="Topic_0" weight="0.05999999865889549"></edge>
+      <edge id="344" source="new.horizons1" target="Topic_1" weight="4.28000020980835"></edge>
+      <edge id="345" source="NASA.GSFC" target="Topic_7" weight="0.009999999776482582"></edge>
+      <edge id="346" source="NASA.GSFC" target="Topic_9" weight="38.099998474121094"></edge>
+      <edge id="347" source="NASA.GSFC" target="Topic_0" weight="10.329999923706055"></edge>
+      <edge id="348" source="NASA.GSFC" target="Topic_1" weight="10.819999694824219"></edge>
+      <edge id="349" source="NASA.GSFC" target="Topic_5" weight="16.8799991607666"></edge>
+      <edge id="350" source="Topic_5" target="planetarysociety" weight="0.5600000023841858"></edge>
+      <edge id="351" source="Topic_5" target="NASAGlenn" weight="0.5799999833106995"></edge>
+      <edge id="352" source="Topic_5" target="NASAJuno" weight="4.800000190734863"></edge>
+      <edge id="353" source="Topic_5" target="nasasolarsystem" weight="2.619999885559082"></edge>
+      <edge id="354" source="Topic_5" target="EuropeanSpaceHistory" weight="2.6700000762939453"></edge>
+      <edge id="355" source="Topic_5" target="RosettaMission" weight="2.259999990463257"></edge>
+      <edge id="356" source="Topic_5" target="universetoday" weight="3.5899999141693115"></edge>
+      <edge id="357" source="Topic_5" target="NASAJSC" weight="0.33000001311302185"></edge>
+      <edge id="358" source="Topic_5" target="nasalarc" weight="2.700000047683716"></edge>
+      <edge id="359" source="Topic_5" target="AstronautChrisHadfield" weight="1.3300000429153442"></edge>
+      <edge id="360" source="Topic_5" target="NASA" weight="4.119999885559082"></edge>
+      <edge id="361" source="Topic_5" target="NASASLS" weight="1.0399999618530273"></edge>
+      <edge id="362" source="Topic_5" target="NASAHistoryOffice" weight="3.700000047683716"></edge>
+      <edge id="363" source="Topic_5" target="nasaearth" weight="4.110000133514404"></edge>
+      <edge id="364" source="Topic_5" target="NasaMeteorWatch" weight="25.40999984741211"></edge>
+      <edge id="365" source="Topic_5" target="ISS" weight="0.6899999976158142"></edge>
+      <edge id="366" source="Topic_5" target="StarTalkRadio" weight="2.930000066757202"></edge>
+      <edge id="367" source="Topic_5" target="webbtelescope" weight="0.9100000262260437"></edge>
+      <edge id="368" source="Topic_5" target="SpaceX" weight="0.8500000238418579"></edge>
+      <edge id="369" source="Topic_5" target="NASA.ISRU" weight="0.20000000298023224"></edge>
+      <edge id="370" source="Topic_5" target="hubbleESA" weight="1.899999976158142"></edge>
+      <edge id="371" source="Topic_5" target="CanadianSpaceAgency" weight="1.9700000286102295"></edge>
+      <edge id="372" source="Topic_5" target="NASA.STI.Program" weight="2.6600000858306885"></edge>
+      <edge id="373" source="Topic_5" target="SETIInstitute" weight="6.320000171661377"></edge>
+      <edge id="374" source="Topic_5" target="nasaspaceplace" weight="3.950000047683716"></edge>
+      <edge id="375" source="Topic_5" target="ESATimPeake" weight="0.7099999785423279"></edge>
+      <edge id="376" source="Topic_5" target="spacecom" weight="2.2799999713897705"></edge>
+      <edge id="377" source="Topic_5" target="HubbleTelescope" weight="2.450000047683716"></edge>
+      <edge id="378" source="Topic_5" target="AstronomyMagazine" weight="2.880000114440918"></edge>
+      <edge id="379" source="Topic_5" target="spacegovuk" weight="0.25999999046325684"></edge>
+      <edge id="380" source="NASAJuno" target="Topic_7" weight="0.5199999809265137"></edge>
+      <edge id="381" source="NASAJuno" target="Topic_9" weight="0.9900000095367432"></edge>
+      <edge id="382" source="NASAJuno" target="Topic_0" weight="0.3400000035762787"></edge>
+      <edge id="383" source="NASAJuno" target="Topic_1" weight="4.139999866485596"></edge>
+      <edge id="384" source="nasasolarsystem" target="Topic_7" weight="1.25"></edge>
+      <edge id="385" source="nasasolarsystem" target="Topic_9" weight="3.8499999046325684"></edge>
+      <edge id="386" source="nasasolarsystem" target="Topic_0" weight="0.17000000178813934"></edge>
+      <edge id="387" source="nasasolarsystem" target="Topic_1" weight="4.369999885559082"></edge>
+      <edge id="388" source="EuropeanSpaceHistory" target="Topic_7" weight="69.87999725341797"></edge>
+      <edge id="389" source="EuropeanSpaceHistory" target="Topic_9" weight="0.20999999344348907"></edge>
+      <edge id="390" source="EuropeanSpaceHistory" target="Topic_0" weight="0.949999988079071"></edge>
+      <edge id="391" source="EuropeanSpaceHistory" target="Topic_1" weight="4.610000133514404"></edge>
+      <edge id="392" source="Topic_1" target="planetarysociety" weight="5.510000228881836"></edge>
+      <edge id="393" source="Topic_1" target="NASAGlenn" weight="1.3200000524520874"></edge>
+      <edge id="394" source="Topic_1" target="RosettaMission" weight="1.7799999713897705"></edge>
+      <edge id="395" source="Topic_1" target="universetoday" weight="20.649999618530273"></edge>
+      <edge id="396" source="Topic_1" target="NASAJSC" weight="0.23000000417232513"></edge>
+      <edge id="397" source="Topic_1" target="nasalarc" weight="2.200000047683716"></edge>
+      <edge id="398" source="Topic_1" target="AstronautChrisHadfield" weight="2.880000114440918"></edge>
+      <edge id="399" source="Topic_1" target="NASA" weight="9.859999656677246"></edge>
+      <edge id="400" source="Topic_1" target="NASASLS" weight="2.619999885559082"></edge>
+      <edge id="401" source="Topic_1" target="NASAHistoryOffice" weight="4.420000076293945"></edge>
+      <edge id="402" source="Topic_1" target="nasaearth" weight="2.7200000286102295"></edge>
+      <edge id="403" source="Topic_1" target="NasaMeteorWatch" weight="6.650000095367432"></edge>
+      <edge id="404" source="Topic_1" target="ISS" weight="0.4699999988079071"></edge>
+      <edge id="405" source="Topic_1" target="StarTalkRadio" weight="10.59000015258789"></edge>
+      <edge id="406" source="Topic_1" target="webbtelescope" weight="7.199999809265137"></edge>
+      <edge id="407" source="Topic_1" target="SpaceX" weight="0.27000001072883606"></edge>
+      <edge id="408" source="Topic_1" target="NASA.ISRU" weight="1.659999966621399"></edge>
+      <edge id="409" source="Topic_1" target="hubbleESA" weight="15.220000267028809"></edge>
+      <edge id="410" source="Topic_1" target="CanadianSpaceAgency" weight="2.5899999141693115"></edge>
+      <edge id="411" source="Topic_1" target="NASA.STI.Program" weight="12.0"></edge>
+      <edge id="412" source="Topic_1" target="SETIInstitute" weight="46.83000183105469"></edge>
+      <edge id="413" source="Topic_1" target="nasaspaceplace" weight="11.449999809265137"></edge>
+      <edge id="414" source="Topic_1" target="ESATimPeake" weight="1.3700000047683716"></edge>
+      <edge id="415" source="Topic_1" target="spacecom" weight="18.639999389648438"></edge>
+      <edge id="416" source="Topic_1" target="HubbleTelescope" weight="34.36000061035156"></edge>
+      <edge id="417" source="Topic_1" target="AstronomyMagazine" weight="56.72999954223633"></edge>
+      <edge id="418" source="Topic_1" target="spacegovuk" weight="3.509999990463257"></edge>
+      <edge id="419" source="RosettaMission" target="Topic_7" weight="4.639999866485596"></edge>
+      <edge id="421" source="RosettaMission" target="Topic_0" weight="0.7400000095367432"></edge>
+      <edge id="422" source="universetoday" target="Topic_7" weight="0.8999999761581421"></edge>
+      <edge id="423" source="universetoday" target="Topic_9" weight="6.590000152587891"></edge>
+      <edge id="424" source="universetoday" target="Topic_0" weight="0.7599999904632568"></edge>
+      <edge id="425" source="planetarysociety" target="Topic_7" weight="1.559999942779541"></edge>
+      <edge id="426" source="planetarysociety" target="Topic_9" weight="1.340000033378601"></edge>
+      <edge id="427" source="planetarysociety" target="Topic_0" weight="0.3700000047683716"></edge>
+      <edge id="428" source="Topic_7" target="NASAGlenn" weight="1.9199999570846558"></edge>
+      <edge id="429" source="Topic_7" target="NASAJSC" weight="0.8999999761581421"></edge>
+      <edge id="430" source="Topic_7" target="nasalarc" weight="0.7699999809265137"></edge>
+      <edge id="431" source="Topic_7" target="AstronautChrisHadfield" weight="24.239999771118164"></edge>
+      <edge id="433" source="Topic_7" target="NASASLS" weight="0.12999999523162842"></edge>
+      <edge id="434" source="Topic_7" target="NASAHistoryOffice" weight="12.119999885559082"></edge>
+      <edge id="435" source="Topic_7" target="nasaearth" weight="1.340000033378601"></edge>
+      <edge id="436" source="Topic_7" target="NasaMeteorWatch" weight="0.33000001311302185"></edge>
+      <edge id="437" source="Topic_7" target="ISS" weight="2.0999999046325684"></edge>
+      <edge id="438" source="Topic_7" target="StarTalkRadio" weight="2.5899999141693115"></edge>
+      <edge id="439" source="Topic_7" target="webbtelescope" weight="0.6000000238418579"></edge>
+      <edge id="440" source="Topic_7" target="SpaceX" weight="1.4700000286102295"></edge>
+      <edge id="441" source="Topic_7" target="NASA.ISRU" weight="1.649999976158142"></edge>
+      <edge id="442" source="Topic_7" target="hubbleESA" weight="0.8600000143051147"></edge>
+      <edge id="443" source="Topic_7" target="CanadianSpaceAgency" weight="54.310001373291016"></edge>
+      <edge id="445" source="Topic_7" target="SETIInstitute" weight="0.5"></edge>
+      <edge id="446" source="Topic_7" target="nasaspaceplace" weight="2.759999990463257"></edge>
+      <edge id="447" source="Topic_7" target="ESATimPeake" weight="58.81999969482422"></edge>
+      <edge id="448" source="Topic_7" target="spacecom" weight="2.009999990463257"></edge>
+      <edge id="450" source="Topic_7" target="AstronomyMagazine" weight="0.3700000047683716"></edge>
+      <edge id="451" source="Topic_7" target="spacegovuk" weight="64.91000366210938"></edge>
+      <edge id="452" source="NASAJSC" target="Topic_9" weight="1.090000033378601"></edge>
+      <edge id="453" source="NASAJSC" target="Topic_0" weight="0.05999999865889549"></edge>
+      <edge id="454" source="nasalarc" target="Topic_9" weight="16.15999984741211"></edge>
+      <edge id="456" source="AstronautChrisHadfield" target="Topic_9" weight="11.199999809265137"></edge>
+      <edge id="457" source="AstronautChrisHadfield" target="Topic_0" weight="0.009999999776482582"></edge>
+      <edge id="458" source="Topic_9" target="NASAGlenn" weight="3.369999885559082"></edge>
+      <edge id="459" source="Topic_9" target="NASA" weight="13.779999732971191"></edge>
+      <edge id="460" source="Topic_9" target="NASASLS" weight="2.1500000953674316"></edge>
+      <edge id="461" source="Topic_9" target="NASAHistoryOffice" weight="3.7799999713897705"></edge>
+      <edge id="462" source="Topic_9" target="nasaearth" weight="79.88999938964844"></edge>
+      <edge id="463" source="Topic_9" target="NasaMeteorWatch" weight="9.6899995803833"></edge>
+      <edge id="464" source="Topic_9" target="ISS" weight="3.1500000953674316"></edge>
+      <edge id="465" source="Topic_9" target="StarTalkRadio" weight="2.609999895095825"></edge>
+      <edge id="466" source="Topic_9" target="webbtelescope" weight="0.7300000190734863"></edge>
+      <edge id="467" source="Topic_9" target="SpaceX" weight="0.800000011920929"></edge>
+      <edge id="468" source="Topic_9" target="NASA.ISRU" weight="2.390000104904175"></edge>
+      <edge id="469" source="Topic_9" target="hubbleESA" weight="1.2699999809265137"></edge>
+      <edge id="470" source="Topic_9" target="CanadianSpaceAgency" weight="3.859999895095825"></edge>
+      <edge id="471" source="Topic_9" target="NASA.STI.Program" weight="31.0"></edge>
+      <edge id="472" source="Topic_9" target="SETIInstitute" weight="7.320000171661377"></edge>
+      <edge id="473" source="Topic_9" target="nasaspaceplace" weight="9.720000267028809"></edge>
+      <edge id="474" source="Topic_9" target="ESATimPeake" weight="3.059999942779541"></edge>
+      <edge id="475" source="Topic_9" target="spacecom" weight="3.5799999237060547"></edge>
+      <edge id="476" source="Topic_9" target="HubbleTelescope" weight="0.6800000071525574"></edge>
+      <edge id="477" source="Topic_9" target="AstronomyMagazine" weight="1.9600000381469727"></edge>
+      <edge id="478" source="Topic_9" target="spacegovuk" weight="2.5299999713897705"></edge>
+      <edge id="479" source="NASASLS" target="Topic_0" weight="0.14000000059604645"></edge>
+      <edge id="483" source="spacecom" target="Topic_0" weight="1.3899999856948853"></edge>
+      <edge id="486" source="StarTalkRadio" target="Topic_0" weight="3.200000047683716"></edge>
+      <edge id="487" source="webbtelescope" target="Topic_0" weight="68.75"></edge>
+      <edge id="489" source="NASA.ISRU" target="Topic_0" weight="0.2199999988079071"></edge>
+      <edge id="490" source="hubbleESA" target="Topic_0" weight="77.1500015258789"></edge>
+      <edge id="491" source="CanadianSpaceAgency" target="Topic_0" weight="0.38999998569488525"></edge>
+      <edge id="492" source="NASA.STI.Program" target="Topic_0" weight="1.5800000429153442"></edge>
+      <edge id="493" source="SETIInstitute" target="Topic_0" weight="3.009999990463257"></edge>
+      <edge id="494" source="nasaspaceplace" target="Topic_0" weight="2.5399999618530273"></edge>
+      <edge id="496" source="NASA" target="Topic_0" weight="0.5699999928474426"></edge>
+      <edge id="497" source="Topic_0" target="HubbleTelescope" weight="38.029998779296875"></edge>
+      <edge id="498" source="Topic_0" target="AstronomyMagazine" weight="1.5499999523162842"></edge>
+      <edge id="499" source="Topic_0" target="spacegovuk" weight="4.269999980926514"></edge>
+    </edges>
+  </graph>
+</gexf>

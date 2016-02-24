@@ -122,10 +122,10 @@ class CreateGraph():
 # variables
 ###############
 
-path_to_topic_composition_file = '../output/models/space_tweets_composition.txt'
-path_to_store_topic_composition_graph = "../GEPHI/graph_files/space_tweets_composition_raw.gexf"
-path_to_topic_keywords_file = '../output/models/space_tweets_keys.txt'
-path_to_store_topic_keywords_graph = '../GEPHI/graph_files/space_tweets_keys_raw.gexf'
+path_to_topic_composition_file = '../mallet_output/models/fb_posts_composition.txt'
+path_to_store_topic_composition_graph = "../GEPHI/graph_files/fb_posts_composition_raw.gexf"
+path_to_topic_keywords_file = '../mallet_output/models/fb_posts_keys.txt'
+path_to_store_topic_keywords_graph = '../GEPHI/graph_files/fb_posts_keys_raw.gexf'
 
 
 if __name__ == '__main__':
