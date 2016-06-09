@@ -7,9 +7,10 @@ __author__ = 'yi-linghwong'
 import os
 import sys
 
-lines = open('../input/preprocessed_tweets/preprocessed_mars_and_water_stream.csv','r').readlines()
+#lines = open('../mallet_input/preprocessed_files/facebook/preprocessed_fb_comments_20160121_en.csv','r').readlines()
+lines = open('../../_big_files/facebook/preprocessed_fb_comments_replies_20160223_en.csv','r').readlines()
 
-tweets = []
+messages = []
 
 # get number of elements per line for checking
 
@@ -21,26 +22,30 @@ print ("Number of elements per line is "+str(length))
 
 print (len(lines))
 
-# get first (username) and last (tweet) element of the line
+# get first (username) and last (message) element of the line
 
 for line in lines:
     spline = line.replace('\n','').split(',')
 
     if (len(spline)) == length:
 
-        tweets.append([spline[0],spline[-1]])
+        # remove leading whitespace from message
+        spline[-1] = spline[-1].lstrip()
+
+        messages.append([spline[0],'en',spline[-1]])
 
     else:
         print ("error")
         print (spline)
 
-print (len(tweets))
+print (len(messages))
 
 # write output to file
 
-f = open('../input/single_file_tweets/mars_and_water_stream.txt','w')
+#f = open('../mallet_input/single_file/facebook/fb_comments_20160121_en.txt','w')
+f = open('../../_big_files/mallet/input/fb_comments_replies_20160223_en.txt','w')
 
-for t in tweets:
-    f.write(' '.join(t)+'\n')
+for m in messages:
+    f.write(' '.join(m)+'\n')
 
 f.close()

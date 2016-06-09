@@ -1,0 +1,166 @@
+0	0.55935	life god planet human world people universe years humans aliens man alien live things living day future humanity created 
+1	0.53347	planet water pluto mars ice atmosphere solar years surface global warming change climate air jupiter sea weather red ocean 
+2	1.02407	good amazing great beautiful happy love day awesome home hope year picture tim chris luck night photo safe birthday 
+3	0.35929	money people world government country free america usa american power pay countries india war obama states information support work 
+4	0.72354	science people make read things real question understand wrong scientists evidence thing fact scientific true fake lot post point 
+5	0.14803	la en el se es para por est los lo si le del da una las como na te 
+6	0.68884	nasa space mars moon mission launch isro spacex station rocket landing curiosity send iss work orbit future astronauts make 
+7	1.2719	lol cool love awesome wait watch live man thought big yeah video pretty neil remember news thing interesting stuff 
+8	0.50968	light sun years stars gravity black moon universe space star speed galaxy solar energy planets dark hole matter image 
+9	0.43105	null wow nice die pic iv der beautiful rivera victoria von general matt und oz mu das republik plz 
+
+<550> LL/token: -9.27533
+[beta: 0.02251] 
+<560> LL/token: -9.27569
+<570> LL/token: -9.27619
+[beta: 0.02266] 
+<580> LL/token: -9.27479
+<590> LL/token: -9.27506
+
+0	0.41686	life god planet human people world universe years humans man live things alien aliens living future day humanity created 
+1	0.39373	water planet mars pluto ice atmosphere years solar global surface warming change climate jupiter sea weather air ocean cold 
+2	0.85873	good amazing great wow beautiful happy awesome love day home space nasa year picture tim chris hope luck photo 
+3	0.25375	money people world nasa government country free american america usa pay india countries power war states obama military work 
+4	0.54232	science people nasa read make real things question wrong understand evidence scientific fact scientists thing fake true post lot 
+5	0.11266	la en el se es para por est los lo si le del una da las como te os 
+6	0.5107	space nasa mars moon mission launch isro spacex rocket landing station send iss orbit future astronauts exploration program make 
+7	1.01434	lol cool nice love wait watch live awesome big man thought pretty yeah neil video thing remember star hey 
+8	0.38346	light sun moon years stars black gravity space universe star galaxy speed planets solar image hole energy matter pluto 
+9	0.26082	null die iv der nice rivera victoria von general matt und oz mu das republik hugo da ho san 
+
+[beta: 0.02284] 
+<600> LL/token: -9.27372
+<610> LL/token: -9.271
+[beta: 0.02301] 
+<620> LL/token: -9.26774
+<630> LL/token: -9.26327
+[beta: 0.02319] 
+<640> LL/token: -9.25795
+
+0	0.26876	life god planet people universe human world years humans man things live alien aliens living future day created jesus 
+1	0.25038	water mars ice atmosphere years planet global warming solar surface climate change weather sea air jupiter sun ocean cold 
+2	0.65053	good amazing great wow beautiful happy love awesome space day nasa home tim chris year hope picture luck safe 
+3	0.15558	money people nasa world government country free american america usa india pay war countries military send obama states power 
+4	0.35927	science people nasa read make real things question understand wrong evidence scientific fake fact thing world scientists page true 
+5	0.07579	la en el es se para por est los lo si del le una da las como os al 
+6	0.32803	space nasa mars moon mission launch isro rocket landing spacex station send iss orbit program years future shuttle rover 
+7	0.74558	null lol cool nice love watch awesome wait thought man yeah live pretty big neil star thing movie remember 
+8	0.26176	light planet sun pluto moon stars black years space gravity universe planets star galaxy solar speed hole matter dark 
+9	0.10408	die der iv rivera victoria von na general und mu oz das republik ho da hugo sa hai san 
+
+<650> LL/token: -9.25443
+[beta: 0.02338] 
+<660> LL/token: -9.25427
+<670> LL/token: -9.2499
+[beta: 0.02357] 
+<680> LL/token: -9.25018
+<690> LL/token: -9.24552
+
+0	0.20334	life god planet people universe human world years humans man things live alien aliens living space day jesus created 
+1	0.18486	water mars ice atmosphere global years warming climate change solar surface planet air sea weather life ocean sun north 
+2	0.54488	good amazing great wow beautiful happy love awesome space nasa day home nice tim chris hope year luck safe 
+3	0.11627	money people nasa world government country free american america usa war work pay countries india obama states united dollars 
+4	0.27635	science people nasa read make real things understand question scientific evidence wrong fact world scientists post thing fake answer 
+5	0.06075	la en el es se para por est los lo si del le una da las como os esta 
+6	0.25147	space nasa mars moon mission launch rocket landing spacex station iss years orbit program isro send make shuttle astronauts 
+7	0.5937	null lol cool love nice awesome watch thought yeah pretty wait man star big movie thing neil haha hey 
+8	0.21048	light planet sun pluto moon years space stars black gravity universe planets star solar galaxy speed hole matter energy 
+9	0.06568	die der iv rivera victoria von na general ng und mu oz das republik sa da hugo ho hai 
+
+[beta: 0.02378] 
+<700> LL/token: -9.24618
+<710> LL/token: -9.24133
+[beta: 0.02395] 
+<720> LL/token: -9.24119
+<730> LL/token: -9.23519
+[beta: 0.02415] 
+<740> LL/token: -9.23758
+
+0	0.13886	life god planet universe people human world years humans man space live things alien aliens jesus living day created 
+1	0.12469	water mars ice atmosphere years global warming climate change solar planet air surface life sea weather ocean sun heat 
+2	0.42614	good amazing great wow beautiful happy love awesome space nasa day nice home tim chris luck year safe birthday 
+3	0.07924	money people nasa world government country free american america usa war work pay india obama united countries states make 
+4	0.19321	science people nasa read make real things understand question scientific evidence wrong world scientists post fact thing fake theory 
+5	0.04605	la en el es se para por est los lo si del le una las da como os esta 
+6	0.17654	space nasa mars moon mission launch rocket landing spacex station iss years orbit program make shuttle astronauts work technology 
+7	0.42891	null lol cool love nice awesome thought yeah watch star pretty wait man moon big movie haha mars thing 
+8	0.15541	light planet pluto sun moon years space black stars gravity planets universe star solar galaxy speed hole matter dark 
+9	0.04164	die der iv rivera victoria na von general ng und mu da oz sa das republik ki ne al 
+
+<750> LL/token: -9.23224
+[beta: 0.02432] 
+<760> LL/token: -9.23211
+<770> LL/token: -9.22679
+[beta: 0.0245] 
+<780> LL/token: -9.22754
+<790> LL/token: -9.22095
+
+0	0.11095	life god planet universe people human world years humans man alien live aliens space things jesus mars living day 
+1	0.09941	water mars ice atmosphere years global warming climate change planet solar life sea surface air weather sun ocean carbon 
+2	0.36726	good amazing wow great beautiful happy love awesome space nasa day nice home tim luck chris year birthday safe 
+3	0.0631	money nasa people world country government free america american usa war space india work united obama states pay countries 
+4	0.15633	science people nasa read make real understand things question scientific evidence wrong world thing neil scientists post fact fake 
+5	0.03992	la en el es se para por est los lo si del le una las da como os esta 
+6	0.14654	space nasa mars moon mission launch rocket landing spacex years station iss make orbit program shuttle technology astronauts work 
+7	0.34995	null lol cool love nice awesome yeah thought star watch pretty man movie haha moon wait mars ha thing 
+8	0.12909	light planet pluto sun moon space years black stars universe gravity planets star galaxy solar speed hole matter dark 
+9	0.03158	die der iv rivera victoria von na general ng und mu jai sa ki oz republik das al da 
+
+[beta: 0.02465] 
+<800> LL/token: -9.22166
+<810> LL/token: -9.21549
+[beta: 0.02484] 
+<820> LL/token: -9.21614
+<830> LL/token: -9.20999
+[beta: 0.025] 
+<840> LL/token: -9.21137
+
+0	0.08321	life god planet universe people human world years humans space man alien aliens live things mars jesus day living 
+1	0.07461	water mars ice atmosphere years global climate warming change planet life solar sea surface air weather sun ocean carbon 
+2	0.30222	good amazing great beautiful wow happy love space awesome nasa day nice home tim luck chris year birthday safe 
+3	0.04756	nasa money people world country government free space america american usa war india obama united countries make states work 
+4	0.11967	science people nasa read make real understand things scientific question evidence world wrong neil post thing scientists tyson fact 
+5	0.03338	la en el es se para por los est lo si del le una las da como os nasa 
+6	0.1151	space nasa mars moon launch mission rocket landing spacex years station iss orbit make shuttle program technology work apollo 
+7	0.26568	null lol cool nice love awesome wow thought yeah star mars movie haha moon pretty ha man watch thing 
+8	0.10114	light planet pluto sun moon space years black stars universe gravity planets star galaxy solar speed hole matter dark 
+9	0.022	die der iv rivera victoria na von general ng und jai mu ki republik das oz sa al en 
+
+<850> LL/token: -9.20612
+[beta: 0.02515] 
+<860> LL/token: -9.20658
+<870> LL/token: -9.20132
+[beta: 0.02531] 
+<880> LL/token: -9.2024
+<890> LL/token: -9.19687
+
+0	0.07092	life god planet universe people human world years humans space man alien aliens mars live things jesus planets living 
+1	0.0639	water ice mars atmosphere years global climate warming change planet life sea solar surface air weather sun ocean carbon 
+2	0.26835	good amazing great beautiful happy wow love space awesome nasa day home nice tim luck chris birthday year safe 
+3	0.04059	nasa money people world country government space free america american usa india war obama united states countries make work 
+4	0.10329	science people nasa read make real understand scientific things question evidence neil wrong world post thing tyson good scientists 
+5	0.02993	la en el es se para por los est lo si del le una las da como nasa os 
+6	0.10076	space nasa mars moon launch mission rocket landing spacex years station orbit iss make shuttle program work technology apollo 
+7	0.22688	null lol cool nice wow awesome love thought yeah star mars haha ha moon man pretty movie watch wait 
+8	0.08762	light planet sun pluto moon space years black stars universe planets gravity star galaxy solar hole speed matter dark 
+9	0.01866	die der iv rivera victoria na von general ng jai und mu ki republik das sa oz al en 
+
+[beta: 0.02544] 
+<900> LL/token: -9.19783
+<910> LL/token: -9.19312
+[beta: 0.02559] 
+<920> LL/token: -9.19387
+<930> LL/token: -9.18934
+[beta: 0.02571] 
+<940> LL/token: -9.18997
+
+0	0.05782	life god planet universe people human world years humans space aliens man alien mars live things jesus planets created 
+1	0.05289	water ice mars years atmosphere global climate warming change planet life sea solar surface air sun weather ocean carbon 
+2	0.22992	good amazing great beautiful happy wow love awesome space nasa day home nice tim luck birthday chris year safe 
+3	0.03325	nasa money people world space country government free america american india war usa make states united work obama countries 
+4	0.08628	science people nasa read make real things understand scientific neil evidence question world wrong thing post good tyson fact 
+5	0.02587	la en el es se para por los est lo si del le una las da como nasa os 
+6	0.08485	space nasa mars moon launch mission rocket landing years spacex station orbit iss make shuttle program work technology apollo 
+7	0.1844	null lol cool nice wow awesome love star yeah mars thought ha space haha man pretty moon movie hey 
+8	0.07331	light planet sun pluto moon years space black stars star universe planets gravity solar galaxy hole speed matter dark 
+9	0.01574	die der iv rivera victoria na von general ng jai und mu ki republik das sa oz al en 
