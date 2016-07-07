@@ -1,0 +1,3061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+<key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+<key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+<key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<graph edgedefault="undirected">
+<node id="man">
+<data key="label">man</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2915057915057915</data>
+<data key="harmonicclosnesscentrality">0.32395143487858724</data>
+<data key="betweenesscentrality">272.7021232347547</data>
+<data key="modularity_class">8</data>
+<data key="size">22.439693</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">417.8565</data>
+<data key="y">-45.31841</data>
+</node>
+<node id="air">
+<data key="label">air</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">158.03903</data>
+<data key="y">1269.3102</data>
+</node>
+<node id="created">
+<data key="label">created</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1130.1345</data>
+<data key="y">351.09775</data>
+</node>
+<node id="solar">
+<data key="label">solar</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2603448275862069</data>
+<data key="harmonicclosnesscentrality">0.30286975717439285</data>
+<data key="betweenesscentrality">66.73062049062047</data>
+<data key="modularity_class">0</data>
+<data key="size">13.044012</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-44.293312</data>
+<data key="y">1015.9676</data>
+</node>
+<node id="country">
+<data key="label">country</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">354.1916</data>
+<data key="y">-1.420711</data>
+</node>
+<node id="years">
+<data key="label">years</data>
+<data key="degree">5</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3463302752293578</data>
+<data key="harmonicclosnesscentrality">0.4001103752759383</data>
+<data key="betweenesscentrality">1231.484886172435</data>
+<data key="modularity_class">6</data>
+<data key="size">66.17592</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-31.67504</data>
+<data key="y">559.255</data>
+</node>
+<node id="work">
+<data key="label">work</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2903846153846154</data>
+<data key="harmonicclosnesscentrality">0.3222958057395144</data>
+<data key="betweenesscentrality">199.31398361398354</data>
+<data key="modularity_class">1</data>
+<data key="size">19.09199</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-4.8920574</data>
+<data key="y">-464.42188</data>
+</node>
+<node id="station">
+<data key="label">station</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-936.6668</data>
+<data key="y">189.66653</data>
+</node>
+<node id="Topic_8">
+<data key="label">SPACE_OBJECTS_&amp;_CONCEPTS</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3268398268398268</data>
+<data key="harmonicclosnesscentrality">0.4008830022075063</data>
+<data key="betweenesscentrality">2008.5863300231324</data>
+<data key="modularity_class">0</data>
+<data key="size">101.624504</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-232.0088</data>
+<data key="y">756.4686</data>
+</node>
+<node id="hope">
+<data key="label">hope</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-277.8482</data>
+<data key="y">-1076.1586</data>
+</node>
+<node id="water">
+<data key="label">water</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">241.15247</data>
+<data key="y">1299.1417</data>
+</node>
+<node id="light">
+<data key="label">light</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-437.0934</data>
+<data key="y">935.1817</data>
+</node>
+<node id="ice">
+<data key="label">ice</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">305.05136</data>
+<data key="y">1266.6722</data>
+</node>
+<node id="thing">
+<data key="label">thing</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-484.25073</data>
+<data key="y">-279.78308</data>
+</node>
+<node id="space">
+<data key="label">space</data>
+<data key="degree">5</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.352803738317757</data>
+<data key="harmonicclosnesscentrality">0.4067328918322296</data>
+<data key="betweenesscentrality">1559.6310343083494</data>
+<data key="modularity_class">4</data>
+<data key="size">81.144775</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">-294.62424</data>
+<data key="y">74.47339</data>
+</node>
+<node id="god">
+<data key="label">god</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.27355072463768115</data>
+<data key="harmonicclosnesscentrality">0.3109271523178808</data>
+<data key="betweenesscentrality">66.83056641388353</data>
+<data key="modularity_class">5</data>
+<data key="size">13.048571</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">777.08875</data>
+<data key="y">400.7073</data>
+</node>
+<node id="lol">
+<data key="label">lol</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.289272030651341</data>
+<data key="harmonicclosnesscentrality">0.3206401766004414</data>
+<data key="betweenesscentrality">130.39273504661986</data>
+<data key="modularity_class">8</data>
+<data key="size">15.94805</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">85.56176</data>
+<data key="y">-423.23694</data>
+</node>
+<node id="hole">
+<data key="label">hole</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-366.90384</data>
+<data key="y">898.6349</data>
+</node>
+<node id="scientists">
+<data key="label">scientists</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">721.5882</data>
+<data key="y">625.4007</data>
+</node>
+<node id="chris">
+<data key="label">chris</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-323.2511</data>
+<data key="y">-1039.9985</data>
+</node>
+<node id="neil">
+<data key="label">neil</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.26666666666666666</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">632.10864</data>
+<data key="y">-602.97034</data>
+</node>
+<node id="stop">
+<data key="label">stop</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">379.04166</data>
+<data key="y">56.791683</data>
+</node>
+<node id="global">
+<data key="label">global</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">460.41956</data>
+<data key="y">1198.3214</data>
+</node>
+<node id="shuttle">
+<data key="label">shuttle</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-1011.4519</data>
+<data key="y">456.0837</data>
+</node>
+<node id="night">
+<data key="label">night</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-987.5238</data>
+<data key="y">-1076.2477</data>
+</node>
+<node id="live">
+<data key="label">live</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-723.4984</data>
+<data key="y">-1260.557</data>
+</node>
+<node id="stars">
+<data key="label">stars</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-277.83676</data>
+<data key="y">985.4486</data>
+</node>
+<node id="landing">
+<data key="label">landing</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-895.97534</data>
+<data key="y">492.28723</data>
+</node>
+<node id="proud">
+<data key="label">proud</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-92.660835</data>
+<data key="y">-1173.8097</data>
+</node>
+<node id="money">
+<data key="label">money</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">362.41504</data>
+<data key="y">132.06009</data>
+</node>
+<node id="Topic_4">
+<data key="label">ASTRONAUTS</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3119834710743802</data>
+<data key="harmonicclosnesscentrality">0.3903973509933783</data>
+<data key="betweenesscentrality">2148.694739486451</data>
+<data key="modularity_class">1</data>
+<data key="size">108.015755</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-161.93161</data>
+<data key="y">-933.843</data>
+</node>
+<node id="states">
+<data key="label">states</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">264.5348</data>
+<data key="y">-106.59644</data>
+</node>
+<node id="beautiful">
+<data key="label">beautiful</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-836.52795</data>
+<data key="y">-1153.75</data>
+</node>
+<node id="photos">
+<data key="label">photos</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-953.4318</data>
+<data key="y">-1116.9073</data>
+</node>
+<node id="real">
+<data key="label">real</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">702.2502</data>
+<data key="y">450.07587</data>
+</node>
+<node id="read">
+<data key="label">read</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.26666666666666666</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">674.6385</data>
+<data key="y">-756.40485</data>
+</node>
+<node id="countries">
+<data key="label">countries</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">63.3105</data>
+<data key="y">-76.20804</data>
+</node>
+<node id="photo">
+<data key="label">photo</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-766.5186</data>
+<data key="y">-1189.9313</data>
+</node>
+<node id="thought">
+<data key="label">thought</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.289272030651341</data>
+<data key="harmonicclosnesscentrality">0.3206401766004414</data>
+<data key="betweenesscentrality">130.39273504661986</data>
+<data key="modularity_class">8</data>
+<data key="size">15.94805</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">100.11006</data>
+<data key="y">-501.26007</data>
+</node>
+<node id="flight">
+<data key="label">flight</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-1024.358</data>
+<data key="y">418.15408</data>
+</node>
+<node id="happy">
+<data key="label">happy</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-182.54614</data>
+<data key="y">-1218.0566</data>
+</node>
+<node id="word">
+<data key="label">word</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1071.7068</data>
+<data key="y">82.364296</data>
+</node>
+<node id="war">
+<data key="label">war</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">208.16872</data>
+<data key="y">-134.52232</data>
+</node>
+<node id="movie">
+<data key="label">movie</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-420.17172</data>
+<data key="y">-381.74808</data>
+</node>
+<node id="Topic_3">
+<data key="label">GOV'T_FUNDING</data>
+<data key="degree">19</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.37192118226600984</data>
+<data key="harmonicclosnesscentrality">0.4271523178807954</data>
+<data key="betweenesscentrality">2404.1427907118305</data>
+<data key="modularity_class">4</data>
+<data key="size">119.66838</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">174.88252</data>
+<data key="y">78.78744</data>
+</node>
+<node id="free">
+<data key="label">free</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1192.212</data>
+<data key="y">232.5206</data>
+</node>
+<node id="question">
+<data key="label">question</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.26666666666666666</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">502.8309</data>
+<data key="y">-891.80035</data>
+</node>
+<node id="program">
+<data key="label">program</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-1043.9923</data>
+<data key="y">289.18124</data>
+</node>
+<node id="america">
+<data key="label">america</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">307.86792</data>
+<data key="y">-73.89844</data>
+</node>
+<node id="universe">
+<data key="label">universe</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.27454545454545454</data>
+<data key="harmonicclosnesscentrality">0.3125827814569536</data>
+<data key="betweenesscentrality">86.04987334877865</data>
+<data key="modularity_class">4</data>
+<data key="size">13.925287</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">103.59542</data>
+<data key="y">702.5027</data>
+</node>
+<node id="orbit">
+<data key="label">orbit</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-939.419</data>
+<data key="y">254.80632</data>
+</node>
+<node id="gravity">
+<data key="label">gravity</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-189.87709</data>
+<data key="y">949.95123</data>
+</node>
+<node id="galaxy">
+<data key="label">galaxy</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-437.35092</data>
+<data key="y">829.5635</data>
+</node>
+<node id="creation">
+<data key="label">creation</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1106.811</data>
+<data key="y">269.65433</data>
+</node>
+<node id="atmosphere">
+<data key="label">atmosphere</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">88.29898</data>
+<data key="y">1374.6278</data>
+</node>
+<node id="page">
+<data key="label">page</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.26666666666666666</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">634.28735</data>
+<data key="y">-822.75836</data>
+</node>
+<node id="things">
+<data key="label">things</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">597.81866</data>
+<data key="y">559.7559</data>
+</node>
+<node id="luck">
+<data key="label">luck</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">6.4666705</data>
+<data key="y">-1039.9558</data>
+</node>
+<node id="evidence">
+<data key="label">evidence</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">559.75946</data>
+<data key="y">699.848</data>
+</node>
+<node id="warming">
+<data key="label">warming</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">173.37178</data>
+<data key="y">1334.9253</data>
+</node>
+<node id="Topic_0">
+<data key="label">CLIMATE_CHANGE</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.30691056910569103</data>
+<data key="harmonicclosnesscentrality">0.3868653421633561</data>
+<data key="betweenesscentrality">2042.9153559420447</data>
+<data key="modularity_class">2</data>
+<data key="size">103.190475</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">214.98355</data>
+<data key="y">1116.8629</data>
+</node>
+<node id="pic">
+<data key="label">pic</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-864.4754</data>
+<data key="y">-1209.768</data>
+</node>
+<node id="lord">
+<data key="label">lord</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1160.4261</data>
+<data key="y">109.33865</data>
+</node>
+<node id="mars">
+<data key="label">mars</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.31069958847736623</data>
+<data key="harmonicclosnesscentrality">0.35320088300220753</data>
+<data key="betweenesscentrality">671.4721123226848</data>
+<data key="modularity_class">2</data>
+<data key="size">40.63015</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">-328.4068</data>
+<data key="y">434.45294</data>
+</node>
+<node id="safe">
+<data key="label">safe</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.26721854304635767</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-286.17688</data>
+<data key="y">-1185.1709</data>
+</node>
+<node id="mass">
+<data key="label">mass</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-469.59488</data>
+<data key="y">893.3368</data>
+</node>
+<node id="good">
+<data key="label">good</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.30691056910569103</data>
+<data key="harmonicclosnesscentrality">0.34823399558498896</data>
+<data key="betweenesscentrality">387.20139141640755</data>
+<data key="modularity_class">8</data>
+<data key="size">27.662739</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-485.21548</data>
+<data key="y">-720.61383</data>
+</node>
+<node id="big">
+<data key="label">big</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-496.29663</data>
+<data key="y">-109.713776</data>
+</node>
+<node id="home">
+<data key="label">home</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.26721854304635767</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">32.871937</data>
+<data key="y">-1157.0161</data>
+</node>
+<node id="bible">
+<data key="label">bible</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1033.4436</data>
+<data key="y">50.00687</data>
+</node>
+<node id="ocean">
+<data key="label">ocean</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">70.19503</data>
+<data key="y">1245.2008</data>
+</node>
+<node id="heavens">
+<data key="label">heavens</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1070.1278</data>
+<data key="y">142.04652</data>
+</node>
+<node id="fact">
+<data key="label">fact</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">588.862</data>
+<data key="y">604.79785</data>
+</node>
+<node id="year">
+<data key="label">year</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.26721854304635767</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">60.14678</data>
+<data key="y">-1080.2488</data>
+</node>
+<node id="view">
+<data key="label">view</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-831.86017</data>
+<data key="y">-1090.9817</data>
+</node>
+<node id="Topic_5">
+<data key="label">SPACE_VISUALS</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.29377431906614787</data>
+<data key="harmonicclosnesscentrality">0.3763796909492279</data>
+<data key="betweenesscentrality">2084.36683212086</data>
+<data key="modularity_class">3</data>
+<data key="size">105.081345</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-658.95105</data>
+<data key="y">-996.88324</data>
+</node>
+<node id="Topic_9">
+<data key="label">SCIENTIFIC_INQUIRIES</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3254310344827586</data>
+<data key="harmonicclosnesscentrality">0.40000000000000063</data>
+<data key="betweenesscentrality">1866.0552661433853</data>
+<data key="modularity_class">4</data>
+<data key="size">95.12276</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">461.63168</data>
+<data key="y">487.25024</data>
+</node>
+<node id="launch">
+<data key="label">launch</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-1029.0764</data>
+<data key="y">222.47783</data>
+</node>
+<node id="government">
+<data key="label">government</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">215.11604</data>
+<data key="y">268.75488</data>
+</node>
+<node id="rocket">
+<data key="label">rocket</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-1086.2301</data>
+<data key="y">350.07355</data>
+</node>
+<node id="comment">
+<data key="label">comment</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">608.9356</data>
+<data key="y">-719.7158</data>
+</node>
+<node id="pictures">
+<data key="label">pictures</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-865.2822</data>
+<data key="y">-944.5516</data>
+</node>
+<node id="american">
+<data key="label">american</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">91.865425</data>
+<data key="y">232.40161</data>
+</node>
+<node id="make">
+<data key="label">make</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.30691056910569103</data>
+<data key="harmonicclosnesscentrality">0.34823399558498896</data>
+<data key="betweenesscentrality">351.1665441144452</data>
+<data key="modularity_class">4</data>
+<data key="size">26.018959</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">9.515133</data>
+<data key="y">191.86787</data>
+</node>
+<node id="life">
+<data key="label">life</data>
+<data key="degree">3</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2903846153846154</data>
+<data key="harmonicclosnesscentrality">0.34017660044150105</data>
+<data key="betweenesscentrality">327.0958665721015</data>
+<data key="modularity_class">5</data>
+<data key="size">24.92094</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">629.77344</data>
+<data key="y">732.3426</data>
+</node>
+<node id="carbon">
+<data key="label">carbon</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">358.30194</data>
+<data key="y">1234.385</data>
+</node>
+<node id="Topic_6">
+<data key="label">RELIGION_VS_SCIENCE</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3254310344827586</data>
+<data key="harmonicclosnesscentrality">0.4000000000000007</data>
+<data key="betweenesscentrality">2087.73056811202</data>
+<data key="modularity_class">5</data>
+<data key="size">105.23479</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">874.60223</data>
+<data key="y">232.75615</data>
+</node>
+<node id="sun">
+<data key="label">sun</data>
+<data key="degree">3</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2926356589147287</data>
+<data key="harmonicclosnesscentrality">0.34348785871964677</data>
+<data key="betweenesscentrality">466.4188383468959</data>
+<data key="modularity_class">2</data>
+<data key="size">31.276356</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">320.2233</data>
+<data key="y">767.4973</data>
+</node>
+<node id="climate">
+<data key="label">climate</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">46.575962</data>
+<data key="y">1281.6442</data>
+</node>
+<node id="surface">
+<data key="label">surface</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">379.64023</data>
+<data key="y">1306.1338</data>
+</node>
+<node id="pay">
+<data key="label">pay</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">137.66478</data>
+<data key="y">-111.099945</data>
+</node>
+<node id="theory">
+<data key="label">theory</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">434.27344</data>
+<data key="y">662.6282</data>
+</node>
+<node id="comments">
+<data key="label">comments</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">532.95844</data>
+<data key="y">-789.3676</data>
+</node>
+<node id="matter">
+<data key="label">matter</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-392.35013</data>
+<data key="y">865.42554</data>
+</node>
+<node id="left">
+<data key="label">left</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-464.18262</data>
+<data key="y">-349.40646</data>
+</node>
+<node id="star">
+<data key="label">star</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.289272030651341</data>
+<data key="harmonicclosnesscentrality">0.32064017660044153</data>
+<data key="betweenesscentrality">123.87633898890104</data>
+<data key="modularity_class">0</data>
+<data key="size">15.650795</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-312.1137</data>
+<data key="y">298.849</data>
+</node>
+<node id="blue">
+<data key="label">blue</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-537.23895</data>
+<data key="y">-224.7607</data>
+</node>
+<node id="weather">
+<data key="label">weather</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">378.3855</data>
+<data key="y">1161.5111</data>
+</node>
+<node id="people">
+<data key="label">people</data>
+<data key="degree">4</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3268398268398268</data>
+<data key="harmonicclosnesscentrality">0.3758278145695364</data>
+<data key="betweenesscentrality">972.7339436836855</data>
+<data key="modularity_class">7</data>
+<data key="size">54.372635</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">584.25494</data>
+<data key="y">7.632664</data>
+</node>
+<node id="book">
+<data key="label">book</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">440.88373</data>
+<data key="y">-854.7976</data>
+</node>
+<node id="speed">
+<data key="label">speed</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-390.17374</data>
+<data key="y">976.23584</data>
+</node>
+<node id="picture">
+<data key="label">picture</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-880.07166</data>
+<data key="y">-1036.567</data>
+</node>
+<node id="technology">
+<data key="label">technology</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-917.4932</data>
+<data key="y">375.8821</data>
+</node>
+<node id="tim">
+<data key="label">tim</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.26721854304635767</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">20.093641</data>
+<data key="y">-1007.5954</data>
+</node>
+<node id="Topic_1">
+<data key="label">SPACE_MISSIONS</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34953703703703703</data>
+<data key="harmonicclosnesscentrality">0.4149006622516564</data>
+<data key="betweenesscentrality">2296.7112505294217</data>
+<data key="modularity_class">6</data>
+<data key="size">114.76773</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-731.5735</data>
+<data key="y">291.48337</data>
+</node>
+<node id="planets">
+<data key="label">planets</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-316.15988</data>
+<data key="y">1021.7219</data>
+</node>
+<node id="Topic_7">
+<data key="label">PROMOTIONAL</data>
+<data key="degree">19</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.31069958847736623</data>
+<data key="harmonicclosnesscentrality">0.3895143487858725</data>
+<data key="betweenesscentrality">2140.384175010437</data>
+<data key="modularity_class">7</data>
+<data key="size">107.63666</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">433.9973</data>
+<data key="y">-641.45825</data>
+</node>
+<node id="change">
+<data key="label">change</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">341.34247</data>
+<data key="y">1359.8661</data>
+</node>
+<node id="post">
+<data key="label">post</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">579.4561</data>
+<data key="y">-754.4978</data>
+</node>
+<node id="null">
+<data key="label">null</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-895.9579</data>
+<data key="y">-991.6389</data>
+</node>
+<node id="nice">
+<data key="label">nice</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.2586092715231788</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-796.78265</data>
+<data key="y">-1247.4044</data>
+</node>
+<node id="sea">
+<data key="label">sea</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.235202492211838</data>
+<data key="harmonicclosnesscentrality">0.26501103752759375</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">2</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">196</data>
+<data key="b">255</data>
+<data key="x">244.998</data>
+<data key="y">1396.0464</data>
+</node>
+<node id="curiosity">
+<data key="label">curiosity</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-551.3673</data>
+<data key="y">-150.14752</data>
+</node>
+<node id="article">
+<data key="label">article</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">701.7326</data>
+<data key="y">-687.79205</data>
+</node>
+<node id="apollo">
+<data key="label">apollo</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-967.52924</data>
+<data key="y">326.65796</data>
+</node>
+<node id="humans">
+<data key="label">humans</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">572.33417</data>
+<data key="y">658.33875</data>
+</node>
+<node id="check">
+<data key="label">check</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">495.06296</data>
+<data key="y">-821.7621</data>
+</node>
+<node id="heaven">
+<data key="label">heaven</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1193.3986</data>
+<data key="y">301.94952</data>
+</node>
+<node id="planet">
+<data key="label">planet</data>
+<data key="degree">4</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3240343347639485</data>
+<data key="harmonicclosnesscentrality">0.3725165562913908</data>
+<data key="betweenesscentrality">578.0301241634731</data>
+<data key="modularity_class">4</data>
+<data key="size">36.367664</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">177.86821</data>
+<data key="y">640.03217</data>
+</node>
+<node id="nasa">
+<data key="label">nasa</data>
+<data key="degree">4</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.33555555555555555</data>
+<data key="harmonicclosnesscentrality">0.38576158940397354</data>
+<data key="betweenesscentrality">1572.036993566103</data>
+<data key="modularity_class">3</data>
+<data key="size">81.71069</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-179.78514</data>
+<data key="y">-426.9881</data>
+</node>
+<node id="birthday">
+<data key="label">birthday</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.26721854304635767</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-89.124565</data>
+<data key="y">-1076.3317</data>
+</node>
+<node id="rock">
+<data key="label">rock</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-528.60864</data>
+<data key="y">-316.29</data>
+</node>
+<node id="science">
+<data key="label">science</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.2765567765567766</data>
+<data key="harmonicclosnesscentrality">0.3147902869757174</data>
+<data key="betweenesscentrality">195.7199905539612</data>
+<data key="modularity_class">7</data>
+<data key="size">18.928043</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">536.0075</data>
+<data key="y">-139.16406</data>
+</node>
+<node id="spacecraft">
+<data key="label">spacecraft</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-806.46564</data>
+<data key="y">532.9347</data>
+</node>
+<node id="great">
+<data key="label">great</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.263986013986014</data>
+<data key="harmonicclosnesscentrality">0.30507726269315677</data>
+<data key="betweenesscentrality">101.86011059018495</data>
+<data key="modularity_class">1</data>
+<data key="size">14.646493</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-444.1312</data>
+<data key="y">-1012.89404</data>
+</node>
+<node id="allah">
+<data key="label">allah</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1073.0713</data>
+<data key="y">318.5665</data>
+</node>
+<node id="wow">
+<data key="label">wow</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.25860927152317875</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-708.1537</data>
+<data key="y">-1222.8064</data>
+</node>
+<node id="Topic_2">
+<data key="label">SPACE_EXPLORATION</data>
+<data key="degree">19</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.37192118226600984</data>
+<data key="harmonicclosnesscentrality">0.42715231788079544</data>
+<data key="betweenesscentrality">2411.412691920421</data>
+<data key="modularity_class">8</data>
+<data key="size">120.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-273.91614</data>
+<data key="y">-189.91104</data>
+</node>
+<node id="facebook">
+<data key="label">facebook</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">582.26953</data>
+<data key="y">-855.12854</data>
+</node>
+<node id="day">
+<data key="label">day</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2915057915057915</data>
+<data key="harmonicclosnesscentrality">0.32395143487858724</data>
+<data key="betweenesscentrality">409.32394008035334</data>
+<data key="modularity_class">5</data>
+<data key="size">28.67189</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">432.06586</data>
+<data key="y">-362.2887</data>
+</node>
+<node id="spacex">
+<data key="label">spacex</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-872.4073</data>
+<data key="y">446.49197</data>
+</node>
+<node id="iss">
+<data key="label">iss</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-946.37714</data>
+<data key="y">413.41428</data>
+</node>
+<node id="guy">
+<data key="label">guy</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">384.55252</data>
+<data key="y">-821.28687</data>
+</node>
+<node id="understand">
+<data key="label">understand</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">769.05414</data>
+<data key="y">593.09564</data>
+</node>
+<node id="scott">
+<data key="label">scott</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-210.88034</data>
+<data key="y">-1152.4988</data>
+</node>
+<node id="congratulations">
+<data key="label">congratulations</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23817034700315456</data>
+<data key="harmonicclosnesscentrality">0.2672185430463576</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">1</data>
+<data key="size">10.0</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-91.945366</data>
+<data key="y">-1116.7109</data>
+</node>
+<node id="scientific">
+<data key="label">scientific</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.2730684326710816</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">4</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">726.44617</data>
+<data key="y">523.2234</data>
+</node>
+<node id="head">
+<data key="label">head</data>
+<data key="degree">1</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2715827338129496</data>
+<data key="harmonicclosnesscentrality">0.28973509933774827</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">8</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-591.3064</data>
+<data key="y">-258.02933</data>
+</node>
+<node id="world">
+<data key="label">world</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.30443548387096775</data>
+<data key="harmonicclosnesscentrality">0.3449227373068433</data>
+<data key="betweenesscentrality">265.0087261198616</data>
+<data key="modularity_class">4</data>
+<data key="size">22.088749</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">586.9349</data>
+<data key="y">238.93588</data>
+</node>
+<node id="holy">
+<data key="label">holy</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1044.2136</data>
+<data key="y">387.30902</data>
+</node>
+<node id="black">
+<data key="label">black</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-468.4747</data>
+<data key="y">793.4788</data>
+</node>
+<node id="cool">
+<data key="label">cool</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3081632653061224</data>
+<data key="harmonicclosnesscentrality">0.3498896247240618</data>
+<data key="betweenesscentrality">507.9718637975378</data>
+<data key="modularity_class">8</data>
+<data key="size">33.171856</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-203.71863</data>
+<data key="y">-646.46796</data>
+</node>
+<node id="amazing">
+<data key="label">amazing</data>
+<data key="degree">2</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.263986013986014</data>
+<data key="harmonicclosnesscentrality">0.30507726269315677</data>
+<data key="betweenesscentrality">101.86011059018495</data>
+<data key="modularity_class">1</data>
+<data key="size">14.646493</data>
+<data key="r">115</data>
+<data key="g">192</data>
+<data key="b">0</data>
+<data key="x">-439.22214</data>
+<data key="y">-1087.2937</data>
+</node>
+<node id="awesome">
+<data key="label">awesome</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.22740963855421686</data>
+<data key="harmonicclosnesscentrality">0.25860927152317875</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">3</data>
+<data key="size">10.0</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-585.95465</data>
+<data key="y">-1248.0237</data>
+</node>
+<node id="human">
+<data key="label">human</data>
+<data key="degree">2</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.2859848484848485</data>
+<data key="harmonicclosnesscentrality">0.315673289183223</data>
+<data key="betweenesscentrality">52.80619723711156</data>
+<data key="modularity_class">4</data>
+<data key="size">12.40883</data>
+<data key="r">223</data>
+<data key="g">137</data>
+<data key="b">255</data>
+<data key="x">371.37244</data>
+<data key="y">305.1227</data>
+</node>
+<node id="moon">
+<data key="label">moon</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3081632653061224</data>
+<data key="harmonicclosnesscentrality">0.3498896247240618</data>
+<data key="betweenesscentrality">309.6869587636539</data>
+<data key="modularity_class">0</data>
+<data key="size">24.126808</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-478.22958</data>
+<data key="y">310.94394</data>
+</node>
+<node id="mission">
+<data key="label">mission</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.25945017182130586</data>
+<data key="harmonicclosnesscentrality">0.28222958057395137</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">6</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">85</data>
+<data key="b">132</data>
+<data key="x">-909.05286</data>
+<data key="y">156.74469</data>
+</node>
+<node id="pluto">
+<data key="label">pluto</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24673202614379086</data>
+<data key="harmonicclosnesscentrality">0.2736203090507726</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">0</data>
+<data key="size">10.0</data>
+<data key="r">211</data>
+<data key="g">179</data>
+<data key="b">176</data>
+<data key="x">-312.33817</data>
+<data key="y">935.1757</data>
+</node>
+<node id="christ">
+<data key="label">christ</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1212.0612</data>
+<data key="y">156.21841</data>
+</node>
+<node id="love">
+<data key="label">love</data>
+<data key="degree">3</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.30691056910569103</data>
+<data key="harmonicclosnesscentrality">0.34823399558498896</data>
+<data key="betweenesscentrality">387.20139141640755</data>
+<data key="modularity_class">3</data>
+<data key="size">27.662739</data>
+<data key="r">223</data>
+<data key="g">235</data>
+<data key="b">0</data>
+<data key="x">-397.34927</data>
+<data key="y">-749.4074</data>
+</node>
+<node id="tyson">
+<data key="label">tyson</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.23742138364779874</data>
+<data key="harmonicclosnesscentrality">0.2666666666666667</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">7</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">189</data>
+<data key="b">148</data>
+<data key="x">635.0355</data>
+<data key="y">-651.3709</data>
+</node>
+<node id="jesus">
+<data key="label">jesus</data>
+<data key="degree">1</data>
+<data key="eccentricity">6.0</data>
+<data key="closnesscentrality">0.24592833876221498</data>
+<data key="harmonicclosnesscentrality">0.27306843267108166</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">255</data>
+<data key="g">136</data>
+<data key="b">5</data>
+<data key="x">1123.1077</data>
+<data key="y">192.60101</data>
+</node>
+<edge source="man" target="Topic_2">
+<data key="edgeid">0</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="man" target="Topic_6">
+<data key="edgeid">1</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="air" target="Topic_0">
+<data key="edgeid">2</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="created" target="Topic_6">
+<data key="edgeid">3</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="solar" target="Topic_0">
+<data key="edgeid">4</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="solar" target="Topic_8">
+<data key="edgeid">5</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="country" target="Topic_3">
+<data key="edgeid">6</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="years" target="Topic_9">
+<data key="edgeid">7</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="years" target="Topic_3">
+<data key="edgeid">8</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="years" target="Topic_0">
+<data key="edgeid">9</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="years" target="Topic_8">
+<data key="edgeid">10</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="years" target="Topic_1">
+<data key="edgeid">11</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="work" target="Topic_4">
+<data key="edgeid">12</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="work" target="Topic_3">
+<data key="edgeid">13</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="station" target="Topic_1">
+<data key="edgeid">14</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="star">
+<data key="edgeid">15</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="mass">
+<data key="edgeid">16</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="universe">
+<data key="edgeid">17</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="planet">
+<data key="edgeid">18</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="speed">
+<data key="edgeid">19</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="stars">
+<data key="edgeid">20</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="light">
+<data key="edgeid">21</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="hole">
+<data key="edgeid">22</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="planets">
+<data key="edgeid">23</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="gravity">
+<data key="edgeid">24</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="sun">
+<data key="edgeid">25</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="space">
+<data key="edgeid">26</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="galaxy">
+<data key="edgeid">27</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="moon">
+<data key="edgeid">28</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="black">
+<data key="edgeid">29</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="matter">
+<data key="edgeid">30</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_8" target="pluto">
+<data key="edgeid">31</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="hope" target="Topic_4">
+<data key="edgeid">32</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="water" target="Topic_0">
+<data key="edgeid">33</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="ice" target="Topic_0">
+<data key="edgeid">34</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="thing" target="Topic_2">
+<data key="edgeid">35</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="space" target="Topic_2">
+<data key="edgeid">36</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="space" target="Topic_3">
+<data key="edgeid">37</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="space" target="Topic_1">
+<data key="edgeid">38</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="space" target="Topic_4">
+<data key="edgeid">39</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="god" target="Topic_9">
+<data key="edgeid">40</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="god" target="Topic_6">
+<data key="edgeid">41</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="lol" target="Topic_7">
+<data key="edgeid">42</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="lol" target="Topic_2">
+<data key="edgeid">43</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="scientists" target="Topic_9">
+<data key="edgeid">44</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="chris" target="Topic_4">
+<data key="edgeid">45</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="neil" target="Topic_7">
+<data key="edgeid">46</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="stop" target="Topic_3">
+<data key="edgeid">47</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="global" target="Topic_0">
+<data key="edgeid">48</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="shuttle" target="Topic_1">
+<data key="edgeid">49</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="night" target="Topic_5">
+<data key="edgeid">50</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="live" target="Topic_5">
+<data key="edgeid">51</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="landing" target="Topic_1">
+<data key="edgeid">52</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="proud" target="Topic_4">
+<data key="edgeid">53</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="money" target="Topic_3">
+<data key="edgeid">54</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="day">
+<data key="edgeid">55</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="scott">
+<data key="edgeid">56</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="birthday">
+<data key="edgeid">57</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="love">
+<data key="edgeid">58</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="tim">
+<data key="edgeid">59</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="good">
+<data key="edgeid">60</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="congratulations">
+<data key="edgeid">61</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="amazing">
+<data key="edgeid">62</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="great">
+<data key="edgeid">63</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="happy">
+<data key="edgeid">64</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="year">
+<data key="edgeid">65</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="luck">
+<data key="edgeid">66</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="safe">
+<data key="edgeid">67</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_4" target="home">
+<data key="edgeid">68</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="states" target="Topic_3">
+<data key="edgeid">69</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="beautiful" target="Topic_5">
+<data key="edgeid">70</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="photos" target="Topic_5">
+<data key="edgeid">71</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="real" target="Topic_9">
+<data key="edgeid">72</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="read" target="Topic_7">
+<data key="edgeid">73</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="countries" target="Topic_3">
+<data key="edgeid">74</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="photo" target="Topic_5">
+<data key="edgeid">75</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="thought" target="Topic_7">
+<data key="edgeid">76</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="thought" target="Topic_2">
+<data key="edgeid">77</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="flight" target="Topic_1">
+<data key="edgeid">78</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="word" target="Topic_6">
+<data key="edgeid">79</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="war" target="Topic_3">
+<data key="edgeid">80</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="movie" target="Topic_2">
+<data key="edgeid">81</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="people">
+<data key="edgeid">82</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="nasa">
+<data key="edgeid">83</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="american">
+<data key="edgeid">84</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="make">
+<data key="edgeid">85</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="pay">
+<data key="edgeid">86</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="world">
+<data key="edgeid">87</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="america">
+<data key="edgeid">88</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="planet">
+<data key="edgeid">89</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="human">
+<data key="edgeid">90</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_3" target="government">
+<data key="edgeid">91</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="free" target="Topic_6">
+<data key="edgeid">92</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="question" target="Topic_7">
+<data key="edgeid">93</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="program" target="Topic_1">
+<data key="edgeid">94</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="universe" target="Topic_9">
+<data key="edgeid">95</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="orbit" target="Topic_1">
+<data key="edgeid">96</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="creation" target="Topic_6">
+<data key="edgeid">97</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="atmosphere" target="Topic_0">
+<data key="edgeid">98</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="page" target="Topic_7">
+<data key="edgeid">99</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="things" target="Topic_9">
+<data key="edgeid">100</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="evidence" target="Topic_9">
+<data key="edgeid">101</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="warming" target="Topic_0">
+<data key="edgeid">102</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="climate">
+<data key="edgeid">103</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="weather">
+<data key="edgeid">104</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="planet">
+<data key="edgeid">105</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="surface">
+<data key="edgeid">106</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="life">
+<data key="edgeid">107</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="ocean">
+<data key="edgeid">108</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="carbon">
+<data key="edgeid">109</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="mars">
+<data key="edgeid">110</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="change">
+<data key="edgeid">111</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="sun">
+<data key="edgeid">112</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_0" target="sea">
+<data key="edgeid">113</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="pic" target="Topic_5">
+<data key="edgeid">114</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="lord" target="Topic_6">
+<data key="edgeid">115</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="mars" target="Topic_2">
+<data key="edgeid">116</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="mars" target="Topic_1">
+<data key="edgeid">117</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="good" target="Topic_2">
+<data key="edgeid">118</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="good" target="Topic_5">
+<data key="edgeid">119</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="big" target="Topic_2">
+<data key="edgeid">120</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="bible" target="Topic_6">
+<data key="edgeid">121</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="heavens" target="Topic_6">
+<data key="edgeid">122</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="fact" target="Topic_9">
+<data key="edgeid">123</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="view" target="Topic_5">
+<data key="edgeid">124</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="awesome">
+<data key="edgeid">125</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="nasa">
+<data key="edgeid">126</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="amazing">
+<data key="edgeid">127</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="love">
+<data key="edgeid">128</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="cool">
+<data key="edgeid">129</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="great">
+<data key="edgeid">130</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="picture">
+<data key="edgeid">131</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="null">
+<data key="edgeid">132</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="nice">
+<data key="edgeid">133</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="wow">
+<data key="edgeid">134</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_5" target="pictures">
+<data key="edgeid">135</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="people">
+<data key="edgeid">136</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="make">
+<data key="edgeid">137</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="life">
+<data key="edgeid">138</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="human">
+<data key="edgeid">139</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="scientific">
+<data key="edgeid">140</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="world">
+<data key="edgeid">141</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="science">
+<data key="edgeid">142</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="understand">
+<data key="edgeid">143</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="humans">
+<data key="edgeid">144</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="planet">
+<data key="edgeid">145</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_9" target="theory">
+<data key="edgeid">146</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="launch" target="Topic_1">
+<data key="edgeid">147</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="rocket" target="Topic_1">
+<data key="edgeid">148</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="comment" target="Topic_7">
+<data key="edgeid">149</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="make" target="Topic_2">
+<data key="edgeid">150</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="life" target="Topic_6">
+<data key="edgeid">151</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="day">
+<data key="edgeid">152</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="people">
+<data key="edgeid">153</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="allah">
+<data key="edgeid">154</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="holy">
+<data key="edgeid">155</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="world">
+<data key="edgeid">156</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="jesus">
+<data key="edgeid">157</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="sun">
+<data key="edgeid">158</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="christ">
+<data key="edgeid">159</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_6" target="heaven">
+<data key="edgeid">160</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="comments" target="Topic_7">
+<data key="edgeid">161</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="left" target="Topic_2">
+<data key="edgeid">162</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="star" target="Topic_2">
+<data key="edgeid">163</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="blue" target="Topic_2">
+<data key="edgeid">164</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="people" target="Topic_7">
+<data key="edgeid">165</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="book" target="Topic_7">
+<data key="edgeid">166</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="technology" target="Topic_1">
+<data key="edgeid">167</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="spacex">
+<data key="edgeid">168</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="nasa">
+<data key="edgeid">169</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="iss">
+<data key="edgeid">170</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="spacecraft">
+<data key="edgeid">171</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="moon">
+<data key="edgeid">172</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="mission">
+<data key="edgeid">173</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_1" target="apollo">
+<data key="edgeid">174</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="post">
+<data key="edgeid">175</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="nasa">
+<data key="edgeid">176</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="cool">
+<data key="edgeid">177</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="guy">
+<data key="edgeid">178</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="science">
+<data key="edgeid">179</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="check">
+<data key="edgeid">180</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="facebook">
+<data key="edgeid">181</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="tyson">
+<data key="edgeid">182</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_7" target="article">
+<data key="edgeid">183</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="curiosity" target="Topic_2">
+<data key="edgeid">184</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="rock" target="Topic_2">
+<data key="edgeid">185</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_2" target="cool">
+<data key="edgeid">186</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_2" target="love">
+<data key="edgeid">187</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_2" target="head">
+<data key="edgeid">188</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="Topic_2" target="moon">
+<data key="edgeid">189</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

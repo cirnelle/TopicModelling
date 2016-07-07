@@ -124,16 +124,16 @@ class CreateGraph():
 
 path_to_topic_composition_file = '../mallet_output/models/fb_posts_composition.txt'
 path_to_store_topic_composition_graph = "../GEPHI/graph_files/fb_posts_composition_raw.gexf"
-path_to_topic_keywords_file = '../mallet_output/models/fb_posts_keys.txt'
-path_to_store_topic_keywords_graph = '../GEPHI/graph_files/fb_posts_keys_raw.gexf'
+path_to_topic_keywords_file = '../mallet_output/models/facebook/fb_comments_replies_20160223_en_keys.txt'
+path_to_store_topic_keywords_graph = '../GEPHI/graph_files/fb_comments_replies_20160223_en_keys.gexf'
 
 
 if __name__ == '__main__':
 
     cg = CreateGraph()
 
-    cg.create_topic_composition_graph()
-    #cg.create_topic_keywords_graph()
+    #cg.create_topic_composition_graph()
+    cg.create_topic_keywords_graph()
 
 
 
