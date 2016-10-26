@@ -52,15 +52,15 @@ class PlotTopicGraph():
 
         print("Length of topic proportion dictionary is " + str(len(topic_proportion_dict)))
 
-        return date_list,topic_proportion_dict
+        #print (topic_proportion_dict)
+
+
+        return topic_proportion_dict
 
 
     def plot_topic_graph(self):
 
-        date_and_topic_lists = self.get_topic_proportions()
-
-        date_list = date_and_topic_lists[0]
-        topic_proportion_dict = date_and_topic_lists[1]
+        topic_proportion_dict = self.get_topic_proportions()
 
         ###################
         # create a dictionary with topic and the number of tweets that contain it
@@ -90,13 +90,36 @@ class PlotTopicGraph():
 
         #print (topic_count_dict)
 
-        #topic_list = [0,1,2,3,4,5,6,7,8,9]
-        topic_list = [0]
+        topic_list = [0,1,2,3,4,5,6,7,8,9]
+        #topic_list = [0]
         topic_names = ['0_astronomy_love','1_spacex_mars_mission','2_international_space_station',
-                       '3_astrobiology','4_??', '5_zodiac_sign_change','6_hurricane_matthews',
+                       '3_astrobiology','4_IRRELEVANT_sagittarius_horoscope', '5_zodiac_sign_change','6_hurricane_matthews',
                        '7_NASA_news','8_rosetta_mission_end','9_europa_plumes']
 
         for tl in topic_list:
+
+            if tl == 0:
+                topic_name = 'astronomy_love'
+            if tl == 1:
+                topic_name = 'spacex_mars_mission'
+            if tl == 2:
+                topic_name = 'ISS'
+            if tl == 3:
+                topic_name = 'astrobiology'
+            if tl == 4:
+                topic_name = 'horoscope_IRRELEVANT'
+            if tl == 5:
+                topic_name = 'zodiac_sign_change'
+            if tl == 6:
+                topic_name = 'hurricane_matthews'
+            if tl == 7:
+                topic_name = 'NASA_news'
+            if tl == 8:
+                topic_name = 'rosetta_mission_end'
+            if tl == 9:
+                topic_name = 'europa_plumes'
+
+            print (topic_name)
 
             dates = []
             counts = []
@@ -138,15 +161,15 @@ class PlotTopicGraph():
                 dates_x.append(dc[0])
                 counts_y.append(dc[1])
 
-            print (dates_x)
-            print (counts_y)
+            #print (dates_x)
+            #print (counts_y)
 
             secs = mdates.epoch2num(dates_x)
 
             fig, ax = plt.subplots()
 
             # Plot the date using plot_date rather than plot
-            ax.plot_date(secs, counts_y, linestyle='-', marker='*', label='Topic_'+str(tl))
+            ax.plot_date(secs, counts_y, linestyle='-', marker='*', label=topic_name)
 
             # Choose your xtick format string
             date_fmt = '%d-%m-%y'
@@ -192,5 +215,6 @@ if __name__ == '__main__':
     pt = PlotTopicGraph()
 
     #pt.get_topic_proportions()
+
     pt.plot_topic_graph()
 
